@@ -172,3 +172,41 @@ Blockly.JavaScript['demi_tour'] = function (block) {
     var code = 'cityMap.turn("R");cityMap.turn("R");\nawait sleep(500);\nif(!isPlaying) {return};\n';
     return code;
 };
+
+///////////////////////////////////////////////////////////////////
+
+Blockly.Blocks['intersection'] = {
+    init: function () {
+        this.appendDummyInput()
+            .appendField("intersection");
+        this.setOutput(true, "Boolean");
+        this.setColour(0);
+        this.setTooltip('Retourne VRAI si le robot arrive a une intersection');
+    }
+};
+
+Blockly.JavaScript['intersection'] = function (block) {
+    var code = 'cityMap.testCrossing()';
+    return [code, Blockly.JavaScript.ORDER_ATOMIC];
+};
+
+///////////////////////////////////////////////////////////////////
+Blockly.Blocks['jusque_intersection'] = {
+    init: function () {
+        this.appendDummyInput()
+            .appendField("Répéter jusqu'à l'intersection");
+        this.appendStatementInput("to_repeat")
+            .setCheck(null);
+        this.setPreviousStatement(true, null);
+        this.setNextStatement(true, null);
+        this.setColour(120);
+        this.setTooltip('Execute les blocs jusqu\'à l\'intersection');
+    }
+};
+
+Blockly.JavaScript['jusque_intersection'] = function (block) {
+    var statements_to_repeat = Blockly.JavaScript.statementToCode(block, 'to_repeat');
+
+    var code = 'do {\n' + statements_to_repeat + 'await sleep(100);\n} while(!cityMap.testCrossing() && isPlaying);\n';
+    return code;
+};
