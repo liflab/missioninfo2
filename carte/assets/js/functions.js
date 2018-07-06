@@ -268,6 +268,14 @@ function Map() {
         }
     };
 
+    this.testCrossing = function () {
+        let result =  (this.testTurn('L') && this.testTurn('F')
+            || (this.testTurn('R') && this.testTurn('F')))
+            || (this.testTurn('L') && this.testTurn('R'))
+            || (this.testTurn('L') && this.testTurn('R') && this.testTurn('F'));
+        return result;
+    };
+
     this.draw = function () {
         clear();
         background(255);
