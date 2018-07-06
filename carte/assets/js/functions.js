@@ -177,6 +177,68 @@ function Map() {
         }
     };
 
+    this.directionOriente2 = function (dir, orientation) {
+        if (dir === "N") {
+            if (orientation === "L") {
+                return "W";
+            }
+            else if (orientation === "R") {
+                return "E";
+            }
+            else if (orientation === "F") {
+                return "N";
+            }
+            else {
+                throw "Bad direction"
+            }
+        }
+        else if (dir === "S") {
+            if (orientation === "L") {
+                return "E";
+            }
+            else if (orientation === "R") {
+                return "W";
+            }
+            else if (orientation === "F") {
+                return "S";
+            }
+            else {
+                throw "Bad direction"
+            }
+        }
+        else if (dir === "W") {
+            if (orientation === "L") {
+                return "S";
+            }
+            else if (orientation === "R") {
+                return "N";
+            }
+            else if (orientation === "F") {
+                return "W";
+            }
+            else {
+                throw "Bad direction"
+            }
+        }
+        else if (dir === "E") {
+            if (orientation === "L") {
+                return "N";
+            }
+            else if (orientation === "R") {
+                return "S";
+            }
+            else if (orientation === "F") {
+                return "E";
+            }
+            else {
+                throw "Bad direction"
+            }
+        }
+        else {
+            throw "Bad direction"
+        }
+    };
+
     this.roadAvailable = function (dir) {
         var res = false;
 
@@ -215,7 +277,7 @@ function Map() {
     };
 
     this.testTurn = function (orientation) {
-        return this.roadAvailable(this.directionOriente(this.player.dir, orientation));
+        return this.roadAvailable(this.directionOriente2(this.player.dir, orientation));
     };
 
     this.turn = function (orientation) {
@@ -269,12 +331,10 @@ function Map() {
     };
 
     this.testCrossing = function () {
-        let result =  (this.testTurn('L') && this.testTurn('F')
-            || (this.testTurn('R') && this.testTurn('F')))
-            || (this.testTurn('L') && this.testTurn('R'))
-            || (this.testTurn('L') && this.testTurn('R') && this.testTurn('F'));
+        let result = (this.testTurn('L') && this.testTurn('R') && this.testTurn('F'));
         return result;
     };
+
 
     this.draw = function () {
         clear();
