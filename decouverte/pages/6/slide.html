@@ -4,7 +4,7 @@
 <head>
     <meta charset="utf-8">
 
-    <title>Microbit</title>
+    <title>Comment guider le robot</title>
 
     <meta name="author" content="Vincent PORTA-SCARTA">
 
@@ -18,93 +18,118 @@
 <body>
 
 <div class="reveal scrollable">
+
+    <!-- Any section element inside of this container is displayed as a slide -->
     <div class="slides">
         <section>
-            <h1>Micro:bit</h1>
-            <p>Qu’est-ce que c’est?</p>
-            <div style="width: 80vw; margin: 20px auto 0px auto; color:gray; border-width: thick; border: gray; border-style: dashed; border-radius: 25px; overflow: auto;">
-                <img class="plain" src="../../../assets/img/Livre.svg"
-                     style="height:20vh; float:left; margin-left: 5px;">
-                <p style="vertical-align: middle; height: 20vh; display: table-cell;margin:auto;padding: 15px 15px 15px 15px">
-                    <i>Utilise les flèches du clavier pour faire défiler le diaporama. N'hésite pas à poser des
-                        questions à l'animateur !</i></p>
-            </div>
+            <h2>Comment guider {ROBOT_NAME}?</h2>
         </section>
 
         <section>
-            <h2>Micro:bit</h2>
-            <h3>C’est un <span class="fragment highlight-red">micro-ordinateur</span>
-                à qui on peut donner des <span style="font-weight: bold"
-                                               class="fragment highlight-cyan">instructions</span>.
-            </h3>
+            <table style="height: 100%">
+                <col width="50%">
+                <col width="50%">
+                <tr>
+                    <td style="vertical-align: middle; border-bottom: 0">
+                        <img class="plain" src="../../assets/img/slides_p6/bg_1.png" style="height: 80vh;">
+                    </td>
+                    <td style="vertical-align: middle; border-bottom: 0">
+                        <p>
+                            Voici à quoi ressemble ta carte.
+                        </p>
+                        <p style="color: #43e000">
+                            Tu as une rose des vents qui t’indique l’orientation de la carte.
+                        </p>
+                        <p style="color: #0094ff">
+                            Tu as le trajet qui doit être accompli par {ROBOT_NAME}. Le segment vert avec le trésor
+                            indique
+                            le point d’arrivée.
+                        </p>
+                    </td>
+                </tr>
+            </table>
         </section>
 
         <section>
-            <h2>Micro:bit</h2>
-            <h3>Il est tout <span class="fragment highlight-blue">petit</span>,
-                mais on peut lui faire <span class="fragment highlight-orange">exécuter</span>
-                plein de choses.</h3>
+            <table style="height: 100%">
+                <col width="50%">
+                <col width="50%">
+                <tr>
+                    <td style="vertical-align: middle; border-bottom: 0">
+                        <img class="plain" src="../../assets/img/slides_p6/bg_2.png" style="height: 80vh;">
+                    </td>
+                    <td style="vertical-align: middle; border-bottom: 0">
+                        <p>
+                            {ROBOT_NAME} avance dans ce sens.
+                        </p>
+                    </td>
+                </tr>
+            </table>
         </section>
 
         <section>
-            <h2>Micro:bit</h2>
-            <h3>Tout au long de ton <span class="fragment highlight-green">aventure</span>
-                sur l’île de {ROBOT_NAME}, tu auras la chance de <span class="fragment highlight-purple">t’amuser</span>
-                avec Micro:Bit.</h3>
+            <table style="height: 100%">
+                <col width="50%">
+                <col width="50%">
+                <tr>
+                    <td style="vertical-align: middle; border-bottom: 0">
+                        <img class="plain" src="../../assets/img/slides_p6/bg_3.png" style="height: 80vh;">
+                    </td>
+                    <td style="vertical-align: middle; border-bottom: 0">
+                        <p>
+                            À chaque fois que tu utilises un bloc <img class="plain"
+                                                                       src="../../assets/img/slides_p6/bloc_avancer.png"
+                                                                       style="vertical-align: middle;">, {ROBOT_NAME}
+                            effectue un déplacement d’un espace vers un autre.
+                        </p>
+                    </td>
+                </tr>
+            </table>
         </section>
 
         <section>
-            <h3>Voici à quoi il ressemble</h3>
-            <img class="plain" data-src="../../assets/img/slides_p6/MICROBIT.png">
+            <table style="height: 100%">
+                <col width="50%">
+                <col width="50%">
+                <tr>
+                    <td style="vertical-align: middle; border-bottom: 0">
+                        <img class="plain" src="../../assets/img/slides_p6/bg.png" style="height: 80vh;">
+                    </td>
+                    <td style="vertical-align: middle; border-bottom: 0">
+                        <p>
+                            Tu peux indiquer à {ROBOT_NAME} de tourner vers l’un des points cardinaux (Nord, Sud, Est ou
+                            Ouest), à l’aide de ce bloc : <img class="plain"
+                                                               src="../../assets/img/slides_p6/bloc_direction.png"
+                                                               style="vertical-align: middle;"></p>
+                    </td>
+                </tr>
+            </table>
         </section>
 
         <section>
-            <h3>Il y a des lumières que tu peux programmer</h3>
-            <img class="plain" data-src="../../assets/img/slides_p6/LEDS.png">
+            <p>
+                Porte une attention particulière aux informations que {ROBOT_NAME} te donne.
+            </p>
+            <p>
+                Il peut parfois te donner un <span style="color:#ff4050">nombre maximum</span> de blocs que tu peux
+                utiliser.<br>
+                <span style="color:#0094ff">Exemple:</span> utilises maximum 6 blocs...
+            </p>
+            <img class="plain" src="../../../assets/img/Lettre.svg" style="height: 30vh;">
         </section>
 
         <section>
-            <h3>Les 2 boutons sont là pour que tu puisses faire des actions</h3>
-            <img class="plain" data-src="../../assets/img/slides_p6/BOUTONS.png">
+            <p>
+                Une dernière chose avant de me guider vers ma recharge.
+            </p>
+            <p>
+                Si tu fais une erreur, tu peux replacer {ROBOT_NAME} au point de départ avec ce bouton:
+            </p>
+            <img class="plain" src="../../assets/img/slides_p6/btn_effacer.png">
         </section>
 
         <section>
-            <h3>Tu peux même faire des branchements</h3>
-            <img class="plain" data-src="../../assets/img/slides_p6/PINS.png">
-        </section>
-
-        <section>
-            <h3>Voici ce qu'il y a au dos</h3>
-            <img class="plain" data-src="../../assets/img/slides_p6/DOS.png">
-        </section>
-
-        <section>
-            <h3>Il y a la prise USB pour le brancher sur l'ordinateur</h3>
-            <img class="plain" data-src="../../assets/img/slides_p6/USB.png">
-        </section>
-
-        <section>
-            <h3>Voici un bouton très important. Il permet de redémarrer le micro:bit</h3>
-            <img class="plain" data-src="../../assets/img/slides_p6/RESET.png">
-        </section>
-
-        <section>
-            <h3>Cet prise sert à brancher la batterie pour qu'il puisse fonctionner</h3>
-            <img class="plain" data-src="../../assets/img/slides_p6/BATT.png">
-        </section>
-
-        <section>
-            <h3>Voici ce que tu dois faire :</h3>
-            <ol>
-                <li class="fragment highlight-red">Appuie sur le bouton A (celui de gauche)</li>
-                <li class="fragment highlight-green">Appuie sur le bouton B (celui de droite)</li>
-                <li class="fragment highlight-blue">Appuie sur les 2 boutons en même temps</li>
-                <li class="fragment highlight-orange">Secoue doucement le micro:bit</li>
-            </ol>
-        </section>
-
-        <section>
-            <h2>Voilà pour le moment</h2>
+            <h2>A toi de jouer !</h2>
             <div style="width: 60vw; margin: 20px auto 0px auto; color:gray; border-width: thick; border: gray; border-style: dashed; border-radius: 25px; overflow: auto;">
                 <img class="plain" src="../../../assets/img/Content2.svg"
                      style="height:20vh; float:left; margin-left: 5px;">
