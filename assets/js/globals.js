@@ -145,11 +145,20 @@ function popupNotGood(opt_text) {
     });
 }
 
-function popupGood() {
+function popupGood(info_callback, text) {
+    if(info_callback === 1){
     bootbox.alert({
         message: '<div class="text-center">Bravo !!! Tu as réussi cette étape<br><br><img src="../../../assets/img/good.svg" alt="Robot goodface" height="200px"><br><br>Clique sur SUIVANT quand tu seras prêt pour la prochaine étape</div>',
-        backdrop: true
+        backdrop: true,
+        callback: function(){ popupInfo(text); }
     });
+    }
+    else if(info_callback == null){
+    bootbox.alert({
+        message: '<div class="text-center">Bravo !!! Tu as réussi cette étape<br><br><img src="../../../assets/img/good.svg" alt="Robot goodface" height="200px"><br><br>Clique sur SUIVANT quand tu seras prêt pour la prochaine étape</div>',
+        backdrop: true,
+    });
+    }
 }
 
 var info_text_saved = "";

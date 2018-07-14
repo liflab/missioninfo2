@@ -21,8 +21,8 @@ function checkAnswer() {
         bootbox.alert({
         message: '<div class="text-center"><p>Voici le texte que tu as affiché :</p><h3>'+ stringAnswer +'</h3></div>',
         backdrop: true,
-        callback: function(){ enable_next(); }
-        });
+        callback: function(){ enable_next(1); }
+    });
     }
     else {
         not_good();
