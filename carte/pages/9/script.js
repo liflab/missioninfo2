@@ -1,4 +1,4 @@
-popupInfo("\nCertains chemins sont sans issue maintenant. \nAttention ! Tu n'as le droit qu'à 5 blocs.");
+popupInfo("Parfois, il ne faut pas tout mettre dans le bloc vert !!! \n Aide robotino à se rendre jusqu’à la case verte. \n **Attention ! Tu n’as le droit qu’à 5 blocs.**");
 
 page_map = [
     {row: 2, col: 2, data: {style: "deb", type: 1}},

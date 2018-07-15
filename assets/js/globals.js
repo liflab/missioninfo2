@@ -163,7 +163,7 @@ function popupGood(info_callback, text) {
 
 var info_text_saved = "";
 
-function popupInfo(info_text, opt_line_red) {
+function popupInfo(info_text, opt_line_red, Noshow) {
     if(opt_line_red===undefined){
         opt_line_red = -1;
     }
@@ -173,12 +173,16 @@ function popupInfo(info_text, opt_line_red) {
     else {
         info_text_saved = info_text;
     }
-
+    if(Noshow===undefined){
     bootbox.alert({
         message: '<div class="text-center">' + displayInfo(info_text, true, opt_line_red) + '</div>',
         size: "xlarge",
         backdrop: true
     });
+    }
+    else {
+
+    }
 }
 
 function displayInfo(info_text, popup, opt_line_red) {
