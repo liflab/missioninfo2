@@ -47,7 +47,7 @@ function preload(){
 }
 function setup() {
     var canvas = createCanvas(axisWidthLength * pxUnit, axisHeightLength * pxUnit);
-    canvas.parent('sketch-holder');
+    canvas.parent('sketch-holder2');
     noLoop();
 
     reset(true);
