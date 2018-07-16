@@ -1,4 +1,4 @@
-popupInfo("Des nouveaux blocs sont là !!! \nTu disposes maintenant d'un GPS qui te dis si tu peux tourner\n à gauche, à droite ou rester tout droit.\nAttention ! Tu n'as le droit qu'à 5 blocs.");
+popupInfo("Aide Robotino à se rendre jusqu’à la case verte. \n Utilise la boucle afin de simplifier ton programme ! \n **Attention ! Tu n’as le droit qu’à 9 blocs !**");
 
 page_map = [
     {row: 7, col: 1, data: {style: "deb", type: 1}},

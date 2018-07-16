@@ -145,16 +145,25 @@ function popupNotGood(opt_text) {
     });
 }
 
-function popupGood() {
+function popupGood(info_callback, text) {
+    if(info_callback === 1){
     bootbox.alert({
         message: '<div class="text-center">Bravo !!! Tu as réussi cette étape<br><br><img src="../../../assets/img/good.svg" alt="Robot goodface" height="200px"><br><br>Clique sur SUIVANT quand tu seras prêt pour la prochaine étape</div>',
-        backdrop: true
+        backdrop: true,
+        callback: function(){ popupInfo(text); }
     });
+    }
+    else if(info_callback == null){
+    bootbox.alert({
+        message: '<div class="text-center">Bravo !!! Tu as réussi cette étape<br><br><img src="../../../assets/img/good.svg" alt="Robot goodface" height="200px"><br><br>Clique sur SUIVANT quand tu seras prêt pour la prochaine étape</div>',
+        backdrop: true,
+    });
+    }
 }
 
 var info_text_saved = "";
 
-function popupInfo(info_text, opt_line_red) {
+function popupInfo(info_text, opt_line_red, Noshow) {
     if(opt_line_red===undefined){
         opt_line_red = -1;
     }
@@ -164,12 +173,16 @@ function popupInfo(info_text, opt_line_red) {
     else {
         info_text_saved = info_text;
     }
-
+    if(Noshow===undefined){
     bootbox.alert({
         message: '<div class="text-center">' + displayInfo(info_text, true, opt_line_red) + '</div>',
         size: "xlarge",
         backdrop: true
     });
+    }
+    else {
+
+    }
 }
 
 function displayInfo(info_text, popup, opt_line_red) {

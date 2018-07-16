@@ -1,4 +1,4 @@
-popupInfo("\nUtilise plusieurs fois le bloc direction \npour faire des virages et arriver au bon endroit.");
+popupInfo("Fais avancer Robotino jusqu’à la case verte \n en utilisant le nouveau bloc : la boucle. \n **Attention, tu n’as le droit d’utiliser que deux blocs.**");
 
 page_map = [
     {row: 3, col: 2, data: {style: "deb", type: 1}},

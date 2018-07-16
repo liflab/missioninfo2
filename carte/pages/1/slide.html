@@ -26,66 +26,21 @@
         </section>
 
         <section>
-            <table style="height: 100%">
-                <col width="50%">
-                <col width="50%">
-                <tr>
-                    <td style="vertical-align: middle; border-bottom: 0">
-                        <img class="plain" src="../../assets/img/slides_p1/bg_1.png" style="height: 80vh;">
-                    </td>
-                    <td style="vertical-align: middle; border-bottom: 0">
-                        <p>
-                            Voici à quoi ressemble ta carte.
-                        </p>
-                        <p style="color: #43e000">
-                            Tu as une rose des vents qui t’indique l’orientation de la carte.
-                        </p>
-                        <p style="color: #0094ff">
-                            Tu as le trajet qui doit être accompli par {ROBOT_NAME}. Le segment vert avec le trésor
-                            indique
-                            le point d’arrivée.
-                        </p>
-                    </td>
-                </tr>
-            </table>
-        </section>
-
-        <section>
-            <table style="height: 100%">
-                <col width="50%">
-                <col width="50%">
-                <tr>
-                    <td style="vertical-align: middle; border-bottom: 0">
-                        <img class="plain" src="../../assets/img/slides_p1/bg_2.png" style="height: 80vh;">
-                    </td>
-                    <td style="vertical-align: middle; border-bottom: 0">
-                        <p>
-                            {ROBOT_NAME} avance dans ce sens.
-                        </p>
-                    </td>
-                </tr>
-            </table>
-        </section>
-
-        <section>
-            <table style="height: 100%">
-                <col width="50%">
-                <col width="50%">
-                <tr>
-                    <td style="vertical-align: middle; border-bottom: 0">
-                        <img class="plain" src="../../assets/img/slides_p1/bg_3.png" style="height: 80vh;">
-                    </td>
-                    <td style="vertical-align: middle; border-bottom: 0">
-                        <p>
-                            À chaque fois que tu utilises un bloc <img class="plain"
-                                                                       src="../../assets/img/slides_p1/bloc_avancer.png"
-                                                                       style="vertical-align: middle;">, {ROBOT_NAME}
-                            effectue un déplacement d’un espace vers un autre.
-                        </p>
-                    </td>
-                </tr>
-            </table>
-        </section>
+        <table style="height: 100%">
+            <col width="50%">
+            <col width="50%">
+            <tr>
+                <td style="vertical-align: middle; border-bottom: 0">
+                    <img class="plain" src="../../assets/img/slides_p1/bg.png" style="height: 80vh;">
+                </td>
+                <td style="vertical-align: middle; border-bottom: 0">
+                    <p>
+                        Le style des cartes est identique à celle de l'activité 1.
+                    </p>
+                </td>
+            </tr>
+        </table>
+    </section>
 
         <section>
             <table style="height: 100%">
@@ -97,29 +52,53 @@
                     </td>
                     <td style="vertical-align: middle; border-bottom: 0">
                         <p>
-                            Tu peux indiquer à {ROBOT_NAME} de tourner vers l’un des points cardinaux (Nord, Sud, Est ou
-                            Ouest), à l’aide de ce bloc : <img class="plain"
-                                                               src="../../assets/img/slides_p1/bloc_direction.png"
-                                                               style="vertical-align: middle;"></p>
+                            Tu devras utiliser les mêmes blocs que tu as utilisé dans l'activité 1 :
+                        </p>
+                        <p>
+                            Les blocs <img class="plain"
+                                                          src="../../assets/img/slides_p1/bloc_avancer.png"
+                                                          style="vertical-align: middle;">
+                            et <img class="plain"
+                                    src="../../assets/img/slides_p1/bloc_direction.png"
+                                    style="vertical-align: middle;">.
+                        </p>
                     </td>
                 </tr>
             </table>
         </section>
 
+
+        <section>
+            <h2>Voici une nouveauté</h2>
+        </section>
+
         <section>
             <p>
-                Ce bloc va pouvoir te servir à simplifier ton programme.
+                Dans cette activité, tu pourras utiliser un nouveau bloc, la boucle :
             </p>
             <img class="plain" src="../../assets/img/slides_p1/bloc_jusqua_fin.png">
             <p>
-                Tu peux placer à l’intérieur <span style="color:#ff4050">plusieurs actions</span> que {ROBOT_NAME}
-                pourra répéter <span style="color:#ff4050">jusqu’à ce qu’il arrive au trésor</span>.
+                La boucle te servira à regrouper des commandes comme dans l'activité À vos programmes.
             </p>
+        </section>
+
+        <section>
             <p>
-                <span style="color:#0094ff">Exemple:</span> Si tu places un bloc <img class="plain"
-                                                                                      src="../../assets/img/slides_p1/bloc_avancer.png"
-                                                                                      style="vertical-align: middle;"> à
-                l’intérieur, {ROBOT_NAME} avancera jusqu’à la fin.
+                Cela veut dire que les commandes que tu places à l'intérieur de la boucle seront lu <span style="color:blue;">à répétition </span> jusqu'à ce que {ROBOT_NAME} soit à l'endroit indiquer par le bloc.
+            </p>
+            <img class="plain" src="../../assets/img/slides_p1/bloc_jusqua_fin.png">
+            <p>
+                Pour ce bloc, cela veut dire que la boucle sera répétée jsqu'à temps que Robotino soit à l'arrivée.
+            </p>
+        </section>
+
+        <section>
+            <p>
+                Cela veut dire que les commandes que tu places à l'intérieur de la boucle seront lu <span style="color:blue;">à répétition </span> jusqu'à ce que {ROBOT_NAME} soit à l'<span style="color:red;">endroit indiquer par le bloc </span>.
+            </p>
+            <img class="plain" src="../../assets/img/slides_p1/bloc_jusqua_fin_2.png">
+            <p>
+                Pour ce bloc, cela veut dire que la boucle sera répétée jsqu'à temps que Robotino soit à <span style="color:red;">l'arrivée </span>.
             </p>
         </section>
 
@@ -137,7 +116,7 @@
 
         <section>
             <p>
-                Une dernière chose avant de partir à la chasse aux trésors.
+                Une dernière chose avant de partir en route vers l'antenne.
             </p>
             <p>
                 Si tu fais une erreur, tu peux replacer {ROBOT_NAME} au point de départ avec ce bouton:

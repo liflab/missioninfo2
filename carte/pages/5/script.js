@@ -1,4 +1,9 @@
-popupInfo("\nCelui là est plus dur !!! \nAttention ! Tu n'as le droit qu'à 5 blocs.");
+bootbox.alert({
+    message: '<div class="text-center">' + displayInfo("Maintenant, je vais t’apprendre à repérer qu’est-ce \n qui doit être placé dans une boucle. Commence \n par faire cette activité en utilisant seulement \n les blocs Avancer et Changer la direction.", true) + '</div>',
+    size: "xlarge",
+    backdrop: true,
+    callback: function(){popupInfo("\nFais ce niveau en utilisant seulement les blocs \n de déplacement Avancer et Changer la direction.",-1,1);}
+});
 
 page_map = [
     {row: 8, col: 8, data: {style: "deb", type: 3}},

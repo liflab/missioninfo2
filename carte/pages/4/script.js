@@ -1,4 +1,4 @@
-popupInfo("\nUtilise le nouveau bloc pour raccourcir ton programme. \nAttention ! Tu n'as le droit qu'à 2 blocs.");
+popupInfo("\nFais avancer Robotino jusqu’à la case verte. \n **Attention ! Tu ne peux utiliser qu’un maximum de 4 blocs.**");
 
 page_map = [
     {row: 4, col: 2, data: {style: "deb", type: 1}},

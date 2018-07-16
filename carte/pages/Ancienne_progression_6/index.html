@@ -56,7 +56,7 @@
         <div id="navbar" class="navbar-collapse collapse">
             <ul class="nav navbar-nav">
                 <li class="active"><a href="../../../index.html">Accueil</a></li>
-                <li><a href="#" onclick="showHelp('slide_aide.md')">Aide</a></li>
+                <li><a href="#" onclick="showHelp()">Aide</a></li>
             </ul>
             <p class="navbar-text navbar-right">⬅ N'hésite pas à afficher l'aide si tu es coincé</p>
         </div>
@@ -84,13 +84,28 @@
                 <button type="button" onclick="next_page();" id="btn_next_exercise" style="display: none"
                         class="btn btn-success btn-block"><span class="glyphicon glyphicon-ok"></span> SUIVANT
                 </button>
+                <button type="button" onclick="runCode();" id="btn_run" class="btn btn-success btn-block"><span
+                        class="glyphicon glyphicon-play"></span> DEMARRER
+                </button>
+                <button type="button" onclick="saveCode();" class="btn btn-info btn-block"><span
+                        class="glyphicon glyphicon-save"></span> SAUVEGARDER
+                </button>
+                <button type="button" onclick="reinitMap();" class="btn btn-danger btn-block"><span
+                        class="glyphicon glyphicon-trash"></span> EFFACER
+                </button>
             </div>
         </div>
     </div>
 
     <div class="container-fluid" id="bodyPage">
-        <object id="slide-holder" name="slide" onload="addEndListener()" type="text/html" data="slide.html"
-                style="height: 100%; width: 100%;"></object>
+        <div class="row">
+            <div class="col-sm-5" id="sketch-col">
+                <div id="sketch-holder"></div>
+            </div>
+            <div class="col-sm-7">
+                <object id="blockly-holder" name="blockly" type="text/html" data="blockly.html"></object>
+            </div>
+        </div>
     </div>
 </div>
 
