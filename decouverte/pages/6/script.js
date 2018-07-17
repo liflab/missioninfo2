@@ -8,4 +8,6 @@ function addEndListener() {
         writeToLog(activity, "Slide changed : " + Reveal.getProgress());
     } );
 }
+
+
 //------------------------------------------------//

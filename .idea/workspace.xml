@@ -2,82 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3267073c-2f17-401d-9fde-e3068604e327" name="Default" comment="&#10;Update (Découverte 6-7-8).">
-      <change afterPath="$PROJECT_DIR$/carte/assets/img/slides_p11/4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/carte/assets/img/slides_p11/4_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/carte/assets/img/slides_p11/4_3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/carte/assets/img/slides_p11/Boucle_arrivée.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/carte/assets/img/slides_p11/Boucle_arrivée_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/carte/assets/img/slides_p11/Boucle_intersection.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/carte/assets/img/slides_p11/Boucle_intersection_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/carte/assets/img/slides_p11/Boucle_intersection_arrivée.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/carte/assets/img/slides_p11/Boucle_onglet.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/carte/assets/img/slides_p11/Boucle_onglet_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/carte/assets/img/slides_p11/Exemple_map.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/carte/assets/img/slides_p11/bloc_jusqua_fin.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/carte/assets/img/slides_p11/player_E.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/carte/assets/img/slides_p11/player_N.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/carte/pages/11/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/carte/pages/11/slide.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/decouverte/assets/img/1_0.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/decouverte/assets/img/1_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/decouverte/assets/img/2_0.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/decouverte/assets/img/2_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/decouverte/assets/img/2_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/decouverte/assets/img/2_3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/decouverte/assets/img/3_0.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/decouverte/assets/img/3_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/decouverte/assets/img/3_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/decouverte/assets/img/3_3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/decouverte/assets/img/4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/decouverte/assets/img/cover_bg.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/decouverte/assets/img/cover_map.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/decouverte/assets/img/deb_0.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/decouverte/assets/img/deb_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/decouverte/assets/img/deb_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/decouverte/assets/img/deb_3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/decouverte/assets/img/fin_0.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/decouverte/assets/img/fin_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/decouverte/assets/img/fin_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/decouverte/assets/img/fin_3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/decouverte/assets/img/p9_bg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/decouverte/assets/img/player_E.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/decouverte/assets/img/player_N.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/decouverte/assets/img/player_S.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/decouverte/assets/img/player_W.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/decouverte/assets/img/tresor.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/architecture/assets/css/architecture.css" beforeDir="false" afterPath="$PROJECT_DIR$/architecture/assets/css/architecture.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/architecture/pages/10/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/architecture/pages/10/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/architecture/pages/11/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/architecture/pages/11/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/architecture/pages/11/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/architecture/pages/11/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/architecture/pages/12/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/architecture/pages/12/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/architecture/pages/12/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/architecture/pages/12/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/architecture/pages/13/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/architecture/pages/13/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/architecture/pages/2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/architecture/pages/2/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/architecture/pages/3/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/architecture/pages/3/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/architecture/pages/3/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/architecture/pages/3/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/architecture/pages/5/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/architecture/pages/5/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/architecture/pages/5/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/architecture/pages/5/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/architecture/pages/6/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/architecture/pages/6/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/architecture/pages/6/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/architecture/pages/6/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/architecture/pages/7/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/architecture/pages/7/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/architecture/pages/7/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/architecture/pages/7/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/architecture/pages/8/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/architecture/pages/8/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/architecture/pages/8/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/architecture/pages/8/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/globals.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/globals.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/carte/assets/img/p2_bg.png" beforeDir="false" afterPath="$PROJECT_DIR$/decouverte/assets/img/p7_bg.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/carte/assets/img/p3_bg.png" beforeDir="false" afterPath="$PROJECT_DIR$/decouverte/assets/img/p8_bg.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/carte/assets/img/slides_p6/Untitled.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/carte/assets/js/blocks.js" beforeDir="false" afterPath="$PROJECT_DIR$/carte/assets/js/blocks.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/carte/pages/1/slide.html" beforeDir="false" afterPath="$PROJECT_DIR$/carte/pages/1/slide.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/carte/pages/11/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/carte/pages/11/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/carte/pages/13/blockly.html" beforeDir="false" afterPath="$PROJECT_DIR$/carte/pages/13/blockly.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/carte/pages/2/blockly.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/carte/pages/2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/carte/pages/Ancienne_progression_11/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/carte/pages/2/script.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/carte/pages/3/blockly.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/carte/pages/3/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/carte/pages/3/script.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/decouverte/assets/js/functions.js" beforeDir="false" afterPath="$PROJECT_DIR$/decouverte/assets/js/functions.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/decouverte/pages/6/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/decouverte/pages/6/script.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/decouverte/pages/7/blockly.html" beforeDir="false" afterPath="$PROJECT_DIR$/decouverte/pages/7/blockly.html" afterDir="false" />
@@ -86,7 +11,6 @@
       <change beforePath="$PROJECT_DIR$/decouverte/pages/8/blockly.html" beforeDir="false" afterPath="$PROJECT_DIR$/decouverte/pages/8/blockly.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/decouverte/pages/8/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/decouverte/pages/8/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/decouverte/pages/8/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/decouverte/pages/8/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/bootstrap/css/bootstrap.css" beforeDir="false" afterPath="$PROJECT_DIR$/modules/bootstrap/css/bootstrap.css" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -118,11 +42,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="functions.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="functions.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/carte/assets/js/functions.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="7054">
               <caret line="448" column="1" lean-forward="true" selection-end-line="448" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="bootstrap.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/modules/bootstrap/css/bootstrap.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="168">
+              <caret line="6945" column="9" selection-start-line="6945" selection-start-column="9" selection-end-line="6945" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -337,17 +270,26 @@
       <updated>1531690063493</updated>
       <workItem from="1531690077747" duration="4906000" />
     </task>
+    <task id="LOCAL-00001" summary="&#10;Update (Découverte 6-7-8).">
+      <created>1531851143500</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1531851143500</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15830000" />
+    <option name="totallyTimeSpent" value="16091000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="936" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1796875" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1796875" />
       <window_info anchor="bottom" id="TODO" order="10" />
-      <window_info anchor="bottom" id="Messages" order="14" sideWeight="0.49934897" visible="true" weight="0.32928312" />
+      <window_info active="true" anchor="bottom" id="Messages" order="14" sideWeight="0.49934897" visible="true" weight="0.32928312" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5019531" side_tool="true" weight="0.5127582" />
       <window_info anchor="bottom" id="Version Control" order="12" sideWeight="0.49804688" weight="0.5127582" />
@@ -464,13 +406,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
           <caret line="17" column="10" lean-forward="true" selection-start-line="17" selection-start-column="10" selection-end-line="17" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modules/bootstrap/css/bootstrap.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="355">
-          <caret line="6946" column="1" lean-forward="true" selection-start-line="6946" selection-start-column="1" selection-end-line="6946" selection-end-column="1" />
         </state>
       </provider>
     </entry>
@@ -637,6 +572,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="7054">
           <caret line="448" column="1" lean-forward="true" selection-end-line="448" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/bootstrap/css/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="6945" column="9" selection-start-line="6945" selection-start-column="9" selection-end-line="6945" selection-end-column="9" />
         </state>
       </provider>
     </entry>
