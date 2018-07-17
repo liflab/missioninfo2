@@ -18,12 +18,8 @@ page_map = [
     {row: 4, col: 3, data: {style: "2", type: 0}},
     {row: 3, col: 3, data: {style: "2", type: 2}},
     {row: 3, col: 2, data: {style: "2", type: 0}},
-    {row: 2, col: 2, data: {style: "2", type: 2}},
-    {row: 2, col: 1, data: {style: "2", type: 0}},
-    {row: 1, col: 1, data: {style: "fin", type: 2}}
+    {row: 2, col: 2, data: {style: "fin", type: 2}}
 ];
-
-maxBlocks = 5;
 
 function setup() {
     var canvas = createCanvas(600, 600);
