@@ -56,6 +56,40 @@ Blockly.JavaScript['jusque_fin'] = function (block) {
     return code;
 };
 
+Blockly.Blocks['jusque_fin_2'] = {
+    init: function () {
+        this.appendDummyInput()
+            .appendField("Répéter jusqu'à l'")
+            .appendField(new Blockly.FieldDropdown([["arrivée", "A"], ["intersection", "I"]]), "shape_type");
+        this.appendStatementInput("to_repeat")
+            .setCheck(null);
+        this.setPreviousStatement(true, null);
+        this.setColour(120);
+        this.setTooltip('Execute les blocs jusqu\'à l\'arrivée');
+    }
+};
+
+Blockly.JavaScript['jusque_fin_2'] = function (block) {
+    var dropdown_shape_type = block.getFieldValue('shape_type');
+    console.log(dropdown_shape_type)
+
+    if(dropdown_shape_type == "intersection"){
+        var statements_to_repeat = Blockly.JavaScript.statementToCode(block, "to_repeat");
+        console.log(1)
+
+        var code = 'do {\n' + statements_to_repeat + 'await sleep(100);\n} while(!cityMap.testCrossing() && isPlaying);\n';
+        return code;
+    }
+
+    else {
+        var statements_to_repeat = Blockly.JavaScript.statementToCode(block, "to_repeat");
+        console.log(2)
+
+        var code = 'while(!cityMap.isFinished() && isPlaying) {\n' + statements_to_repeat + 'await sleep(100);\n};\n';
+        return code;
+    }
+};
+
 ///////////////////////////////////////////////////////////////////
 
 Blockly.Blocks['jusque_condition'] = {
@@ -191,22 +225,3 @@ Blockly.JavaScript['intersection'] = function (block) {
 };
 
 ///////////////////////////////////////////////////////////////////
-Blockly.Blocks['jusque_intersection'] = {
-    init: function () {
-        this.appendDummyInput()
-            .appendField("Répéter jusqu'à l'intersection");
-        this.appendStatementInput("to_repeat")
-            .setCheck(null);
-        this.setPreviousStatement(true, null);
-        this.setNextStatement(true, null);
-        this.setColour(120);
-        this.setTooltip('Execute les blocs jusqu\'à l\'intersection');
-    }
-};
-
-Blockly.JavaScript['jusque_intersection'] = function (block) {
-    var statements_to_repeat = Blockly.JavaScript.statementToCode(block, 'to_repeat');
-
-    var code = 'do {\n' + statements_to_repeat + 'await sleep(100);\n} while(!cityMap.testCrossing() && isPlaying);\n';
-    return code;
-};

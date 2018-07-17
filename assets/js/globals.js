@@ -146,6 +146,7 @@ function popupNotGood(opt_text) {
 }
 
 function popupGood(info_callback, text) {
+    //Permet de créer un popup qui vient après le texte de réussite du niveau. Il faut placer 1 comme deuxième paramètre //
     if(info_callback === 1){
     bootbox.alert({
         message: '<div class="text-center">Bravo !!! Tu as réussi cette étape<br><br><img src="../../../assets/img/good.svg" alt="Robot goodface" height="200px"><br><br>Clique sur SUIVANT quand tu seras prêt pour la prochaine étape</div>',
@@ -173,6 +174,7 @@ function popupInfo(info_text, opt_line_red, Noshow) {
     else {
         info_text_saved = info_text;
     }
+    //Si l'on veut changer l'info sans l'afficher à l'écran.//
     if(Noshow===undefined){
     bootbox.alert({
         message: '<div class="text-center">' + displayInfo(info_text, true, opt_line_red) + '</div>',

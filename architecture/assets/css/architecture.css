@@ -13,6 +13,12 @@
     display: table;
 }
 
+#sketch-holder2 {
+    float: left;
+    width: 100%;
+    display: table;
+}
+
 #blockly-holder {
     float: left;
     width: 100%;
@@ -47,6 +53,19 @@
     height: auto !important;
     display: table-cell;
     vertical-align: middle;
+    max-height: 498px;
+    max-width: 589px;
+}
+
+#sketch-holder2 canvas {
+    border-style:solid;
+    background:#eee;
+    width: 100% !important;
+    height: auto !important;
+    display: table-cell;
+    vertical-align: middle;
+    max-height: 473px;
+    max-width: 560px;
 }
 
 @-webkit-keyframes spin {
