@@ -64,6 +64,7 @@ Blockly.Blocks['jusque_fin_2'] = {
         this.appendStatementInput("to_repeat")
             .setCheck(null);
         this.setPreviousStatement(true, null);
+        this.setNextStatement(true, null);
         this.setColour(120);
         this.setTooltip('Execute les blocs jusqu\'à l\'arrivée');
     }

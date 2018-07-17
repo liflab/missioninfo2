@@ -450,7 +450,7 @@ function checkAnswer() {
 
 // Function execute when all things are loaded
 function allLoaded() {
-    createButtons(14);
+    createButtons(15);
     document.getElementById("loader").style.display = "none";
     document.getElementById("page").style.display = "block";
     autoResize();
