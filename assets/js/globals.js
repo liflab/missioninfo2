@@ -199,6 +199,8 @@ function displayInfo(info_text, popup, opt_line_red) {
     var svg_text = xmlHttp.responseText;
 
     var info_text_line = info_text.split("\n");
+    console.log(info_text_line)
+
 
     // Add custom text
     var svg_modify = svg_text;

@@ -6,7 +6,7 @@ const ROWS = 10;
 const DEBUG = false;
 
 // Globals variables
-var img_road_deb, img_road_1, img_road_2, img_road_3, img_road_4, img_road_fin, img_player, img_bg;
+var img_road_deb, img_road_1, img_road_2, img_road_3, img_road_4, img_road_roche, img_road_fin, img_player, img_bg;
 
 var answer;
 
@@ -39,6 +39,11 @@ function preload() {
         loadImage("../../assets/img/3_3.png")];
 
     img_road_4 = loadImage("../../assets/img/4.png");
+
+    img_road_roche = [loadImage("../../assets/img/roche_0.png"),
+        loadImage("../../assets/img/roche_1.png"),
+        loadImage("../../assets/img/roche_2.png"),
+        loadImage("../../assets/img/roche_3.png")];
 
     img_road_fin = [loadImage("../../assets/img/fin_0.png"),
         loadImage("../../assets/img/fin_1.png"),
@@ -360,6 +365,7 @@ function Map() {
                     }
                     else if (road.style === "1") {
                         image(img_road_1[road.type], col * (WIDTH / COLS), row * (HEIGHT / ROWS));
+                        console.log(img_road_1[road.type].width)
                     }
                     else if (road.style === "2") {
                         image(img_road_2[road.type], col * (WIDTH / COLS), row * (HEIGHT / ROWS));
@@ -369,6 +375,9 @@ function Map() {
                     }
                     else if (road.style === "4") {
                         image(img_road_4, col * (WIDTH / COLS), row * (HEIGHT / ROWS));
+                    }
+                    else if (road.style === "roche"){
+                        image(img_road_roche[road.type], col * (WIDTH / COLS), row * (HEIGHT / ROWS));
                     }
                     else if (road.style === "fin") {
                         image(img_road_fin[road.type], col * (WIDTH / COLS), row * (HEIGHT / ROWS));
@@ -437,7 +446,7 @@ function checkAnswer() {
         }
         else {
             bootbox.alert({
-                message: '<div class="text-center">Attention tu as mis trop de blocs!<br><h3>Il faut mettre au maximum : <strong>' + maxBlocks + '</strong> blocs.</h3><br><br><img src="../../../assets/img/bad.svg" alt="Robot badface" height="200px"></div>',
+                message: '<div class="text-center"><h3>Robotino s\'est rendu à l\'arrivée !</h3><br><h3>Par contre, une consigne n\'a pas été respectée. Alors appuie sur <span style="font-weight: bold">info</span> afin de vérifier.</h3><br><br><img src="../../../assets/img/bad.svg" alt="Robot badface" height="200px"></div>',
                 backdrop: true
             });
         }

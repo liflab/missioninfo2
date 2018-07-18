@@ -1,4 +1,4 @@
-popupInfo("Aide Robotino à se rendre jusqu’à la case verte. \n Utilise la boucle afin de simplifier ton programme ! \n **Attention ! Tu n’as le droit qu’à 9 blocs !**");
+popupInfo("Aide Robotino à se rendre jusqu’à la case verte. \n Utilise la boucle afin de simplifier ton programme ! \n **Attention ! Tu n’as le droit qu’à 5 blocs !**");
 
 page_map = [
     {row: 8, col: 8, data: {style: "deb", type: 3}},

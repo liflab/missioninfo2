@@ -74,7 +74,7 @@ Blockly.JavaScript['jusque_fin_2'] = function (block) {
     var dropdown_shape_type = block.getFieldValue('shape_type');
     console.log(dropdown_shape_type)
 
-    if(dropdown_shape_type == "intersection"){
+    if(dropdown_shape_type == "I"){
         var statements_to_repeat = Blockly.JavaScript.statementToCode(block, "to_repeat");
         console.log(1)
 
