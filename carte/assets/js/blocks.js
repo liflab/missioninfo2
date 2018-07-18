@@ -140,10 +140,10 @@ Blockly.JavaScript['virage_dir'] = function (block) {
 Blockly.Blocks['tresor'] = {
     init: function () {
         this.appendDummyInput()
-            .appendField("un trésor");
+            .appendField("une éclaire");
         this.setOutput(true, "Boolean");
         this.setColour(0);
-        this.setTooltip('Retourne VRAI si le robot se trouve sur un trésor');
+        this.setTooltip('Retourne VRAI si le robot se trouve sur une éclaire');
     }
 };
 
