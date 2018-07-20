@@ -127,6 +127,7 @@ function change_page(id_btn) {
     }
 }
 
+
 function next_page() {
     // Save num page in local storage
     window.localStorage.setItem("max_page_" + activity, Math.max(currentPageNumber + 1, savedPageNumber));
@@ -135,6 +136,10 @@ function next_page() {
 }
 
 //-----------------------UI : POPUP & INFO-----------------------//
+var listNumber; // référence pour popup list
+var infoPageRef;
+
+/*
 function popupNotGood(opt_text) {
     if(opt_text===undefined){
         opt_text = "";
@@ -144,7 +149,42 @@ function popupNotGood(opt_text) {
         backdrop: true
     });
 }
+*/
 
+function popupNotGood(opt_text) {
+
+
+
+    if(opt_text===undefined){
+        opt_text = "";
+
+        if(infoPageRef===currentPageNumber+activity) {
+            console.log(infoList.length);
+            if(listNumber < infoList.length-1){ // infoList est la liste qui conteint les strings à afficher à l'élève
+                listNumber++;
+            }
+
+            else{
+                listNumber = 0;
+            }
+
+        }
+
+        else{
+        infoPageRef = currentPageNumber+activity;
+        listNumber = 0;
+        }
+
+        opt_text = infoList[listNumber];
+    }
+
+
+
+    bootbox.alert({
+        message: '<div class="text-center">'+((opt_text.length>0)?(opt_text):('Il y a des erreurs. Essaie encore !'))+'<br><br><img src="../../../assets/img/bad.svg" alt="Robot badface" height="200px"></div>',
+        backdrop: true
+    });
+}
 function popupGood(info_callback, text) {
     //Permet de créer un popup qui vient après le texte de réussite du niveau. Il faut placer 1 comme deuxième paramètre //
     if(info_callback === 1){
