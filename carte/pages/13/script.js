@@ -1,4 +1,6 @@
-popupInfo("Ici, tu dois utiliser les deux boucles afin \n d’aider Robotino à se rendre jusqu’à l’arrivée ! \n Attention !!! Tu n’as le droit qu’à 7 blocs ! ");
+popupInfo("Ici, tu dois utiliser les deux boucles afin\n" +
+    "d’aider Robotino à se rendre jusqu’à l’arrivée \n" +
+    "Attention!!! Tu n’as le droit qu’à 7 blocs !\n");
 
 page_map = [
     {row: 4, col: 1, data: {style: "deb", type: 1}},
