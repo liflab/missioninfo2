@@ -196,31 +196,33 @@ function displayInfo(info_text, popup, opt_line_red) {
     xmlHttp.open("GET", "../../../assets/img/info.svg", false);
     xmlHttp.send(null);
 
-    var svg_text = xmlHttp.responseText;
+     var svg_text = xmlHttp.responseText;
 
     var info_text_line = info_text.split("\n");
-    console.log(info_text_line)
+    console.log(info_text_line);
 
-
-    // Add custom text
-    var svg_modify = svg_text;
-    for (var ligne = 0; ligne < 4; ligne++) {
-        if (typeof info_text_line[ligne] !== 'undefined') {
-            var color = "black";
-            if(opt_line_red==ligne+1){
-                color = "red";
-            }
-            svg_modify = svg_modify.replace("$c" + (ligne + 1) + "$", color);
-            svg_modify = svg_modify.replace("$text" + (ligne + 1) + "$", info_text_line[ligne].trim());
+    //New parser
+    let svgDom = xmlHttp.responseXML;
+    svgDom.getElementById("text7250").remove();
+    for (let i = 0; i < info_text_line.length; i++){
+        let color = "black";
+        if(opt_line_red==i+1) {
+            color = "red";
         }
-        else {
-            svg_modify = svg_modify.replace("$text" + (ligne + 1) + "$", "");
-        }
+            let new_line = document.createElement("text");
+            new_line.setAttribute("style", "fill:" + color + ";font-size:11.6024313px;text-align:center;text-anchor:middle;" +
+                "stroke-width:0.48343462px");
+            new_line.setAttribute("x", "-164.43625");
+            new_line.setAttribute("y", (250 + (15*i)).toString());
+            new_line.innerHTML = info_text_line[i];
+            svgDom.getElementById("g6378").appendChild(new_line);
     }
 
+
     // Return text or add it in html tree
+    let Serializer = new XMLSerializer();
     if (popup) {
-        return svg_modify;
+        return Serializer.serializeToString(svgDom) ;
     } else {
         var infos_html = document.getElementsByTagName("info");
         if (infos_html.length > 0) {
