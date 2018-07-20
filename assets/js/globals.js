@@ -154,30 +154,33 @@ function popupNotGood(opt_text) {
 function popupNotGood(opt_text) {
 
 
-
-    if(opt_text===undefined){
+try {
+    if (opt_text === undefined) {
         opt_text = "";
 
-        if(infoPageRef===currentPageNumber+activity) {
+        if (infoPageRef === currentPageNumber + activity) {
             console.log(infoList.length);
-            if(listNumber < infoList.length-1){ // infoList est la liste qui conteint les strings à afficher à l'élève
+            if (listNumber < infoList.length - 1) { // infoList est la liste qui conteint les strings à afficher à l'élève
                 listNumber++;
             }
 
-            else{
+            else {
                 listNumber = 0;
             }
 
         }
 
-        else{
-        infoPageRef = currentPageNumber+activity;
-        listNumber = 0;
+        else {
+            infoPageRef = currentPageNumber + activity;
+            listNumber = 0;
         }
 
         opt_text = infoList[listNumber];
     }
-
+}
+catch {
+    opt_text = "";
+}
 
 
     bootbox.alert({
