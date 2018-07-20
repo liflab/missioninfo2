@@ -1,4 +1,4 @@
-popupInfo("Enfin! Un programme qui affiche du texte. \n Ce programme va simplement afficher ce que tu as écrit dans le bloc.\n Pour cela, tu devras connecter le bloc AFFICHER au bloc de texte (vert) \n et remplir ce dernier avec du texte.")
+popupInfo("Enfin! Tu peux créer un programme qui va afficher du texte. \n Celui-ci va simplement afficher ce que tu as écrit dans le bloc.\n Pour cela, tu devras connecter le bloc AFFICHER au bloc de texte (vert) \n et écrire du texte dans ce dernier.")
 
 // To check the answer
 var stringAnswer;
