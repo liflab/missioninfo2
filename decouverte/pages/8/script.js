@@ -1,4 +1,4 @@
-popupInfo("Fais avancer et tourner Robotino, à l’aide  du bloc “avancer” \n et du bloc “changer la direction”, afin qu’il atteigne sa recharge. \n **Attention, tu n’as le droit d’utiliser que deux blocs.**");
+popupInfo("\nFais avancer et tourner Robotino, à l’aide  du bloc “avancer” \n et du bloc “changer la direction”, afin qu’il atteigne sa recharge.");
 
 page_map = [
     {row: 3, col: 2, data: {style: "deb", type: 1}},

@@ -1,4 +1,4 @@
-popupInfo("On va apprendre à utiliser l'aide. \n L'aide sera toujours présente si jamais tu es bloqué. Si jamais tu ne trouves \n pas ta réponse demande alors de l'aide aux animateurs. \n Utilise le bouton \"Aide\" en haut pour afficher l'aide.")
+popupInfo("Pour cette progression, nous allons apprendre à utiliser l'aide. \n L'aide sera toujours disponible si jamais tu es bloqué. Si l'aide ne t'aide \n pas à résoudre ton problème, va demander à un coéquipier ou à ton \nenseignant. Utilise le bouton \"Aide\", en haut à gauche, pour afficher l'aide.")
 
 // To check the answer
 var stringAnswer;
