@@ -1,4 +1,4 @@
-popupInfo("\nC'est la carte la plus difficile. Arriveras-tu à trouver le bon programme? \nAttention ! Tu n'as le droit qu'à 5 blocs.");
+popupInfo("\nFait avancer Robotino jusqu’à la case verte.\n **Attention! Tu as le droit à un maximum de 9 blocs.**");
 
 page_map = [
     {row: 4, col: 2, data: {style: "deb", type: 0}},
