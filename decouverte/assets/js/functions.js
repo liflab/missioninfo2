@@ -30,6 +30,7 @@ function save_code() {
     }
 }
 
+//fonction qui permet d'écrire du texte après la réussite du niveau 5.
 function enable_next(info_callback) {
     if(info_callback === 1){
         popupGood(1,"Oh non ! Ma batterie est presque vide ! \n Il faut que je me rende jusqu’à ma recharge. \n Par contre, tu devras me guider en créant un \n programme composé de commandes de déplacement.");
