@@ -10,6 +10,12 @@ page_map = [
     {row: 2, col: 5, data: {style: "fin", type: 2}}
 ];
 
+infoList = [
+    'Bonjour 1',
+    'Bonjour 2',
+    'Bonjour 3'
+]
+
 function setup() {
     var canvas = createCanvas(600, 600);
     canvas.parent('sketch-holder');
