@@ -1,4 +1,4 @@
-popupInfo("Ici, nous allons apprendre à assembler des blocs afin de créer un\n programme. Pour ce faire, utilise les deux blocs disponibles.\n Fais attention ! Les blocs doivent être placé dans un certain ordre.");
+popupInfo("Ici on va apprendre à assembler des blocs pour faire un programme. \n\n Utilise les deux blocs disponibles pour créer un programme, \n mais fais attention ils doivent être mis dans un certain ordre.");
 
 // To check the answer
 var stringAnswer;

@@ -1,5 +1,5 @@
 popupInfo("\n Fais avancer et tourner Robotino, jusqu’à la case verte, \n à l’aide du bloc \"avancer\" et du bloc \"changer\" la direction !");
-
+console.log(info_text_saved)
 
 page_map = [
     {row: 4, col: 2, data: {style: "deb", type: 1}},
