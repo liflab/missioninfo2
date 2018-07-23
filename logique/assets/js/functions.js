@@ -1,3 +1,4 @@
+//this site is using icons from https://icons8.com/icon/932/robot
 // Function execute when all things are loaded
 function allLoaded() {
     createButtons(7);
@@ -103,7 +104,8 @@ function checkAnswer() {
     }
 
     if(!res){
-        popupNotGood("Au moins un des objets n'est pas bien trié !");
+        //popupNotGood("Au moins un des objets n'est pas bien trié !");
+        popupNotGood();
         document.querySelector("#btn_run").style.display="block";
         document.querySelector("#btn_next_exercise").style.display="none";
         return;
