@@ -1,4 +1,4 @@
-popupInfo("Le but est de récupérer tous les trésors. \n Tu as le droit à autant de blocs que tu veux mais tu dois en utiliser \n le moins possible! Pour cela, tu as de nouveaux blocs! \n A toi de les découvrir.");
+popupInfo("\nIci, tu dois aider Robotino à se rendre jusqu'à l'antenne.\n **Attention, tu as le droit à un maximum de 18 blocs !**");
 
 page_map = [
     {row: 2, col: 0, data: {style: "deb", type: 1}},

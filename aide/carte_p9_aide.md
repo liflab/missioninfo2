@@ -1,8 +1,18 @@
-# Aide: Carte
+# Aide - Niveau 9
 
-Le fonctionnement est le même que pour la page précédente.
+---
 
-**<span style="color:blue;">Tu n’as pas besoin de passer dans tous les chemins. Tu dois seulement te rendre jusqu’à l’arrivée.</span>**
+Ce niveau est le même que le niveau 6, mais cette fois, tu peux utiliser la boucle !
+<br>![Avancer][Forward]<br>
+
+N'oublie pas, si tu as de la difficulté à trouver quoi mettre dans la boucle :
+
+<p style="text-align: center;font-weight: bold">1. Écrit le programme une fois sans utiliser de boucle</p>
+
+<p style="text-align: center;font-weight: bold">2. Repère le bout de code qui se répète</p>
+
+<p style="text-align: center;font-weight: bold">3. Place le bout de code une seule fois dans la boucle</p>
 
 
 ## <span style="color: #800080">À ton tour d'essayer</span>
+[Forward]: img/bloc_jusqua_fin.png

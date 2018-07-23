@@ -1,16 +1,15 @@
-# Aide: Carte
+# Aide - Niveau 4
 
-Tu dois utiliser la boucle et placer plusieurs commandes à l'intérieur pour réussir cette page.<br>
-![Répéter][repeat]<br>
+---
+
+Afin réussir ce niveau, tu dois placer plusieurs blocs à l'intérieur de la boucle :
+<br>![Répéter][repeat]<br>
 
 Les actions que tu places dans ce bloc sont répétées jusqu’à ce que Robotino arrive sur le point d’arrivée (vert).
 
-N'oublie pas, à chaque fois que le dernier bloc de la boucle a été lue, l'application vérifie si Robotino est à l'arrivée.
-
-S'il n'y est pas, l'application recommence à lire les commandes placées dans la boucle, de haut en bas.
+N'oublie pas, les commandes placées dans la boucle sont lues <span style="color:red">à répétition</span> jusqu'à ce que Robotino soit à l'arrivée.
 
 Au besoin, retourne voir la présentation de la page 1.
-
 
 ## <span style="color: #800080">À ton tour d'essayer</span>
 

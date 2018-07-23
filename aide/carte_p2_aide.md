@@ -1,4 +1,6 @@
-# Aide: Carte
+# Aide - Niveau 2
+
+---
 
 Dans cette page, tu dois effectuer des virages. Pour ce faire tu dois utiliser ce bloc : <br>
 ![ChangerDirection][bloc_changer_direction]<br>

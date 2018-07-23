@@ -1,10 +1,12 @@
-# Aide: Carte
+# Aide - Niveau 10
 
-Le fonctionnement est le même que pour la page précédente.
+---
 
-**<span style="color:red;">Maximum 5 blocs !</span>**
+Dans ce niveau, tu ne dois pas tout mettre ton code dans la boucle.
 
-**<span style="color:blue;">Tu n’as pas besoin de passer dans tous les chemins. Tu dois seulement te rendre jusqu’à l’arrivée.</span>**
+Ce qui veut dire qu'une partie de ton code ira au dessus de ta boucle :
 
+<br>![AvancerRépétition][ForwardRepeat]<br>
 
 ## <span style="color: #800080">À ton tour d'essayer</span>
+[ForwardRepeat]: img/carte_repeat_dessus.png
