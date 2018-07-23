@@ -1,30 +1,22 @@
-# Aide: Carte
+# Aide - Niveau 14
 
-### Cette page est un défi, tu vas devoir utiliser une combinaison des blocs qui sont disponibles.
+---
 
-N’hésite pas à tester plusieurs fois ton programme en cliquant sur `DEMARRER`.
+####Pour ce niveau, tu dois utiliser deux boucles !
 
-***
+---
 
-Tu as de nouveaux blocs comme ceux-ci :
+Ce qui veut dire que les deux boucles devront être imbriquées une par dessus l'autre, comme ceci :
 
-![Nouveaux blocs fin][blocs_fin]
-
-Ils te permettent de concevoir des actions jusqu’à une condition soit vraie (ex: jusqu'à un trésor ou encore jusqu'à ce qu'il y ait un chemin sur la droite).
-
-Ils s'utilisent comme ceci :
-
-![Ex nouveaux blocs fin][ex_blocs_fin]
-
-***
-
-Tu peux maintenant aussi faire un demi-tour.
-
-![Bloc demi tour][bloc_demitour]
-
-
+<table style="border: 1px;width: 60%;margin-left:22%">
+<tr>
+    <th><img src="img/carte_deux_boucles.png"></img></th>
+    <th style="vertical-align: top"><span style="color:blue">Ici, tu dois placer les commandes que Robotino doit répéter jusqu'à ce qu'il soit rendu à l'intersection</span>
+    <span style="color: red"><br>Ici, tu dois placer les commandes que Robotino doit répéter jusqu'à ce qu'il soit rendu à l'arrivée</span>
+    </th>
+</tr>
+</table>
+<br>
 ## <span style="color: #800080">À ton tour d'essayer</span>
 
-[blocs_fin]: img/carte_blocs_fin.png
-[ex_blocs_fin]: img/carte_ex_p12.png
-[bloc_demitour]: img/carte_bloc_demitour.png
+[deux_boucles]: img/carte_deux_boucles.png

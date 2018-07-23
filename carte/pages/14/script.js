@@ -1,4 +1,4 @@
-popupInfo("Aide Robotino à se rendre jusqu’à l’arrivée ! \n Attention !!! Tu n’as le droit qu’à 9 blocs");
+popupInfo("\nAide Robotino à se rendre jusqu’à l’arrivée ! \n Attention !!! Tu n’as le droit qu’à 9 blocs");
 
 page_map = [
     {row: 7, col: 1, data: {style: "deb", type: 1}},

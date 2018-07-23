@@ -17,6 +17,8 @@ bucketsExercise = {
 
 logicExercise = new LogicSystem(bucketsExercise);
 
+maxBlocks = 4;
+
 function setup() {
     var canvas = createCanvas(600, 600);
     canvas.parent('sketch-holder');
@@ -34,4 +36,5 @@ function _preload(){
     items.push({"img_url":"../../assets/img/body_other.png"  ,"shape":"body"   ,"color":"white"});
     items.push({"img_url":"../../assets/img/wheel.png"       ,"shape":"leg"    ,"color":"grey"});
     items.push({"img_url":"../../assets/img/human_head.png"  ,"shape":"head"   ,"color":"beige"});
+    items.push({"img_url":"../../assets/img/cylon_head.png", "shape":"head", "color":"blue"});
 }

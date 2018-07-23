@@ -177,6 +177,17 @@ Blockly.Workspace.prototype.getAllBlocks = function() {
   return blocks;
 };
 
+Blockly.Workspace.prototype.getSiFaireBlocks = function() {
+    var compteur = 0;
+    var blocks = this.getTopBlocks(false);
+    for (var i = 0; i < blocks.length; i++) {
+        blocks.push.apply(blocks, blocks[i].getChildren()); //Sers à avancer d'un bloc dans le workspace
+      if(blocks[i].type == "controls_if")
+       compteur = compteur + 1;
+    }
+    return compteur;
+};
+
 /**
  * Dispose of all blocks in workspace.
  */

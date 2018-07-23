@@ -1,22 +1,22 @@
-popupInfo("J'ai ma tête, mais il me manque mon petit chapeau, et mes yeux !\nMon chapeau est constitué de petits ronds oranges.\nMes yeux sont bleus, retrouves-les !\n**Utilises le bloc \"OU\" et le bloc \"ET\" !**",4);
+popupInfo("J'ai ma tête, mais je n'ai pas encore de corps ! Le problème, c’est que \n les bras, les mains et les corps sont mélangés avec plein d’objets inutiles.\nCommence par trier les bras, les mains et les corps des autres objets.\n **Utilise le bloc \"OU\" et un maximum de 3 blocs \"Si...Faire...\"!**", 4);
 
 required_box.push({"name":"OU","value":"||"});
-required_box.push({"name":"ET","value":"&&"});
 
 bucketsExercise = {
     elems: [
-        new TextShape("Chapeau ou Oeil", "#ffffff"),
-        new TextShape("Autre Oeil",      "#ffffff"),
-        new TextShape("Autre chapeau",   "#ffffff"),
+        new TextShape("Bras ou Main", "#ffffff"),
+        new TextShape("Corps", "#ffffff"),
+        new TextShape("Inutile", "#ffffff"),
     ],
     rules: [
-        "return item.shape == \"eye\" && item.color == \"#0000ff\" || item.shape == \"hat\" && item.color == \"#ffa500\";",
-        "return item.shape == \"eye\" && item.color != \"#0000ff\";",
-        "return item.shape == \"hat\" && item.color != \"#ffa500\";",
+        "return item.shape == \"arm\" || item.shape == \"hand\";",
+        "return item.shape == \"body\";",
+        "return item.shape == \"tool\" || item.shape == \"cable\";",
     ]
 };
 
 logicExercise = new LogicSystem(bucketsExercise);
+maxBlocks = 3;
 
 function setup() {
     var canvas = createCanvas(600, 600);
@@ -28,12 +28,12 @@ function setup() {
 }
 
 function _preload(){
-    items.push({"img_url":"../../assets/img/eye.png"             ,"shape":"eye"       ,"color":"#0000ff"});
-    items.push({"img_url":"../../assets/img/eye_white.png"       ,"shape":"eye"       ,"color":"#ffffff"});
-    items.push({"img_url":"../../assets/img/eye_green.png"       ,"shape":"eye"       ,"color":"#00ff00"});
-    items.push({"img_url":"../../assets/img/hat.png"             ,"shape":"hat"       ,"color":"#ffa500"});
-    items.push({"img_url":"../../assets/img/hat_red.png"         ,"shape":"hat"       ,"color":"#ff0000"});
-    items.push({"img_url":"../../assets/img/hat_graduation.png"  ,"shape":"hat"       ,"color":"#000000"});
-    items.push({"img_url":"../../assets/img/hat_blue.png"        ,"shape":"hat"       ,"color":"#0000ff"});
-
+    items.push({"img_url":"../../assets/img/arm.png"             ,"shape":"arm"       ,"color":"#ffa500"});
+    items.push({"img_url":"../../assets/img/electric.png"        ,"shape":"cable"   ,"color":"#2223ff"});
+    items.push({"img_url":"../../assets/img/hand.png"            ,"shape":"hand"      ,"color":"#ffffff"});
+    items.push({"img_url":"../../assets/img/screwdriver.png"     ,"shape":"tool"   ,"color":"#aaaaaa"});
+    items.push({"img_url":"../../assets/img/body.png"            ,"shape":"body"      ,"color":"#0000ff"});
+    items.push({"img_url":"../../assets/img/cable.png"           ,"shape":"cable"      ,"color":"#e0ac69"});
+    items.push({"img_url":"../../assets/img/body_other.png"      ,"shape":"body"      ,"color":"#c0c0c0"});
+    items.push({"img_url":"../../assets/img/wrench.png"          ,"shape":"tool"     ,"color":"#2223ff"});
 }

@@ -1,4 +1,4 @@
-popupInfo("Bravo pour avoir récupérer mes deux objets !\nIl faudrait cette fois trouver mon corps, mes bras et mes mains !\nJ'ai un corps bleu, des bras oranges et des mains blanches !\n**Utilises le bloc \"ET\" et le \"OU\" !**",4);
+popupInfo("Maintenant que nous avons classer les corps, les bras et les mains des\n autres objets, nous pouvons rechercher mes bras, mes mains et mon corps.\nJ'ai un corps bleu, des bras oranges et des mains blanches !\n**Utilises les bloc \"ET\"et \"OU\" et un maximum de trois blocs \"si...faire...\" !**",4);
 
 required_box.push({"name":"OU","value":"||"});
 required_box.push({"name":"ET","value":"&&"});

@@ -1,6 +1,6 @@
 // Function execute when all things are loaded
 function allLoaded() {
-    createButtons(7);
+    createButtons(8);
     document.getElementById("loader").style.display = "none";
     document.getElementById("page").style.display = "block";
     autoResize();
@@ -19,6 +19,7 @@ var items = [];
 var _items = [];
 
 var answers = [];
+var maxBlocks;
 
 var moving_interval;
 const NB_ITERATION_MOVING_ITEM = 30;
@@ -124,10 +125,19 @@ function checkAnswer() {
         }
     }
 
-    popupGood();
-    document.querySelector("#btn_run").style.display="none";
-    document.querySelector("#btn_next_exercise").style.display="block";
-    window.localStorage.setItem("max_page_logique", Math.max(currentPageNumber + 1, savedPageNumber));
+    if(maxBlocks === undefined || maxBlocks >= Blockly.getMainWorkspace().getSiFaireBlocks()){
+        popupGood();
+        document.querySelector("#btn_run").style.display="none";
+        document.querySelector("#btn_next_exercise").style.display="block";
+        window.localStorage.setItem("max_page_logique", Math.max(currentPageNumber + 1, savedPageNumber));
+    }
+    else {
+        bootbox.alert({
+            message: '<div class="text-center"><h3>Tous les blocs sont bien classés !</h3><br><h3>Par contre, une consigne n\'a pas été respectée. Alors appuie sur <span style="font-weight: bold">info</span> afin de vérifier.</h3><br><br><img src="../../../assets/img/bad.svg" alt="Robot badface" height="200px"></div>',
+            backdrop: true
+        });
+    }
+
 }
 
 function playAnim(func) {
@@ -165,7 +175,7 @@ function playAnimWorker(func) {
     }
     answers.push(is_allowed);
 
-    console.log(bucket_predicted+" => "+is_allowed);
+    //console.log(bucket_predicted+" => "+is_allowed);
 
 
     var w = item.img.width;
