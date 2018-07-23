@@ -2,8 +2,10 @@
 
 ---
 
-Afin réussir ce niveau, tu dois placer plusieurs blocs à l'intérieur de la boucle :
-<br>![Répéter][repeat]<br>
+####Afin réussir ce niveau, tu dois placer plusieurs blocs à l'intérieur de la boucle :
+![Répéter][repeat]
+
+---
 
 Les actions que tu places dans ce bloc sont répétées jusqu’à ce que Robotino arrive sur le point d’arrivée (vert).
 

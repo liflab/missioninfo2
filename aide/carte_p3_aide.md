@@ -2,8 +2,10 @@
 
 ---
 
-Pour ce niveau, tu dois utiliser ce bloc : <br>
+####Pour ce niveau, tu dois utiliser ce bloc : <br>
 ![ChangerDirection][bloc_changer_direction]<br>
+
+---
 
 Les commandes placées à l’intérieur de la boucle seront répétées tant que Robotino ne sera pas à l’arrivée.
 
