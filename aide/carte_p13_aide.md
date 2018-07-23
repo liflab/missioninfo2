@@ -1,10 +1,12 @@
-# Aide: Carte
+# Aide - Niveau 13
 
-### Cette page est un défi, tu vas devoir utiliser une combinaison des blocs qui sont disponibles.
+---
+
+####Pour ce niveau, tu dois utiliser deux boucles !
+
+---
 
 N’hésite pas à tester plusieurs fois ton programme en cliquant sur `DEMARRER`.
-
-***
 
 Tu as de nouveaux blocs comme ceux-ci :
 

@@ -2,19 +2,26 @@
 
 ---
 
-N'oublie pas tout tes trucs en lien avec les boucles afin de réussir le niveau !
+####N'oublie pas tout tes trucs en lien avec les boucles afin de réussir le niveau !
 
-Quelque fois, il faut mettre du code à l'extérieur la boucle :
+---
 
-<br>![AvancerRépétition][ForwardRepeat]<br>
+<ul style="text-align:center;list-style-position:inside;margin-right:5%">
+<li>Parfois, il faut mettre du code à l'extérieur la boucle :</li>
+</ul>
+![AvancerRépétition][ForwardRepeat]
 
-Étape afin de repérer les bouts de codes répétitifs :
+<ul style="text-align:center;list-style-position:inside;margin-right:5%">
+<li>Étape afin de repérer les bouts de codes répétitifs :</li>
+</ul>
 
-<p style="text-align: center;font-weight: bold">1. Écrit le programme une fois sans utiliser de boucle</p>
+<ol>
+    <li style="margin-right: 5%;list-style-position: inside;text-align: center;font-weight: bold">Écrit le programme une fois sans utiliser de boucle</p></li>
+    <li style="margin-right: 14.35%;list-style-position: inside;text-align: center;font-weight: bold">Repère le bout de code qui se répète</p></li>
+    <li style="margin-right: 4.75%;list-style-position: inside;text-align: center;font-weight: bold">Place le bout de code une seule fois dans la boucle</p></li>
+</ol>
 
-<p style="text-align: center;font-weight: bold">2. Repère le bout de code qui se répète</p>
 
-<p style="text-align: center;font-weight: bold">3. Place le bout de code une seule fois dans la boucle</p>
 
 ## <span style="color: #800080">À ton tour d'essayer</span>
 [ForwardRepeat]: img/carte_repeat_dessus.png

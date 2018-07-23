@@ -2,7 +2,11 @@
 
 ---
 
-Dans cette page, tu dois effectuer des virages. Pour ce faire tu dois utiliser ce bloc : <br>
+####Dans cette page, tu dois effectuer des virages.
+
+---
+
+Pour ce faire, tu dois utiliser ce bloc : <br>
 ![ChangerDirection][bloc_changer_direction]<br>
 
 Sert toi de la rose des vents pour savoir dans quelle direction tu dois aller.<br>
