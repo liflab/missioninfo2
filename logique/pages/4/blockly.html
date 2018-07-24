@@ -21,12 +21,15 @@
 <xml id="toolbox" style="display: none;">
     <block type="controls_if"></block>
     <block type="logic_operation" inline="false">
-        <field name="OP">ou</field>
+        <field name="OP">AND</field>
     </block>
     <!--
     <block type="logic_negate"></block>-->
     <block type="test_shape">
-        <field name="shape_type">arm</field>
+        <field name="shape_type">rounded</field>
+    </block>
+    <block type="test_color">
+        <field name="shape">#2223ff</field>
     </block>
     <block type="bucket">
         <field name="bucket_idx">0</field>

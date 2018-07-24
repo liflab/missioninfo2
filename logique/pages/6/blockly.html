@@ -12,35 +12,89 @@
     <link href="../../assets/css/blockly.css" rel="stylesheet">
 
     <script>
-        Blockly.FieldColour.COLOURS = ['#0000ff', '#ffffff','#ffa500'];
+        Blockly.FieldColour.COLOURS = ['red', 'blue','green'];
         Blockly.FieldColour.COLUMNS = 3;
     </script>
 </head>
 
-<body onload="initBlockly(1.0,true,false)">
-<xml id="toolbox" style="display: none;">
-    <block type="controls_if"></block>
-    <block type="logic_operation" inline="false">
-        <field name="OP">OR</field>
-    </block>
-    <block type="logic_operation" inline="false">
-        <field name="OP">AND</field>
-    </block>
-    <!--
-    <block type="logic_negate"></block>-->
-    <block type="test_shape">
-        <field name="shape_type">eye</field>
-    </block>
-    <block type="test_color">
-        <field name="shape">#0000ff</field>
-    </block>
-    <block type="bucket">
-        <field name="bucket_idx">0</field>
-    </block>
-</xml>
-</xml>
+<body onload="initBlockly(1.0,false,true)">
+<!--<xml id="toolbox" style="display: none;">-->
+    <!--<block type="controls_if" ></block>-->
+    <!--<block type="logic_operation" inline="false">-->
+        <!--<field name="OP">ou</field>-->
+    <!--</block>-->
+    <!--<block type="test_shape">-->
+        <!--<field name="shape_type">eye</field>-->
+    <!--</block>-->
+    <!--<block type="bucket">-->
+        <!--<field name="bucket_idx">1</field>-->
+    <!--</block>-->
+    <!--<block type="test_color">-->
+        <!--<field name="shape">red</field>-->
+    <!--</block>-->
+<!--</xml>-->
 
 <xml id="workspace" style="display: none">
+    <block type="controls_if" movable="false" id="`Q{e`H0Vbqp{t9v~1#`S" x="61" y="35">
+        <value name="IF0">
+            <block type="logic_operation" movable="false" id="mbiCy{GNUxKRrN2?b%@c" inline="false">
+                <field name="OP">AND</field>
+                <value name="A">
+                    <block type="test_shape" movable="false" id="vAz/f~#7m0D*`*-sJyap">
+                        <field name="shape_type">rocket</field>
+                    </block>
+                </value>
+                <value name="B">
+                    <block type="test_color" movable="false" id="m_I/xO}2IzQW!QbaWifd">
+                        <field name="shape">red</field>
+                    </block>
+                </value>
+            </block>
+        </value>
+        <statement name="DO0">
+            <block type="bucket" movable="false" id="f6I8(YB$EZ%`;g|teK$R">
+                <field name="bucket_idx">0</field>
+            </block>
+        </statement>
+        <next>
+            <block type="controls_if" movable="false" id="`W#Z=Rp=5]:a^4;xQ0UX">
+                <value name="IF0">
+                    <block type="test_shape" movable="false" id="I3l@h1mGFqq+5O;@VCnq">
+                        <field name="shape_type">tool</field>
+                    </block>
+                </value>
+                <statement name="DO0">
+                    <block type="bucket" movable="false" id="|q4FA![UTdEARG0F`oJ`">
+                        <field name="bucket_idx">1</field>
+                    </block>
+                </statement>
+                <next>
+                    <block type="controls_if" movable="false" id="B?%Xd)J!KSy|aWa%US3,">
+                        <value name="IF0">
+                            <block type="logic_operation" movable="false" id="JL5o2V!c-[~B,8z~G44c" inline="false">
+                                <field name="OP">AND</field>
+                                <value name="A">
+                                    <block type="test_shape" movable="false" id="U@:|AOH,!fBYAG1zw?YH">
+                                        <field name="shape_type">rocket</field>
+                                    </block>
+                                </value>
+                                <value name="B">
+                                    <block type="test_shape" movable="false" id="}1`z(A6w)(dg04;XMso$">
+                                        <field name="shape_type">tool</field>
+                                    </block>
+                                </value>
+                            </block>
+                        </value>
+                        <statement name="DO0">
+                            <block type="bucket" movable="false" id="pxWx]u6oO!Qu-HQsVn5V">
+                                <field name="bucket_idx">2</field>
+                            </block>
+                        </statement>
+                    </block>
+                </next>
+            </block>
+        </next>
+    </block>
 </xml>
 
 </body>

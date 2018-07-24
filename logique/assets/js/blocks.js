@@ -7,26 +7,42 @@ switch(parseInt(window.location.href.match(new RegExp("[0-9]+", "g")).splice(-1)
         put_in_bucket  = [["Tête", "0"], ["Bras", "1"], ["Corps", "2"], ["Roue", "3"]];
     break;
     case 3:
+        shape_per_page = [["Roue", "wheel"], ["Corps", "body"]];
+        put_in_bucket  = [["Roue","0"],["Corps","1"]];
+        break;
+    case 4:
         shape_per_page = [["Arrondi", "rounded"], ["Ovale", "oval"]];
         put_in_bucket  = [["Bleu Arrondi","0"],["Bleu Oval", "1"],["Gris","2"],["Beige","3"]];
     break;
-    case 4:
+    case 5:
         shape_per_page = [["Bras", "arm"], ["Main", "hand"], ["Corps", "body"], ["Outil", "tool"], ["Fil", "cable"]];
         put_in_bucket  = [["Bras ou Main","0"],["Corps", "1"],["Inutile","2"]];
         break;
-    case 5:
+    case 6:
+        shape_per_page = [["Fusée","rocket"],["Oeil","eye"], ["Outil", "tool"]];
+        put_in_bucket  = [["Fusée rouge", "0"], ["Oeil", "1"], ["Inutile", "2"]];
+    break;
+    case 7:
+        shape_per_page = [["Bras","arm"],["Chapeau","hat"]];
+        put_in_bucket  = [["Bras bleu", "0"], ["Bras rouge", "1"], ["Inutile", "2"]];
+    break;
+    case 8:
         shape_per_page = [["Bras", "arm"], ["Main", "hand"], ["Corps", "body"]];
         put_in_bucket  = [["Bras ou Main","0"],["Corps Bleu","1"],["Autre Corps","2"]];
-        break;
-    case 6:
+    break;
+    case 9:
         shape_per_page = [["Oeil", "eye"], ["Chapeau", "hat"]];
         put_in_bucket  = [["Chapeau ou Oeil","0"],["Autre Oeil","1"],["Autre chapeaux","2"]];
     break;
-
-    case 7:
+    case 10:
         shape_per_page = [["Fusée", "prop"], ["Roue", "wheel"], ["Chapeau", "hat"]];
         put_in_bucket  = [["Roue ou Fusée","0"],["Collection","1"],["Inutile","2"]];
     break;
+    case 11:
+        shape_per_page = [["Tête", "head"], ["Oeil", "eye"]];
+        put_in_bucket  = [["Têtes","0"],["Yeux","1"],["Inutile","2"]];
+    break;
+
 }
 
 Blockly.Blocks['test_shape'] = {

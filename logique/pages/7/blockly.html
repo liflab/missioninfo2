@@ -12,35 +12,104 @@
     <link href="../../assets/css/blockly.css" rel="stylesheet">
 
     <script>
-        Blockly.FieldColour.COLOURS = ['#0000ff', '#ffffff','#ffa500'];
-        Blockly.FieldColour.COLUMNS = 3;
+        Blockly.FieldColour.COLOURS = ['blue', 'red'];
+        Blockly.FieldColour.COLUMNS = 2;
     </script>
 </head>
 
-<body onload="initBlockly(1.0,true,false)">
-<xml id="toolbox" style="display: none;">
-    <block type="controls_if"></block>
-    <block type="logic_operation" inline="false">
-        <field name="OP">OR</field>
-    </block>
-    <block type="logic_operation" inline="false">
-        <field name="OP">AND</field>
-    </block>
-
-    <block type="logic_negate"></block>
-    <block type="test_shape">
-        <field name="shape_type">prop</field>
-    </block>
-    <block type="test_color">
-        <field name="shape">#0000ff</field>
-    </block>
-    <block type="bucket">
-        <field name="bucket_idx">0</field>
-    </block>
-</xml>
-</xml>
+<body onload="initBlockly(1.0,false,true)">
+<!--<xml id="toolbox" style="display: none;">-->
+    <!--<block type="controls_if"></block>-->
+    <!--<block type="logic_operation" inline="false">-->
+        <!--<field name="OP">OR</field>-->
+    <!--</block>-->
+    <!--<block type="logic_operation" inline="false">-->
+        <!--<field name="OP">AND</field>-->
+    <!--</block>-->
+    <!--&lt;!&ndash;-->
+    <!--<block type="logic_negate"></block>&ndash;&gt;-->
+    <!--<block type="test_shape">-->
+        <!--<field name="shape_type">arm</field>-->
+    <!--</block>-->
+    <!--<block type="test_color">-->
+        <!--<field name="shape">red</field>-->
+    <!--</block>-->
+    <!--<block type="bucket">-->
+        <!--<field name="bucket_idx">0</field>-->
+    <!--</block>-->
+<!--</xml>-->
 
 <xml id="workspace" style="display: none">
+    <block type="controls_if" id="$c85Un55d+JdxsFk#$((" x="297" y="32">
+        <value name="IF0">
+            <block type="logic_operation" id="#krJFf6iB3=U|5ymSJz*" inline="false">
+                <field name="OP">OR</field>
+                <value name="A">
+                    <block type="test_shape" id="}nIZnmzVBbTPWS=iYoqt">
+                        <field name="shape_type">arm</field>
+                    </block>
+                </value>
+                <value name="B">
+                    <block type="test_color" id="+GAA_q(`i_U$yYl!,HoR">
+                        <field name="shape">#0000ff</field>
+                    </block>
+                </value>
+            </block>
+        </value>
+        <statement name="DO0">
+            <block type="bucket" id="mQqGd]?$J8wSQ~F}l:|F">
+                <field name="bucket_idx">0</field>
+            </block>
+        </statement>
+        <next>
+            <block type="controls_if" id="h4`F/FC#k9e`_LCcZwSx">
+                <value name="IF0">
+                    <block type="logic_operation" id="URRU[(~+q]idq-uAnQC3" inline="false">
+                        <field name="OP">AND</field>
+                        <value name="A">
+                            <block type="test_shape" id="8wWN79tV#:+#O867~nr+">
+                                <field name="shape_type">arm</field>
+                            </block>
+                        </value>
+                        <value name="B">
+                            <block type="test_color" id="eXFr}8Z7G3]EO`X5k!FR">
+                                <field name="shape">red</field>
+                            </block>
+                        </value>
+                    </block>
+                </value>
+                <statement name="DO0">
+                    <block type="bucket" id="ZE4hVKh@o}6~5]`_`xaS">
+                        <field name="bucket_idx">1</field>
+                    </block>
+                </statement>
+                <next>
+                    <block type="controls_if" id="m;mlzIdRC0;zz?H59;1i">
+                        <value name="IF0">
+                            <block type="logic_operation" id="aVU[YW:sH9ZLUPR%a8`B" inline="false">
+                                <field name="OP">AND</field>
+                                <value name="A">
+                                    <block type="test_shape" id="_t;1pOXI+CgOY!!HZ`4j">
+                                        <field name="shape_type">arm</field>
+                                    </block>
+                                </value>
+                                <value name="B">
+                                    <block type="test_shape" id="Pf(Fj8jo]A[G?J!*2u[Y">
+                                        <field name="shape_type">hat</field>
+                                    </block>
+                                </value>
+                            </block>
+                        </value>
+                        <statement name="DO0">
+                            <block type="bucket" id="dsh0mFdwj%sUm9@Omhok">
+                                <field name="bucket_idx">2</field>
+                            </block>
+                        </statement>
+                    </block>
+                </next>
+            </block>
+        </next>
+    </block>
 </xml>
 
 </body>
