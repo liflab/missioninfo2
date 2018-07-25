@@ -1,4 +1,4 @@
-popupInfo("Pourrais-tu m’aider à corriger le code de cette dernière machine ?\n Celle-ci est censée classer les têtes rouges et vertes dans le seau “tête”,\n les yeux rouges et verts dans le seau “yeux” et le reste dans le seau “inutile”.\n À toi de corriger ma dernière machine dysfonctionnelle !\n",4);
+popupInfo("Pourrais-tu m’aider à corriger le code de cette dernière machine ?\n Celle-ci est censée classer les têtes rouges et vertes dans le seau “têtes”,\n les yeux rouges et verts dans le seau “yeux” et le reste dans le seau “inutile”.\n À toi de corriger ma dernière machine dysfonctionnelle !\n",4);
 
 bucketsExercise = {
     elems: [
