@@ -153,34 +153,33 @@ function popupNotGood(opt_text) {
 
 function popupNotGood(opt_text) {
 
+    try {//  si infoListe n'existe pas, il sera retourné une erreur
+        if (opt_text === undefined) {
+            opt_text = "";
 
-try {
-    if (opt_text === undefined) {
-        opt_text = "";
-
-        if (infoPageRef === currentPageNumber + activity) {
+            if (infoPageRef === currentPageNumber + activity) { // indice de comparaison de l'activité
             console.log(infoList.length);
-            if (listNumber < infoList.length - 1) { // infoList est la liste qui conteint les strings à afficher à l'élève
-                listNumber++;
+                if (listNumber < infoList.length - 1) { // infoList est la liste qui conteint les strings à afficher à l'élève
+                    listNumber++;
+                }
+
+                else {
+                    listNumber = 0;
+                }
+
             }
 
             else {
+                infoPageRef = currentPageNumber + activity;
                 listNumber = 0;
             }
 
+            opt_text = infoList[listNumber];
         }
-
-        else {
-            infoPageRef = currentPageNumber + activity;
-            listNumber = 0;
-        }
-
-        opt_text = infoList[listNumber];
     }
-}
-catch {
-    opt_text = "";
-}
+    catch {
+        opt_text = "";
+    }
 
 
     bootbox.alert({
