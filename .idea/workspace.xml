@@ -6,49 +6,13 @@
     <bookmark url="file://$PROJECT_DIR$/carte/pages/1/index.html" line="32" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="47ee82bd-6162-43ee-8cee-452673eb3d62" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/animation/assets/img/diplome.svg" beforeDir="false" afterPath="$PROJECT_DIR$/animation/assets/img/diplome.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/architecture/pages/14/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/architecture/pages/14/index.html" afterDir="false" />
+    <list default="true" id="47ee82bd-6162-43ee-8cee-452673eb3d62" name="Default" comment="Merge branch 'master' of https://github.com/squidlydeadly/missioninfo&#10;&#10;# Conflicts:&#10;#&#9;assets/js/globals.js&#10;#&#9;logique/pages/3/script.js">
+      <change beforePath="$PROJECT_DIR$/aide/logique_p3_aide.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aide/logique_p4_aide.md" beforeDir="false" afterPath="$PROJECT_DIR$/aide/logique_p4_aide.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aide/logique_p5_aide.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aide/logique_p6_aide.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/js/globals.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/globals.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/carte/assets/img/diplome_2.svg" beforeDir="false" afterPath="$PROJECT_DIR$/carte/assets/img/diplome_2.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/carte/pages/10/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/carte/pages/10/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/carte/pages/11/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/carte/pages/11/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/carte/pages/13/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/carte/pages/13/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/carte/pages/14/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/carte/pages/14/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/carte/pages/15/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/carte/pages/15/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/carte/pages/2/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/carte/pages/2/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/carte/pages/3/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/carte/pages/3/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/carte/pages/4/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/carte/pages/4/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/carte/pages/6/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/carte/pages/6/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/carte/pages/8/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/carte/pages/8/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/carte/pages/9/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/carte/pages/9/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codage/pages/5/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/codage/pages/5/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codage/pages/6/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/codage/pages/6/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/decouverte/pages/7/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/decouverte/pages/7/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/decouverte/pages/8/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/decouverte/pages/8/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logique/pages/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/logique/pages/1/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logique/pages/10/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/logique/pages/10/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logique/pages/10/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/logique/pages/10/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logique/pages/11/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/logique/pages/11/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logique/pages/11/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/logique/pages/11/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logique/pages/12/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/logique/pages/12/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logique/pages/2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/logique/pages/2/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logique/pages/2/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/logique/pages/2/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logique/pages/3/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/logique/pages/3/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/logique/pages/3/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/logique/pages/3/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logique/pages/4/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/logique/pages/4/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logique/pages/4/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/logique/pages/4/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logique/pages/5/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/logique/pages/5/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logique/pages/5/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/logique/pages/5/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logique/pages/6/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/logique/pages/6/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logique/pages/6/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/logique/pages/6/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logique/pages/7/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/logique/pages/7/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logique/pages/7/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/logique/pages/7/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logique/pages/8/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/logique/pages/8/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logique/pages/8/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/logique/pages/8/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logique/pages/9/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/logique/pages/9/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logique/pages/9/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/logique/pages/9/script.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -61,7 +25,17 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="script.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/logique/pages/3/script.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="132">
+              <caret line="17" column="12" lean-forward="true" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -201,7 +175,7 @@
       <workItem from="1532310769955" duration="7008000" />
       <workItem from="1532347806203" duration="8897000" />
       <workItem from="1532522341778" duration="7584000" />
-      <workItem from="1532609340329" duration="15373000" />
+      <workItem from="1532609340329" duration="15634000" />
     </task>
     <task id="LOCAL-00001" summary="Peaufinage de l'interface activité 1 et 2 au complet et progression 1 à 3 de l'activité communique avec le continent.">
       <created>1532548771355</created>
@@ -217,17 +191,26 @@
       <option name="project" value="LOCAL" />
       <updated>1532620535136</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Changement des diplômes de toutes les activités, changement de l'infolist pour ajouter les couleurs et adapter le texte afficher. Changement de la liste de feedback des activités 1-2-4.">
+      <created>1532633392407</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1532633392407</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="69878000" />
+    <option name="totallyTimeSpent" value="70139000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1358" y="-8" width="1696" height="1026" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1452381" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1452381" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info active="true" anchor="bottom" id="Messages" order="7" visible="true" weight="0.3293348" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="7" />
@@ -240,7 +223,6 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="Messages" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -275,7 +257,9 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Peaufinage de l'interface activité 1 et 2 au complet et progression 1 à 3 de l'activité communique avec le continent." />
     <MESSAGE value="Modification des niveaux 7 et 11 de Répare Robotino." />
-    <option name="LAST_COMMIT_MESSAGE" value="Modification des niveaux 7 et 11 de Répare Robotino." />
+    <MESSAGE value="Changement des diplômes de toutes les activités, changement de l'infolist pour ajouter les couleurs et adapter le texte afficher. Changement de la liste de feedback des activités 1-2-4." />
+    <MESSAGE value="Merge branch 'master' of https://github.com/squidlydeadly/missioninfo&#10;&#10;# Conflicts:&#10;#&#9;assets/js/globals.js&#10;#&#9;logique/pages/3/script.js" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge branch 'master' of https://github.com/squidlydeadly/missioninfo&#10;&#10;# Conflicts:&#10;#&#9;assets/js/globals.js&#10;#&#9;logique/pages/3/script.js" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -639,13 +623,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/logique/pages/3/script.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" column="2" selection-start-line="24" selection-start-column="2" selection-end-line="24" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/logique/pages/2/script.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
@@ -706,6 +683,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="442">
           <caret line="26" column="2" selection-start-line="26" selection-start-column="2" selection-end-line="26" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logique/pages/3/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="17" column="12" lean-forward="true" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="12" />
         </state>
       </provider>
     </entry>
