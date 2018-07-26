@@ -2,12 +2,12 @@ popupInfo("J’aimerais que tu essaies de corriger 2 machines de tri qui ne fonc
 
 bucketsExercise = {
     elems: [
-        new TextShape("Fusée Rouge", "red"),
-        new TextShape("Oeil",  "#ffffff"),
-        new TextShape("Inutile",  "#ffffff"),
+        new TextShape("Fusées Rouges", "#ff0000"),
+        new TextShape("Yeux",  "#ffffff"),
+        new TextShape("Inutiles",  "#ffffff"),
     ],
     rules: [
-        "return item.shape == \"rocket\" && item.color == \"red\"",
+        "return item.shape == \"rocket\" && item.color == \"#ff0000\"",
         "return item.shape == \"eye\"",
         "return item.shape == \"rocket\" || item.shape == \"tool\"",
     ]
@@ -25,10 +25,10 @@ function setup() {
 }
 
 function _preload(){
-    items.push({"img_url":"../../assets/img/prop.png"          ,"shape":"rocket", "color":"red"});
-    items.push({"img_url":"../../assets/img/eye.png"         ,"shape":"eye"});
-    items.push({"img_url":"../../assets/img/bluerocket.png"          ,"shape":"rocket"});
-    items.push({"img_url":"../../assets/img/eye_green.png"         ,"shape":"eye"});
-    items.push({"img_url":"../../assets/img/screwdriver.png"         ,"shape":"tool"});
-    items.push({"img_url":"../../assets/img/wrench.png"         ,"shape":"tool"});
+    items.push({"img_url":"../../assets/img/prop.png"          ,"shape":"rocket", "color":"#ff0000"});
+    items.push({"img_url":"../../assets/img/eye.png"           ,"shape":"eye"});
+    items.push({"img_url":"../../assets/img/bluerocket.png"    ,"shape":"rocket"});
+    items.push({"img_url":"../../assets/img/eye_green.png"     ,"shape":"eye"});
+    items.push({"img_url":"../../assets/img/screwdriver.png"   ,"shape":"tool"});
+    items.push({"img_url":"../../assets/img/wrench.png"        ,"shape":"tool"});
 }

@@ -6,47 +6,19 @@
     <bookmark url="file://$PROJECT_DIR$/carte/pages/1/index.html" line="32" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="47ee82bd-6162-43ee-8cee-452673eb3d62" name="Default" comment="Peaufinage">
+    <list default="true" id="47ee82bd-6162-43ee-8cee-452673eb3d62" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/carte/pages/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/carte/pages/1/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/carte/pages/10/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/carte/pages/10/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/carte/pages/11/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/carte/pages/11/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/carte/pages/12/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/carte/pages/12/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/carte/pages/12/slide.html" beforeDir="false" afterPath="$PROJECT_DIR$/carte/pages/12/slide.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/carte/pages/13/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/carte/pages/13/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/carte/pages/14/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/carte/pages/14/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/carte/pages/15/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/carte/pages/15/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/carte/pages/16/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/carte/pages/16/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/carte/pages/2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/carte/pages/2/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/carte/pages/2/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/carte/pages/2/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/carte/pages/3/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/carte/pages/3/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/carte/pages/4/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/carte/pages/4/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/carte/pages/5/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/carte/pages/5/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/carte/pages/5/slide.html" beforeDir="false" afterPath="$PROJECT_DIR$/carte/pages/5/slide.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/carte/pages/6/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/carte/pages/6/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/carte/pages/7/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/carte/pages/7/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/carte/pages/8/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/carte/pages/8/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/carte/pages/9/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/carte/pages/9/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/carte/slide.html" beforeDir="false" afterPath="$PROJECT_DIR$/carte/slide.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codage/pages/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/codage/pages/1/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codage/pages/2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/codage/pages/2/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codage/pages/3/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/codage/pages/3/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codage/pages/4/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/codage/pages/4/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/decouverte/pages/2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/decouverte/pages/2/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/decouverte/pages/3/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/decouverte/pages/3/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/decouverte/pages/4/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/decouverte/pages/4/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/decouverte/pages/5/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/decouverte/pages/5/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/decouverte/pages/6/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/decouverte/pages/6/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/decouverte/pages/7/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/decouverte/pages/7/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/decouverte/pages/8/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/decouverte/pages/8/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/decouverte/pages/9/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/decouverte/pages/9/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logique/pages/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/logique/pages/1/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logique/pages/11/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/logique/pages/11/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logique/assets/img/arm_black.png" beforeDir="false" afterPath="$PROJECT_DIR$/logique/assets/img/arm_black.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logique/assets/img/arm_blue.png" beforeDir="false" afterPath="$PROJECT_DIR$/logique/assets/img/arm_blue.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logique/assets/img/head_green.png" beforeDir="false" afterPath="$PROJECT_DIR$/logique/assets/img/head_green.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logique/assets/img/head_pink.png" beforeDir="false" afterPath="$PROJECT_DIR$/logique/assets/img/head_pink.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logique/assets/img/head_red.png" beforeDir="false" afterPath="$PROJECT_DIR$/logique/assets/img/head_red.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logique/pages/11/blockly.html" beforeDir="false" afterPath="$PROJECT_DIR$/logique/pages/11/blockly.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/logique/pages/11/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/logique/pages/11/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logique/pages/2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/logique/pages/2/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logique/pages/3/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/logique/pages/3/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logique/pages/6/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/logique/pages/6/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logique/pages/7/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/logique/pages/7/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logique/pages/6/blockly.html" beforeDir="false" afterPath="$PROJECT_DIR$/logique/pages/6/blockly.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logique/pages/6/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/logique/pages/6/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logique/pages/7/blockly.html" beforeDir="false" afterPath="$PROJECT_DIR$/logique/pages/7/blockly.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logique/pages/7/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/logique/pages/7/script.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -59,31 +31,25 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/codage/pages/4/index.html">
+        <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="64" column="55" selection-start-line="64" selection-start-column="55" selection-end-line="64" selection-end-column="55" />
+            <state relative-caret-position="425">
+              <caret line="100" column="19" lean-forward="true" selection-start-line="100" selection-start-column="19" selection-end-line="100" selection-end-column="19" />
               <folding>
-                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/codage/pages/2/index.html">
+      <file leaf-file-name="script.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/logique/pages/11/script.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="223">
-              <caret line="63" column="63" lean-forward="true" selection-start-line="63" selection-start-column="63" selection-end-line="63" selection-end-column="63" />
-              <folding>
-                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#button#0;n#div#2;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#1;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
+            <state relative-caret-position="527">
+              <caret line="31" column="87" selection-start-line="31" selection-start-column="87" selection-end-line="31" selection-end-column="87" />
             </state>
           </provider>
         </entry>
@@ -105,14 +71,9 @@
         <option value="$PROJECT_DIR$/logique/pages/9/script.js" />
         <option value="$PROJECT_DIR$/logique/assets/js/functions.js" />
         <option value="$PROJECT_DIR$/logique/pages/3/script.js" />
-        <option value="$PROJECT_DIR$/logique/pages/6/script.js" />
         <option value="$PROJECT_DIR$/logique/pages/8/blockly.html" />
-        <option value="$PROJECT_DIR$/logique/pages/7/script.js" />
         <option value="$PROJECT_DIR$/logique/pages/10/blockly.html" />
         <option value="$PROJECT_DIR$/logique/pages/10/script.js" />
-        <option value="$PROJECT_DIR$/logique/pages/6/blockly.html" />
-        <option value="$PROJECT_DIR$/logique/pages/7/blockly.html" />
-        <option value="$PROJECT_DIR$/logique/pages/11/blockly.html" />
         <option value="$PROJECT_DIR$/logique/assets/js/blocks.js" />
         <option value="$PROJECT_DIR$/logique/pages/3/index.html" />
         <option value="$PROJECT_DIR$/logique/pages/1/index.html" />
@@ -130,7 +91,6 @@
         <option value="$PROJECT_DIR$/logique/pages/6/index.html" />
         <option value="$PROJECT_DIR$/logique/pages/7/index.html" />
         <option value="$PROJECT_DIR$/logique/pages/11/index.html" />
-        <option value="$PROJECT_DIR$/logique/pages/11/script.js" />
         <option value="$PROJECT_DIR$/carte/pages/2/index.html" />
         <option value="$PROJECT_DIR$/carte/pages/3/index.html" />
         <option value="$PROJECT_DIR$/carte/pages/4/index.html" />
@@ -153,6 +113,12 @@
         <option value="$PROJECT_DIR$/codage/pages/3/index.html" />
         <option value="$PROJECT_DIR$/codage/pages/4/index.html" />
         <option value="$PROJECT_DIR$/codage/pages/2/index.html" />
+        <option value="$PROJECT_DIR$/logique/pages/7/script.js" />
+        <option value="$PROJECT_DIR$/logique/pages/7/blockly.html" />
+        <option value="$PROJECT_DIR$/logique/pages/6/script.js" />
+        <option value="$PROJECT_DIR$/logique/pages/6/blockly.html" />
+        <option value="$PROJECT_DIR$/logique/pages/11/blockly.html" />
+        <option value="$PROJECT_DIR$/logique/pages/11/script.js" />
       </list>
     </option>
   </component>
@@ -180,7 +146,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -191,25 +156,39 @@
             <path>
               <item name="missioninfo" type="b2602c69:ProjectViewProjectNode" />
               <item name="missioninfo" type="462c0819:PsiDirectoryNode" />
-              <item name="codage" type="462c0819:PsiDirectoryNode" />
+              <item name="logique" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="missioninfo" type="b2602c69:ProjectViewProjectNode" />
               <item name="missioninfo" type="462c0819:PsiDirectoryNode" />
-              <item name="codage" type="462c0819:PsiDirectoryNode" />
+              <item name="logique" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="missioninfo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="missioninfo" type="462c0819:PsiDirectoryNode" />
+              <item name="logique" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="missioninfo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="missioninfo" type="462c0819:PsiDirectoryNode" />
+              <item name="logique" type="462c0819:PsiDirectoryNode" />
               <item name="pages" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="missioninfo" type="b2602c69:ProjectViewProjectNode" />
               <item name="missioninfo" type="462c0819:PsiDirectoryNode" />
-              <item name="codage" type="462c0819:PsiDirectoryNode" />
+              <item name="logique" type="462c0819:PsiDirectoryNode" />
               <item name="pages" type="462c0819:PsiDirectoryNode" />
-              <item name="2" type="462c0819:PsiDirectoryNode" />
+              <item name="11" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -240,12 +219,21 @@
       <updated>1532310766498</updated>
       <workItem from="1532310769955" duration="7008000" />
       <workItem from="1532347806203" duration="8897000" />
-      <workItem from="1532522341778" duration="7512000" />
+      <workItem from="1532522341778" duration="7584000" />
+      <workItem from="1532609340329" duration="4521000" />
     </task>
+    <task id="LOCAL-00001" summary="Peaufinage de l'interface activité 1 et 2 au complet et progression 1 à 3 de l'activité communique avec le continent.">
+      <created>1532548771355</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1532548771355</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="54433000" />
+    <option name="totallyTimeSpent" value="59026000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1358" y="-8" width="1696" height="1026" extended-state="6" />
@@ -274,19 +262,19 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="10" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Messages" order="11" />
       <window_info id="Favorites" order="2" side_tool="true" />
     </layout-to-restore>
@@ -297,64 +285,16 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Peaufinage de l'interface activité 1 et 2 au complet et progression 1 à 3 de l'activité communique avec le continent." />
+    <option name="LAST_COMMIT_MESSAGE" value="Peaufinage de l'interface activité 1 et 2 au complet et progression 1 à 3 de l'activité communique avec le continent." />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <option name="time" value="1" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/modules/blockly/core/field_colour.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="296">
-          <caret line="46" selection-start-line="46" selection-end-line="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/logique/pages/6/blockly.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="59" selection-start-line="14" selection-start-column="59" selection-end-line="14" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/logique/pages/7/script.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="197" selection-start-column="197" selection-end-column="197" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/logique/pages/7/blockly.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="29" selection-start-line="29" selection-end-line="29" selection-end-column="57" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/logique/pages/11/blockly.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="13" lean-forward="true" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/logique/assets/js/blocks.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="612">
-          <caret line="42" column="46" selection-start-line="42" selection-start-column="46" selection-end-line="42" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/decouverte/pages/1/index.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/logique/pages/3/script.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="248" selection-start-column="248" selection-end-column="248" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/logique/pages/1/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="442">
@@ -373,9 +313,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="510">
           <caret line="84" column="58" selection-start-line="84" selection-start-column="58" selection-end-line="84" selection-end-column="58" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -383,10 +320,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="529">
           <caret line="73" column="63" selection-start-line="73" selection-start-column="63" selection-end-line="73" selection-end-column="63" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -394,10 +327,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="495">
           <caret line="73" column="63" selection-start-line="73" selection-start-column="63" selection-end-line="73" selection-end-column="63" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -405,10 +334,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="274">
           <caret line="63" column="63" selection-start-line="63" selection-start-column="38" selection-end-line="63" selection-end-column="63" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -423,10 +348,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="246">
           <caret line="63" column="63" selection-start-line="63" selection-start-column="38" selection-end-line="63" selection-end-column="63" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -434,9 +355,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="237">
           <caret line="70" column="58" selection-start-line="70" selection-start-column="34" selection-end-line="70" selection-end-column="58" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -444,9 +362,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="478">
           <caret line="76" column="14" lean-forward="true" selection-start-line="76" selection-start-column="14" selection-end-line="76" selection-end-column="14" />
-          <folding>
-            <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -454,9 +369,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="288">
           <caret line="70" column="58" selection-start-line="70" selection-start-column="58" selection-end-line="70" selection-end-column="58" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -464,24 +376,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
           <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="40" column="50" lean-forward="true" selection-start-line="40" selection-start-column="50" selection-end-line="40" selection-end-column="50" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/logique/pages/11/script.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
         </state>
       </provider>
     </entry>
@@ -499,20 +393,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/logique/pages/7/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="89" selection-start-line="89" selection-end-line="91" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/logique/pages/11/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1343">
-          <caret line="79" column="22" lean-forward="true" selection-start-line="79" selection-start-column="22" selection-end-line="79" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/assets/js/globals.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="482">
@@ -527,10 +407,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="407">
           <caret line="80" column="45" lean-forward="true" selection-start-line="80" selection-start-column="45" selection-end-line="80" selection-end-column="45" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -538,10 +414,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="510">
           <caret line="75" column="29" lean-forward="true" selection-start-line="75" selection-start-column="29" selection-end-line="75" selection-end-column="29" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -549,10 +421,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="373">
           <caret line="78" column="74" selection-start-line="78" selection-start-column="74" selection-end-line="78" selection-end-column="74" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -579,10 +447,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="390">
           <caret line="79" column="36" lean-forward="true" selection-start-line="79" selection-start-column="36" selection-end-line="79" selection-end-column="36" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -602,12 +466,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="373">
           <caret line="81" column="18" lean-forward="true" selection-start-line="81" selection-start-column="18" selection-end-line="81" selection-end-column="18" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -615,11 +473,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="560">
           <caret line="89" lean-forward="true" selection-start-line="89" selection-end-line="89" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -627,10 +480,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="322">
           <caret line="78" column="74" selection-start-line="78" selection-start-column="74" selection-end-line="78" selection-end-column="74" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -638,10 +487,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
           <caret line="78" column="74" selection-start-line="78" selection-start-column="74" selection-end-line="78" selection-end-column="74" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -649,10 +494,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="424">
           <caret line="78" column="74" selection-start-line="78" selection-start-column="74" selection-end-line="78" selection-end-column="74" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -660,10 +501,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="424">
           <caret line="81" column="18" lean-forward="true" selection-start-line="81" selection-start-column="18" selection-end-line="81" selection-end-column="18" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -671,18 +508,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
           <caret line="303" column="21" lean-forward="true" selection-start-line="303" selection-start-column="21" selection-end-line="303" selection-end-column="21" />
-          <folding>
-            <element signature="n#style#0;n#img#1;n#td#0;n#tr#0;n#table#0;n#section#12;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#1;n#td#0;n#tr#0;n#table#0;n#section#13;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#1;n#td#0;n#tr#0;n#table#0;n#section#14;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#1;n#td#0;n#tr#0;n#table#0;n#section#15;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#1;n#td#0;n#tr#0;n#table#0;n#section#16;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#1;n#td#0;n#tr#0;n#table#0;n#section#17;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#1;n#td#0;n#tr#0;n#table#0;n#section#18;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#1;n#td#0;n#tr#0;n#table#0;n#section#19;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#1;n#td#0;n#tr#0;n#table#0;n#section#20;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#1;n#td#0;n#tr#0;n#table#0;n#section#21;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -690,11 +515,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="424">
           <caret line="78" column="74" selection-start-line="78" selection-start-column="74" selection-end-line="78" selection-end-column="74" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -702,10 +522,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="373">
           <caret line="81" column="18" lean-forward="true" selection-start-line="81" selection-start-column="18" selection-end-line="81" selection-end-column="18" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -713,10 +529,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="373">
           <caret line="78" column="74" selection-start-line="78" selection-start-column="74" selection-end-line="78" selection-end-column="74" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -724,10 +536,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="271">
           <caret line="78" column="74" selection-start-line="78" selection-start-column="74" selection-end-line="78" selection-end-column="74" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -735,10 +543,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="560">
           <caret line="77" column="18" lean-forward="true" selection-start-line="77" selection-start-column="18" selection-end-line="77" selection-end-column="18" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -746,9 +550,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="376">
           <caret line="69" column="40" lean-forward="true" selection-start-line="69" selection-start-column="40" selection-end-line="69" selection-end-column="40" />
-          <folding>
-            <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -766,9 +567,22 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/codage/pages/2/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="70" column="40" lean-forward="true" selection-start-line="70" selection-start-column="40" selection-end-line="70" selection-end-column="40" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#button#0;n#div#2;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/codage/pages/4/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
+        <state relative-caret-position="17">
           <caret line="64" column="55" selection-start-line="64" selection-start-column="55" selection-end-line="64" selection-end-column="55" />
           <folding>
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -777,16 +591,94 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/codage/pages/2/index.html">
+    <entry file="file://$PROJECT_DIR$/logique/pages/7/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="223">
-          <caret line="63" column="63" lean-forward="true" selection-start-line="63" selection-start-column="63" selection-end-line="63" selection-end-column="63" />
+        <state relative-caret-position="340">
+          <caret line="89" selection-start-line="89" selection-end-line="91" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logique/assets/js/functions.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-197">
+          <caret line="270" column="24" lean-forward="true" selection-start-line="270" selection-start-column="24" selection-end-line="270" selection-end-column="24" />
           <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#button#0;n#div#2;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#h3#1;n#div#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.es5.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-928">
+          <caret line="1133" column="4" selection-start-line="1133" selection-start-column="4" selection-end-line="1133" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logique/pages/7/blockly.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-341">
+          <caret line="36" column="32" lean-forward="true" selection-start-line="36" selection-start-column="32" selection-end-line="36" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logique/pages/7/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="17" lean-forward="true" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logique/pages/3/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="248" selection-start-column="248" selection-end-column="248" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logique/pages/6/blockly.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="36" lean-forward="true" selection-start-line="25" selection-start-column="36" selection-end-line="25" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logique/pages/6/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="31" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="100" column="19" lean-forward="true" selection-start-line="100" selection-start-column="19" selection-end-line="100" selection-end-column="19" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logique/pages/11/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="79" column="22" lean-forward="true" selection-start-line="79" selection-start-column="22" selection-end-line="79" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logique/pages/11/blockly.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-221">
+          <caret line="29" column="36" lean-forward="true" selection-start-line="29" selection-start-column="36" selection-end-line="29" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logique/pages/11/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="31" column="87" selection-start-line="31" selection-start-column="87" selection-end-line="31" selection-end-column="87" />
         </state>
       </provider>
     </entry>

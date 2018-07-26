@@ -1,14 +1,14 @@
-popupInfo("Celle-ci est censée classer les bras bleus dans le seau “bras bleu”,\n les bras rouges dans le seau “bras rouge” et le reste dans le seau “inutile”.\n À toi de corriger le programme !",3);
+popupInfo("Celle-ci est censée classer les bras bleus dans le seau “Bras bleus”,\n les bras rouges dans le seau “Bras rouges” et le reste dans le seau “Inutiles”.\n À toi de corriger le programme !",3);
 
 bucketsExercise = {
     elems: [
-        new TextShape("Bras bleu", "blue"),
-        new TextShape("Bras rouge",  "red"),
-        new TextShape("Inutile",  "#ffffff"),
+        new TextShape("Bras bleus", "blue"),
+        new TextShape("Bras rouges",  "red"),
+        new TextShape("Inutiles",  "#ffffff"),
     ],
     rules: [
-        "return item.shape == \"arm\" && item.color == \"blue\"",
-        "return item.shape == \"arm\" && item.color == \"red\"",
+        "return item.shape == \"arm\" && item.color == \"#0000ff\"",
+        "return item.shape == \"arm\" && item.color == \"#ff0000\"",
         "return item.shape == \"hat\" || item.shape == \"arm\"",
     ]
 };
@@ -25,9 +25,9 @@ function setup() {
 }
 
 function _preload(){
-    items.push({"img_url":"../../assets/img/blue_arm.png"          ,"shape":"arm", "color":"blue"});
-    items.push({"img_url":"../../assets/img/green_arm.png"         ,"shape":"eye"});
+    items.push({"img_url":"../../assets/img/arm_blue.png"          ,"shape":"arm", "color":"#0000ff"});
+    items.push({"img_url":"../../assets/img/arm_black.png"         ,"shape":"arm"});
     items.push({"img_url":"../../assets/img/hat_blue.png"          ,"shape":"hat"});
     items.push({"img_url":"../../assets/img/hat_green.png"         ,"shape":"hat"});
-    items.push({"img_url":"../../assets/img/red_arm.png"           ,"shape":"tool", "color":"red"});
+    items.push({"img_url":"../../assets/img/arm_red.png"           ,"shape":"arm", "color":"#ff0000"});
 }
