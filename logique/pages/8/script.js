@@ -26,6 +26,8 @@ infoList =[
     "As-tu pensé regarder si l’objet qui cause le bogue n’est pas classé du tout où s’il est classé dans le mauvais seau ? Cela t’aidera à trouver la solution au bogue.",
     "As-tu vérifier chacun de tes blocs pour être certain qu'ils respectent un ordre logique ?",
     "As-tu pensé vérifier si ton programme permet de résoudre le problème ?",
+    "As-tu pensé demandé de l'aide à une autre équipe ?",
+    "As-tu pensé demandé à ton enseignant ?",
 ];
 
 logicExercise = new LogicSystem(bucketsExercise);
