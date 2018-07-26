@@ -15,6 +15,17 @@ bucketsExercise = {
 
 logicExercise = new LogicSystem(bucketsExercise);
 
+infoList =[
+
+    "As-tu pensé regarder si tu respectes les consignes que Robotino t’as donné ? Si tu ne t’en souviens plus, va voir dans info !",
+    "As-tu bien pris connaissance de toutes les conditions disponibles (exemple : forme = bras, roue, jambe; Couleur = rouge, bleu, vert) ? ",
+    "As-tu bien pris connaissance des objets disponibles et des seaux dans lesquelles les objets doivent être classées ? Appuie sur info si tu ne t’en souviens plus !",
+    "As-tu pensé à consulter l'aide ? Pour consulter l'aide, appuie sur le bouton \"aide\" !",
+    "As-tu pensé regarder si l’objet qui cause le bogue n’est pas classé du tout où s’il est classé dans le mauvais seau ? Cela t’aidera à trouver la solution au bogue.",
+    "As-tu vérifier chacun de tes blocs pour être certain qu'ils respectent un ordre logique ?",
+    "As-tu pensé vérifier si ton programme permet de résoudre le problème ?",
+];
+
 function setup() {
     var canvas = createCanvas(600, 600);
     canvas.parent('sketch-holder');

@@ -8,6 +8,7 @@ var pathTab = document.location.pathname.split('/');
 
 var activity;
 var currentPageNumber;
+var colorcounter = 1;
 
 activity = pathTab[2] || 'accueil';
 currentPageNumber = parseInt(pathTab[4]) || 0;
@@ -152,16 +153,19 @@ function popupNotGood(opt_text) {
 */
 
 function popupNotGood(opt_text) {
-
-
 try {
     if (opt_text === undefined) {
         opt_text = "";
+        var stringcolor = '';
 
         if (infoPageRef === currentPageNumber + activity) {
             console.log(infoList.length);
             if (listNumber < infoList.length - 1) { // infoList est la liste qui conteint les strings à afficher à l'élève
                 listNumber++;
+                colorcounter++;
+                if(colorcounter === 5){
+                    colorcounter = 1;
+                }
             }
 
             else {
@@ -180,14 +184,32 @@ try {
 }
 catch {
     opt_text = "";
+    colorcounter = 0;
 }
-
+    switch(colorcounter){
+        case 0:
+            stringcolor = '#000000';
+        break;
+        case 1:
+            stringcolor = '#ff0000';
+            break;
+        case 2:
+            stringcolor = '#0000ff';
+            break;
+        case 3:
+            stringcolor = '#036815';
+            break;
+        case 4:
+            stringcolor = '#ff7f00';
+            break;
+    }
 
     bootbox.alert({
-        message: '<div class="text-center">'+((opt_text.length>0)?(opt_text):('Il y a des erreurs. Essaie encore !'))+'<br><br><img src="../../../assets/img/bad.svg" alt="Robot badface" height="200px"></div>',
-        backdrop: true
-    });
+        message: '<div id="popupnotgoodid" class="text-center" style="font-size:20px">'+((opt_text.length>0)?"Malheureusement, il y a des erreurs. <br>" + (opt_text) + "<hr>":('Il y a des erreurs. Essaie encore !'))+'<img src="../../../assets/img/bad.svg" alt="Robot badface" height="200px"></div>',
+        backdrop: true,
+    }).find('.modal-content').css({color: stringcolor});
 }
+
 function popupGood(info_callback, text) {
     //Permet de créer un popup qui vient après le texte de réussite du niveau. Il faut placer 1 comme deuxième paramètre //
     if(info_callback === 1){
