@@ -1,13 +1,15 @@
-# Aide: Suppression de blocs
+# Aide - Niveau 3
+###_Suppression de blocs_
 
-Pour réussir cette page, il te suffit d'avoir un espace de travail vide!
+---
 
-***
+####Pour réussir cette page, il te suffit d'avoir un espace de travail vide!
+
+---
 
 Tu dois jeter le bloc à la poubelle.
 ![Corbeille][corbeille]
 
-***
 
 ## <span style="color: #800080">À ton tour d'essayer</span>
 

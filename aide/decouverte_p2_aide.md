@@ -1,6 +1,13 @@
-# Aide: Ajout de blocs
+# Aide - Niveau 2
+###_Ajout de blocs_
 
-Regarde bien ce que dit Robotino.
+---
+
+####Regarde bien ce que dit Robotino.
+
+---
+
+
 
 ![Blocs découverte p2][decouverte_blocs_p2]
 

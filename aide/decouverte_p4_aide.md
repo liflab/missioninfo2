@@ -1,10 +1,13 @@
-# Aide: Utilisation de l'aide
+# Aide - Niveau 4
+###_Utilisation de l'aide_
 
-### <span style="color: #20B020">Bravo tu as réussi à afficher l'aide</span>
+---
 
-***
+#### <span style="color: #20B020">Bravo ! Tu as réussi à afficher l'aide !</span>
 
-N'oublie pas que sur chaque page tu as aussi un bouton d'aide en haut si tu es coincé!
+---
+
+N'oublie pas que sur chaque page tu as un bouton d'aide, en haut de l'écran, si tu es coincé!
 
 ![navbar aide][navbar_aide]
 

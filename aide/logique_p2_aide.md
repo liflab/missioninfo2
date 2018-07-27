@@ -1,8 +1,11 @@
-# Aide: Logique
+# Aide - Niveau 2
+###_Logique_
 
-Pour réussir cette page, tu dois utiliser un bloc 
-![Si][bloc_si_]
-pour chacun des seaux.<br>
+---
+
+####Pour réussir cette page, tu dois utiliser un bloc ![Si][bloc_si_] pour chacun des seaux.<br>
+
+---
 
 Voici un petit rappel du fonctionnement du bloc condition: <br>
 ![Condition par un IF][bloc_si_expl_]<br>
