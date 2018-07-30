@@ -5,6 +5,8 @@
  * ===============================================================================================================
  * ===============================================================================================================
  */
+const hauteurImage = 100;
+const largeurImage = 100;
 
 
 Blockly.FieldColour.COLOURS = ['#f00','#ff0','#00f'];
@@ -19,56 +21,79 @@ var dropdown_angle;
  ["144° degrés","144"],
  ["180° degrés","180"]
  */
+
+
 switch(parseInt(window.location.href.match(new RegExp("[0-9]+", "g")).splice(-1))){
     case 2:
     case 3:
     case 5:
         dropdown_angle = [
-            ["90° degrés","90"]
+           // ["90° degrés","90"]
+            [{ "src": "../../assets/img/angles/90.PNG", "width": largeurImage, "height": hauteurImage, "alt": "90" }, "90"]
         ];
+
     break;
     case 6:
     case 7:
         dropdown_angle = [
-            ["36° degrés","36"],
-            ["90° degrés","90"],
-            ["144° degrés","144"]
+            //["36° degrés","36"],
+            //["90° degrés","90"],
+            //["144° degrés","144"]
+            [{ "src": "../../assets/img/angles/36.PNG", "width": largeurImage, "height": hauteurImage, "alt": "36" }, "36"],
+            [{ "src": "../../assets/img/angles/90.PNG", "width": largeurImage, "height": hauteurImage, "alt": "90" }, "90"],
+            [{ "src": "../../assets/img/angles/144.PNG", "width": largeurImage, "height": hauteurImage, "alt": "144" }, "144"]
+
         ];
     break;
     case 8:
     case 10:
         dropdown_angle = [
-            ["90° degrés","90"],
-            ["26.42° degrés","26.42"],
-            ["63.58° degrés","63.58"],
-            ["180° degrés","180"],
+            // ["90° degrés","90"],
+            // ["26.42° degrés","26.42"],
+            // ["63.58° degrés","63.58"],
+            // ["180° degrés","180"],
+            [{ "src": "../../assets/img/angles/90.PNG", "width": largeurImage, "height": hauteurImage, "alt": "90" }, "90"],
+            [{ "src": "../../assets/img/angles/26.PNG", "width": largeurImage, "height": hauteurImage, "alt": "26" }, "26.42"],
+            [{ "src": "../../assets/img/angles/64.PNG", "width": largeurImage, "height": hauteurImage, "alt": "90" }, "90"]
         ];
     break;
     case 11:
         dropdown_angle = [
-            ["90° degrés","90"],
-            ["10° degrés","10"],
-            ["5° degrés","5"],
+           // ["90° degrés","90"],
+           // ["10° degrés","10"],
+           // ["5° degrés","5"],
+            [{ "src": "../../assets/img/angles/90.PNG", "width": largeurImage, "height": hauteurImage, "alt": "90" }, "90"],
+            [{ "src": "../../assets/img/angles/10.PNG", "width": largeurImage, "height": hauteurImage, "alt": "10" }, "10"],
+            [{ "src": "../../assets/img/angles/5.PNG", "width": largeurImage, "height": hauteurImage, "alt": "5" }, "5"]
         ];
     break;
     case 12:
         dropdown_angle = [
-            ["270° degrés","270"],
-            ["180° degrés","180"],
-            ["90° degrés","90"],
+          //["270° degrés","270"],
+           //["180° degrés","180"],
+            //["90° degrés","90"],
+            [{ "src": "../../assets/img/angles/90.PNG", "width": largeurImage, "height": hauteurImage, "alt": "90" }, "90"],
+            [{ "src": "../../assets/img/angles/270.PNG", "width": largeurImage, "height": hauteurImage, "alt": "270" }, "270"],
+            [{ "src": "../../assets/img/angles/180.PNG", "width": largeurImage, "height": hauteurImage, "alt": "180" }, "180"]
         ];
     break;
     case 13:
         dropdown_angle = [
-            ["180° degrés","180"],
-            ["120° degrés","120"],
-            ["90° degrés","90"],
-            ["45° degrés","45"],
+           // ["180° degrés","180"],
+           // ["120° degrés","120"],
+           // ["90° degrés","90"],
+           // ["45° degrés","45"],
+            [{ "src": "../../assets/img/angles/90.PNG", "width": largeurImage, "height": hauteurImage, "alt": "90" }, "90"],
+            [{ "src": "../../assets/img/angles/180.PNG", "width": largeurImage, "height": hauteurImage, "alt": "180" }, "180"],
+            [{ "src": "../../assets/img/angles/120.PNG", "width": largeurImage, "height": hauteurImage, "alt": "120" }, "120"],
+            [{ "src": "../../assets/img/angles/45.PNG", "width": largeurImage, "height": hauteurImage, "alt": "45" }, "45"]
         ];
+
+
     break;
     case 15:
         dropdown_angle = [
-            ["1° degrés","1"],
+        /*    ["1° degrés","1"],
             ["2° degrés","2"],
             ["3° degrés","3"],
             ["4° degrés","4"],
@@ -248,6 +273,8 @@ switch(parseInt(window.location.href.match(new RegExp("[0-9]+", "g")).splice(-1)
             ["178° degrés","178"],
             ["179° degrés","179"],
             ["180° degrés","180"],
+        */
+
         ];
     break;
     default:
@@ -255,6 +282,7 @@ switch(parseInt(window.location.href.match(new RegExp("[0-9]+", "g")).splice(-1)
             ["90° degrés","90"]
         ];
 }
+functionCase =  '.appendField(new Blockly.FieldDropdown(dropdown_angle), "Angle")';
 
 Blockly.Blocks['avancer'] = {
     init: function() {
@@ -267,7 +295,7 @@ Blockly.Blocks['avancer'] = {
         this.setTooltip('Avancer de ...');
     }
 };
-Blockly.Blocks['tourner'] = {
+/*Blockly.Blocks['tourner'] = { //tourner phase 1
     init: function() {
         this.appendDummyInput()
             .appendField("Tourner de")
@@ -284,12 +312,67 @@ Blockly.Blocks['tourner'] = {
         this.setTooltip('Tourner de ... degrés');
     }
 };
+*/
+
+Blockly.Blocks['tourner'] = { //tourner phase 2
+    init: function() {
+        this.appendDummyInput()
+            .appendField("Tourner de")
+            .appendField(new Blockly.FieldDropdown(dropdown_angle), "Angle");
+           // .appendField(new Blockly.FieldAngle(240), "Angle"); // pour choisir un angle sur 360
+        this.appendDummyInput()
+            .appendField("vers la ")
+            .appendField(new Blockly.FieldDropdown([
+                ["Droite","1"],
+                ["Gauche","-1"]
+            ]), "Direction");
+        this.setPreviousStatement(true, null);
+        this.setNextStatement(true, null);
+        this.setColour(230);
+        this.setTooltip('Tourner de ... degrés');
+    }
+};
+
+Blockly.Blocks['tournerAngle'] = { // tourner progression 15 phase 2
+    init: function() {
+        this.appendDummyInput()
+            .appendField("Tourner de")
+            .appendField(new Blockly.FieldAngle(120), "Angle")
+            .appendField("°");
+            //.appendField(new Blockly.FieldDropdown(dropdown_angle), "Angle");
+        this.appendDummyInput()
+            .appendField("vers la ")
+            .appendField(new Blockly.FieldDropdown([
+                ["Droite","1"],
+                ["Gauche","-1"]
+            ]), "Direction");
+        this.setPreviousStatement(true, null);
+        this.setNextStatement(true, null);
+        this.setColour(230);
+        this.setTooltip('Tourner de ... degrés');
+    }
+};
+
+
+// Blockly.Blocks['tourner_arc'] = {
+//     init: function() {
+//         this.appendDummyInput()
+//             .appendField("Tourner de")
+//             .appendField(new Blockly.FieldDropdown(dropdown_angle), "Angle");
+//         this.appendDummyInput()
+//             .appendField("vers la ")
+//             .appendField(new Blockly.FieldDropdown([["Droite","1"], ["Gauche","-1"]]), "Direction");
+//         this.setPreviousStatement(true, null);
+//         this.setColour(230);
+//         this.setTooltip('');
+//     }
+// };
 
 Blockly.Blocks['tourner_arc'] = {
     init: function() {
         this.appendDummyInput()
             .appendField("Tourner de")
-            .appendField(new Blockly.FieldDropdown(dropdown_angle), "Angle");
+            .appendField(functionCase, "Angle");
         this.appendDummyInput()
             .appendField("vers la ")
             .appendField(new Blockly.FieldDropdown([["Droite","1"], ["Gauche","-1"]]), "Direction");
@@ -379,6 +462,15 @@ Blockly.JavaScript['tourner'] = function(block) {
     var code = '{"type":"tourner","value":'+(dropdown_angle*dropdown_direction)+'},';
     return code;
 };
+
+Blockly.JavaScript['tournerAngle'] = function(block) {
+    var dropdown_angle = parseFloat(block.getFieldValue('Angle'));
+    var dropdown_direction = parseFloat(block.getFieldValue('Direction'));
+    // TODO: Assemble JavaScript into code variable.
+    var code = '{"type":"tournerAngle","value":'+(dropdown_angle*dropdown_direction)+'},';
+    return code;
+};
+
 Blockly.JavaScript['tourner_arc'] = function(block) {
     var dropdown_angle = block.getFieldValue('Angle');
     var dropdown_direction = block.getFieldValue('Direction');

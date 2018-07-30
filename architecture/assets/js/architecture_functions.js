@@ -639,6 +639,9 @@ function action(current_step){
         case "crayon_color":
             Crayon["color"] = current_step["value"];
             break;
+        case "tournerAngle":
+            Crayon["rotation"]+=current_step["value"];
+            break;
         case "arc":
             var start_rotation = Crayon["rotation"]-90;
             var rotation_todo = current_step["rotation"];
