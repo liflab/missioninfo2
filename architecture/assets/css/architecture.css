@@ -64,8 +64,8 @@
     height: auto !important;
     display: table-cell;
     vertical-align: middle;
-    max-height: 473px;
-    max-width: 560px;
+    max-height: 100%;
+    max-width: 100%;
 }
 
 @-webkit-keyframes spin {
