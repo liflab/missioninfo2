@@ -4,7 +4,7 @@ var canvas;
 var past_code;
 var past_code_generated;
 
-var solution = [{"type":"arc","color":"#ff0000","middle":{"x":5,"y":7},"size":2,"start_angle":0,"end_angle":-4.71238898038469,"reversed":true},{"type":"line","color":"#ff0000","coord1":{"x":5,"y":6},"coord2":{"x":5,"y":4}},{"type":"arc","color":"#ff0000","middle":{"x":5,"y":3},"size":2,"start_angle":-7.853981633974483,"end_angle":-12.566370614359172,"reversed":true},{"type":"line","color":"#ff0000","coord1":{"x":6,"y":3},"coord2":{"x":8,"y":3}},{"type":"arc","color":"#ff0000","middle":{"x":9,"y":3},"size":2,"start_angle":-15.707963267948966,"end_angle":-20.420352248333657,"reversed":true},{"type":"line","color":"#ff0000","coord1":{"x":9,"y":4},"coord2":{"x":9,"y":6}},{"type":"arc","color":"#ff0000","middle":{"x":9,"y":7},"size":2,"start_angle":-23.56194490192345,"end_angle":-28.274333882308134,"reversed":true},{"type":"line","color":"#ff0000","coord1":{"x":8,"y":7},"coord2":{"x":6,"y":7}}];
+var solution = [{"type":"arc","color":"#0000ff","middle":{"x":5,"y":7},"size":2,"start_angle":0,"end_angle":-4.71238898038469,"reversed":true},{"type":"line","color":"#0000ff","coord1":{"x":5,"y":6},"coord2":{"x":5,"y":4}},{"type":"arc","color":"#0000ff","middle":{"x":5,"y":3},"size":2,"start_angle":-7.853981633974483,"end_angle":-12.566370614359172,"reversed":true},{"type":"line","color":"#0000ff","coord1":{"x":6,"y":3},"coord2":{"x":8,"y":3}},{"type":"arc","color":"#0000ff","middle":{"x":9,"y":3},"size":2,"start_angle":-15.707963267948966,"end_angle":-20.420352248333657,"reversed":true},{"type":"line","color":"#0000ff","coord1":{"x":9,"y":4},"coord2":{"x":9,"y":6}},{"type":"arc","color":"#0000ff","middle":{"x":9,"y":7},"size":2,"start_angle":-23.56194490192345,"end_angle":-28.274333882308134,"reversed":true},{"type":"line","color":"#0000ff","coord1":{"x":8,"y":7},"coord2":{"x":6,"y":7}}];
 var solution_example = [{"type":"crayon_color","value":"#ff0000"},{"type":"boucle","nb_iteration":4,"value":[ {"type":"crayon_leve","value":false},{"type":"arc","taille":2,"rotation": {"type":"tourner","value":-270}},{"type":"crayon_leve","value":true},{"type":"avancer","value":1},{"type":"crayon_leve","value":false},{"type":"avancer","value":2},{"type":"crayon_leve","value":true},{"type":"avancer","value":1},{"type":"crayon_leve","value":false},{"type":"tourner","value":-180}]}];
 
 var Crayon;
@@ -76,7 +76,7 @@ function reset(b){
 
 function drawExercise() {
     strokeWeight(14);
-    stroke(255,0,0,45).noFill();
+    stroke(0,0,255,45).noFill();
 
     drawArc(5,7,2,0,-4.71238898038469,true);
     drawLine(5,4,5,6);

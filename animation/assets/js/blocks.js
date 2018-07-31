@@ -214,7 +214,7 @@ Blockly.JavaScript['triangle'] = function (block) {
 Blockly.Blocks['pour_chaque_image'] = {
     init: function () {
         this.appendDummyInput()
-            .appendField("Pour chaque image Faire");
+            .appendField("Répéter jusqu'à la fin de l'animation");
         this.appendStatementInput("image")
             .setCheck(null);
         this.setPreviousStatement(true, null);
@@ -254,11 +254,11 @@ Blockly.Blocks['init_curseur'] = {
     init: function () {
         this.appendValueInput("pos")
             .setCheck("coordonnees")
-            .appendField("Initialiser Curseur");
+            .appendField("Initialiser Point de référence");
         this.setPreviousStatement(true, null);
         this.setNextStatement(true, null);
         this.setColour(270);
-        this.setTooltip('Initialise le curseur');
+        this.setTooltip('Initialise le point de référence');
     }
 };
 
@@ -274,10 +274,10 @@ Blockly.JavaScript['init_curseur'] = function (block) {
 Blockly.Blocks['recup_curseur'] = {
     init: function () {
         this.appendDummyInput()
-            .appendField("Position Curseur");
+            .appendField("Position Point de référence");
         this.setOutput(true, "coordonnees");
         this.setColour(270);
-        this.setTooltip('Récupère la position du curseur');
+        this.setTooltip('Récupère la position du point de référence');
     }
 };
 
@@ -292,10 +292,10 @@ Blockly.Blocks['recup_curseur_offset'] = {
     init: function () {
         this.appendValueInput("relative_pos")
             .setCheck("coordonnees")
-            .appendField("Position Curseur + Décalage");
+            .appendField("Position Point de référence + Décalage");
         this.setOutput(true, "coordonnees");
         this.setColour(270);
-        this.setTooltip('Récupère la position du curseur et ajoute un décalage');
+        this.setTooltip('Récupère la position du point de référence et ajoute un décalage');
     }
 };
 
@@ -313,7 +313,7 @@ Blockly.Blocks['deplace_curseur'] = {
     init: function () {
         this.appendValueInput("mouvement")
             .setCheck("coordonnees")
-            .appendField("Déplacer le curseur de");
+            .appendField("Déplacer le point de référence de");
         this.setPreviousStatement(true, null);
         this.setNextStatement(true, null);
         this.setColour(270);
@@ -335,12 +335,12 @@ Blockly.Blocks['init_curseur_tab'] = {
     init: function () {
         this.appendValueInput("pos")
             .setCheck("coordonnees")
-            .appendField("Initialiser Curseur n°")
+            .appendField("Initialiser Point de référence n°")
             .appendField(new Blockly.FieldNumber(1, 1, 10), "idx");
         this.setPreviousStatement(true, null);
         this.setNextStatement(true, null);
         this.setColour(270);
-        this.setTooltip('Initialise le curseur');
+        this.setTooltip('Initialise le point de référence');
     }
 };
 
@@ -357,11 +357,11 @@ Blockly.JavaScript['init_curseur_tab'] = function (block) {
 Blockly.Blocks['recup_curseur_tab'] = {
     init: function () {
         this.appendDummyInput()
-            .appendField("Position Curseur n°")
+            .appendField("Position Point de référence n°")
             .appendField(new Blockly.FieldNumber(1, 1, 10), "idx");
         this.setOutput(true, "coordonnees");
         this.setColour(270);
-        this.setTooltip('Récupère la position du curseur');
+        this.setTooltip('Récupère la position du point de référence');
     }
 };
 
@@ -377,12 +377,12 @@ Blockly.Blocks['recup_curseur_offset_tab'] = {
     init: function () {
         this.appendValueInput("relative_pos")
             .setCheck("coordonnees")
-            .appendField("Position Curseur n°")
+            .appendField("Position Point de référence n°")
             .appendField(new Blockly.FieldNumber(1, 1, 10), "idx")
             .appendField(" + Décalage");
         this.setOutput(true, "coordonnees");
         this.setColour(270);
-        this.setTooltip('Récupère la position du curseur et ajoute un décalage');
+        this.setTooltip('Récupère la position du point de référence et ajoute un décalage');
     }
 };
 
@@ -401,13 +401,13 @@ Blockly.Blocks['deplace_curseur_tab'] = {
     init: function () {
         this.appendValueInput("mouvement")
             .setCheck("coordonnees")
-            .appendField("Déplacer le curseur n°")
+            .appendField("Déplacer le point de référence n°")
             .appendField(new Blockly.FieldNumber(1, 1, 10), "idx")
             .appendField(" de");
         this.setPreviousStatement(true, null);
         this.setNextStatement(true, null);
         this.setColour(270);
-        this.setTooltip('Déplace le curseur');
+        this.setTooltip('Déplace le point de référence');
     }
 };
 
