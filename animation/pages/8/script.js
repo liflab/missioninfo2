@@ -24,6 +24,7 @@ page_shapes = {
 for (let i = 1; i < 6; i++) {
     page_shapes.ex.push([
         new Man(new Coord(2, i), "#000000", "#0000ff", false)
+
     ])
 }
 
