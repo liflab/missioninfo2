@@ -8,7 +8,7 @@ page_map = [
     {row: 4, col: 5, data: {style: "1", type: 0}},
     {row: 5, col: 5, data: {style: "2", type: 0}},
     {row: 5, col: 6, data: {style: "1", type: 1}},
-    {row: 5, col: 7, data: {style: "fin", type: 3}}
+    {row: 5, col: 7, data: {style: "fin", type: 3, treasure: true}}
 ];
 
 infoList = [
