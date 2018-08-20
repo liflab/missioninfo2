@@ -3,7 +3,7 @@
 
 ---
 
-####Tu as deux blocs disponibles. Pour réussir cette page, il te faudra en utiliser **UN** seul de chaque sorte.
+####Tu as deux blocs disponibles. Pour réussir cette page, il te faudra en utiliser **UN DE CHAQUE SORTE**.
 
 ---
 
