@@ -2,7 +2,7 @@
 
 ---
 
-####Afin réussir ce niveau, tu dois placer plusieurs blocs à l'intérieur de la boucle :
+####Afin de réussir ce niveau, tu dois placer plusieurs blocs à l'intérieur de la boucle :
 ![Répéter][repeat]
 
 ---

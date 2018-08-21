@@ -22,6 +22,7 @@ page_map = [
 
 ];
 
+Maxblocks = 9;
 infoList = [
     "As-tu pensé à vérifier les consignes ? Pour les consulter, appuie sur le bouton \"info\" !",
     "As-tu pensé à vérifier si ton programme respecte les demandes de Robotino ?",

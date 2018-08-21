@@ -13,7 +13,7 @@ page_map = [
     {row: 7, col: 6, data: {style: "fin", type: 0}},
 ];
 
-maxBlocks = 9;
+MaxBlocks = 9;
 
 infoList = [
     "As-tu pensé à vérifier les consignes ? Pour les consulter, appuie sur le bouton \"info\" !",

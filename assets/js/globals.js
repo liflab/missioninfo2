@@ -214,14 +214,14 @@ function popupGood(info_callback, text) {
     //Permet de créer un popup qui vient après le texte de réussite du niveau. Il faut placer 1 comme deuxième paramètre //
     if(info_callback === 1){
     bootbox.alert({
-        message: '<div class="text-center">Bravo !!! Tu as réussi cette étape<br><br><img src="../../../assets/img/good.svg" alt="Robot goodface" height="200px"><br><br>Clique sur SUIVANT quand tu seras prêt pour la prochaine étape</div>',
+        message: '<div class="text-center">Bravo !!! Tu as réussi cette étape.<br><br><img src="../../../assets/img/good.svg" alt="Robot goodface" height="200px"><br><br>Clique sur SUIVANT quand tu seras prêt pour la prochaine étape.</div>',
         backdrop: true,
         callback: function(){ popupInfo(text); }
     });
     }
     else if(info_callback == null){
     bootbox.alert({
-        message: '<div class="text-center">Bravo !!! Tu as réussi cette étape<br><br><img src="../../../assets/img/good.svg" alt="Robot goodface" height="200px"><br><br>Clique sur SUIVANT quand tu seras prêt pour la prochaine étape</div>',
+        message: '<div class="text-center">Bravo !!! Tu as réussi cette étape.<br><br><img src="../../../assets/img/good.svg" alt="Robot goodface" height="200px"><br><br>Clique sur SUIVANT quand tu seras prêt pour la prochaine étape.</div>',
         backdrop: true,
     });
     }

@@ -19,12 +19,11 @@ Ce qui veut dire que les deux boucles devront être imbriquées une par dessus l
 <br>
 Étape afin de repérer les bouts de codes répétitifs :
 <ol>
-    <li style="margin-right: 5%;list-style-position: inside;text-align: center;font-weight: bold">Écrit le programme une fois sans utiliser de boucle</li>
-    <li style="margin-left: 14.85%;list-style-position: inside;text-align: center;font-weight: bold">Repère l'endroit dans ton programme où Robotino devrait atteindre l'intersection</li>
-    <li style="margin-left: 8%;list-style-position: inside;text-align: center;font-weight: bold">Regarde le code qui vient <span style="color:red">avant</span> et repère le bout de code qui se répète</li>
-    <li style="margin-left: 2.75%;list-style-position: inside;text-align: center;font-weight: bold">Place le bout de code qui se répète dans la boucle intersection</li>
-    <li style="margin-left: 17%;list-style-position: inside;text-align: center;font-weight: bold">Regarde le code qui vient <span style="color:red">après</span> l'intersection et repère le bout de code qui se répète</li>
-    <li style="margin-right: 0.5%;list-style-position: inside;text-align: center;font-weight: bold">Place le bout de code qui se répète dans la boucle arrivée</li>
+    <li style="margin-left: 20%;list-style-position: inside;text-align: left;font-weight: bold">Écrit le programme une fois sans utiliser de boucle</li>
+    <li style="margin-left: 20%;list-style-position: inside;text-align: left;font-weight: bold">Repère l'endroit dans ton programme où Robotino devrait atteindre l'intersection</li>
+    <li style="margin-left: 20%;list-style-position: inside;text-align: left;font-weight: bold">Regarde le code qui vient <span style="color:red">avant</span> et repère le bout de code qui se répète</li>
+    <li style="margin-left: 20%;list-style-position: inside;text-align: left;font-weight: bold">Place le bout de code qui se répète dans la boucle intersection</li>
+    <li style="margin-left: 20%;list-style-position: inside;text-align: left;font-weight: bold">Regarde le code qui vient <span style="color:red">après</span> l'intersection et repère le bout de code qui se répète</li>
 
 </ol>
 <span style="color: red">Si ton programme contient plusieurs boucles, alors il y aura plusieurs bouts de code qui se répètent</span>

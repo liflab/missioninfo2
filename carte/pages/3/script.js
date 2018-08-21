@@ -7,7 +7,7 @@ page_map = [
     {row: 4, col: 5, data: {style: "1", type: 1}},
     {row: 4, col: 6, data: {style: "fin", type: 3}}
 ];
-
+Maxblock =2;
 infoList = [
     "As-tu pensé à vérifier les consignes ? Pour les consulter, appuie sur le bouton \"info\" !",
     "As-tu pensé à vérifier si ton programme respecte les demandes de Robotino ?",

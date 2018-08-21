@@ -1,4 +1,4 @@
-popupInfo("Parfois, il ne faut pas tout mettre dans le bloc vert !!! \n Aide robotino à se rendre jusqu’à la case verte. \n **Attention ! Tu n’as le droit qu’à 6 blocs.**");
+popupInfo("Parfois, il ne faut pas tout mettre dans la boucle. \n Parfois, il faut placer des blocs à l'extérieure de la boucle.\n Aide robotino à se rendre jusqu’à la case verte. \n **Attention ! Tu n’as le droit qu’à 6 blocs.**");
 
 page_map = [
     {row: 5, col: 1, data: {style: "deb", type: 1}},
@@ -11,7 +11,7 @@ page_map = [
     {row: 6, col: 7, data: {style: "fin", type: 3}},
 ];
 
-maxBlocks = 6;
+MaxBlocks = 6;
 
 infoList = [
     "As-tu pensé à vérifier les consignes ? Pour les consulter, appuie sur le bouton \"info\" !",

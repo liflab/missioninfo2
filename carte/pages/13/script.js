@@ -33,7 +33,7 @@ infoList = [
     "As-tu pensé demandé à ton enseignant ?",
 ];
 
-maxBlocks = 7;
+MaxBlocks = 7;
 
 function setup() {
     var canvas = createCanvas(600, 600);
