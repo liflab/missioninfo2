@@ -48,13 +48,15 @@ switch(parseInt(window.location.href.match(new RegExp("[0-9]+", "g")).splice(-1)
     case 8:
     case 10:
         dropdown_angle = [
-            // ["90° degrés","90"],
-            // ["26.42° degrés","26.42"],
-            // ["63.58° degrés","63.58"],
+             //["90° degrés","90"],
+             //["26.42° degrés","26.42"],
+             //["63.58° degrés","63.58"],
             // ["180° degrés","180"],
+
             [{ "src": "../../assets/img/angles/90.PNG", "width": largeurImage, "height": hauteurImage, "alt": "90" }, "90"],
             [{ "src": "../../assets/img/angles/26.PNG", "width": largeurImage, "height": hauteurImage, "alt": "26" }, "26.42"],
-            [{ "src": "../../assets/img/angles/64.PNG", "width": largeurImage, "height": hauteurImage, "alt": "90" }, "90"]
+            [{ "src": "../../assets/img/angles/64.PNG", "width": largeurImage, "height": hauteurImage, "alt": "90" }, "64"],
+            [{ "src": "../../assets/img/angles/180.PNG", "width": largeurImage, "height": hauteurImage, "alt": "180" }, "180"]
         ];
     break;
     case 11:
@@ -284,6 +286,7 @@ switch(parseInt(window.location.href.match(new RegExp("[0-9]+", "g")).splice(-1)
 }
 functionCase =  '.appendField(new Blockly.FieldDropdown(dropdown_angle), "Angle")';
 
+
 Blockly.Blocks['avancer'] = {
     init: function() {
         this.appendDummyInput()
@@ -295,7 +298,7 @@ Blockly.Blocks['avancer'] = {
         this.setTooltip('Avancer de ...');
     }
 };
-/*Blockly.Blocks['tourner'] = { //tourner phase 1
+/*Blockly.Blocks['tourner'] = { //block tourner phase 1
     init: function() {
         this.appendDummyInput()
             .appendField("Tourner de")
@@ -314,12 +317,11 @@ Blockly.Blocks['avancer'] = {
 };
 */
 
-Blockly.Blocks['tourner'] = { //tourner phase 2
+Blockly.Blocks['tourner'] = { // block tourner phase 2
     init: function() {
         this.appendDummyInput()
             .appendField("Tourner de")
             .appendField(new Blockly.FieldDropdown(dropdown_angle), "Angle");
-           // .appendField(new Blockly.FieldAngle(240), "Angle"); // pour choisir un angle sur 360
         this.appendDummyInput()
             .appendField("vers la ")
             .appendField(new Blockly.FieldDropdown([
@@ -333,7 +335,7 @@ Blockly.Blocks['tourner'] = { //tourner phase 2
     }
 };
 
-Blockly.Blocks['tournerAngle'] = { // tourner progression 15 phase 2
+Blockly.Blocks['tournerAngle'] = {
     init: function() {
         this.appendDummyInput()
             .appendField("Tourner de")
@@ -353,26 +355,28 @@ Blockly.Blocks['tournerAngle'] = { // tourner progression 15 phase 2
     }
 };
 
+/*
+ Blockly.Blocks['tourner_arc'] = {
+     init: function() {
+         this.appendDummyInput()
+             .appendField("Tourner de")
+             .appendField(new Blockly.FieldDropdown(dropdown_angle), "Angle");
+        this.appendDummyInput()
+             .appendField("vers la ")
+            .appendField(new Blockly.FieldDropdown([["Droite","1"], ["Gauche","-1"]]), "Direction");
+        this.setPreviousStatement(true, null);
+         this.setColour(230);
+         this.setTooltip('');
+    }
+ };
+*/
 
-// Blockly.Blocks['tourner_arc'] = {
-//     init: function() {
-//         this.appendDummyInput()
-//             .appendField("Tourner de")
-//             .appendField(new Blockly.FieldDropdown(dropdown_angle), "Angle");
-//         this.appendDummyInput()
-//             .appendField("vers la ")
-//             .appendField(new Blockly.FieldDropdown([["Droite","1"], ["Gauche","-1"]]), "Direction");
-//         this.setPreviousStatement(true, null);
-//         this.setColour(230);
-//         this.setTooltip('');
-//     }
-// };
-
-Blockly.Blocks['tourner_arc'] = {
+Blockly.Blocks['tourner_arc'] = { //essais troubleshooting
     init: function() {
         this.appendDummyInput()
             .appendField("Tourner de")
-            .appendField(functionCase, "Angle");
+          //  .appendField(functionCase, "Angle");
+            .appendField(new Blockly.FieldDropdown(dropdown_angle), "Angle");
         this.appendDummyInput()
             .appendField("vers la ")
             .appendField(new Blockly.FieldDropdown([["Droite","1"], ["Gauche","-1"]]), "Direction");
@@ -381,6 +385,8 @@ Blockly.Blocks['tourner_arc'] = {
         this.setTooltip('');
     }
 };
+
+
 Blockly.Blocks['lever_le_crayon'] = {
     init: function() {
         this.appendDummyInput()
@@ -432,7 +438,7 @@ Blockly.Blocks['arc_de_cercle'] = {
             .appendField("Dessin d'un arc de cercle");
         this.appendDummyInput()
             .appendField("Rayon: ")
-            .appendField(new Blockly.FieldNumber(0, 0, 200), "Taille");
+            .appendField(new Blockly.FieldNumber(0, 0.5, 200), "Taille");
         this.appendStatementInput("Rotation")
             .setCheck(null)
             .appendField("Rotation");
