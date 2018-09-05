@@ -1,9 +1,9 @@
-popupInfo("Celle-ci est censée classer les bras bleus dans le seau “Bras bleus”,\n les bras rouges dans le seau “Bras rouges” et le reste dans le seau “Inutiles”.\n À toi de corriger le programme !",3);
+popupInfo("Celle-ci est censée classer le bras bleu dans le seau “Bras bleu”,\n le bras rouge dans le seau “Bras rouge” et le reste dans le seau “Inutiles”.\n À toi de corriger le programme !",3);
 
 bucketsExercise = {
     elems: [
-        new TextShape("Bras bleus", "blue"),
-        new TextShape("Bras rouges",  "red"),
+        new TextShape("Bras bleu", "blue"),
+        new TextShape("Bras rouge",  "red"),
         new TextShape("Inutiles",  "#ffffff"),
     ],
     rules: [

@@ -2,7 +2,7 @@ popupInfo("J’aimerais que tu essaies de corriger 2 machines de tri qui ne fonc
 
 bucketsExercise = {
     elems: [
-        new TextShape("Fusées Rouges", "#ff0000"),
+        new TextShape("Fusée Rouge", "#ff0000"),
         new TextShape("Yeux",  "#ffffff"),
         new TextShape("Inutiles",  "#ffffff"),
     ],
