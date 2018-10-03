@@ -1,16 +1,29 @@
-# Aide: Dessiner des cercles
+# Aide - Construction du toit
 
-Tu dois utiliser des boucles et des blocs «dessin d'un arc de cercle».<br>
+---
 
-Chaque petit trait correspond à un petit arc de cercle: tu devras donc en tracer beaucoup, beaucoup, beaucoup! <br>
-Le nombre de degrés de chaque arc sera petit. C'est pour cela que tu dois absolument utiliser des boucles.<br>
+Tu dois tracer uniquement les lignes rouge pâle: les deux arcs ainsi que la ligne qui les relie.<br>
 
-Astuce: Augmente la vitesse de Robotino avant de démarrer le programme (déplace le curseur de la tortue vers le lièvre).<br>
+Tu auras besoin de deux blocs «dessin d'un arc de cercle».<br>
+
+![Arc de Cercle][arc]<br>
+
+Au besoin, retourne consulter la présentation de la page 8.
+
+---
 
 # Repère d'indication pour les angles
 ![Repère][repere]<br>
+
+---
+
+N'oublie pas, lorsque tu appuis sur le bouton play, Robotino te montre la solution !
+![Time][time]
+
+---
 
 ## <span style="color: #800080">À ton tour d'essayer</span>
 
 [arc]: img/architecture_arc_de_cercle.png
 [repere]: img/repere.png
+[time]: img/time.png

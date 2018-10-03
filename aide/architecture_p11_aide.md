@@ -1,13 +1,28 @@
-# Aide: Une structure aux bords arrondis
+# Aide - Cercles pointillés
 
-Pour réussir cette page, tu dois utiliser une combinaison de lignes droites et d'arcs de cercle.
+---
 
-Il est possible d'utiliser une boucle, mais ce n'est pas obligatoire.
+Tu dois utiliser des boucles et des blocs «dessin d'un arc de cercle».<br>
+
+Chaque petit trait correspond à un petit arc de cercle: tu devras donc en tracer beaucoup, beaucoup, beaucoup! <br>
+Le nombre de degrés de chaque arc sera petit. C'est pour cela que tu dois absolument utiliser des boucles.<br>
+
+Astuce: Augmente la vitesse de Robotino avant de démarrer le programme (déplace le curseur de la tortue vers le lièvre).<br>
+
+---
 
 # Repère d'indication pour les angles
 ![Repère][repere]<br>
+
+---
+
+N'oublie pas, lorsque tu appuis sur le bouton play, Robotino te montre la solution !
+![Time][time]
+
+---
 
 ## <span style="color: #800080">À ton tour d'essayer</span>
 
 [arc]: img/architecture_arc_de_cercle.png
 [repere]: img/repere.png
+[time]: img/time.png

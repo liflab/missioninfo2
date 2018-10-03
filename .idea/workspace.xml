@@ -4,22 +4,71 @@
     <bookmark url="file://$PROJECT_DIR$/carte/pages/5/slide.html" line="40" mnemonic="5" />
     <bookmark url="file://$PROJECT_DIR$/logique/pages/3/script.js" line="7" />
     <bookmark url="file://$PROJECT_DIR$/carte/pages/1/index.html" line="32" />
-    <bookmark url="file://$PROJECT_DIR$/aide/logique_p5_aide.md" line="18" />
+    <bookmark url="file://$PROJECT_DIR$/aide/logique_p5_aide.md" line="21" />
     <bookmark url="file://$PROJECT_DIR$/architecture/pages/5/index.html" line="0" />
     <bookmark url="file://$PROJECT_DIR$/architecture/pages/4/slide.html" line="86" />
     <bookmark url="file://$PROJECT_DIR$/architecture/pages/3" />
     <bookmark url="file://$PROJECT_DIR$/animation/pages/5/index.html" line="0" />
-    <bookmark url="file://$PROJECT_DIR$/animation/pages/6/slide.html" line="130" />
-    <bookmark url="file://$PROJECT_DIR$/animation/pages/6/slide.html" line="158" />
-    <bookmark url="file://$PROJECT_DIR$/animation/pages/6/slide.html" line="157" />
-    <bookmark url="file://$PROJECT_DIR$/animation/pages/6/slide.html" line="302" />
+    <bookmark url="file://$PROJECT_DIR$/animation/pages/6/slide.html" line="281" />
+    <bookmark url="file://$PROJECT_DIR$/animation/pages/6/slide.html" line="307" />
+    <bookmark url="file://$PROJECT_DIR$/animation/pages/6/slide.html" line="306" />
+    <bookmark url="file://$PROJECT_DIR$/animation/pages/6/slide.html" line="369" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="47ee82bd-6162-43ee-8cee-452673eb3d62" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/aide/architecture_p13_aide.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aide/animation_p10_aide.md" beforeDir="false" afterPath="$PROJECT_DIR$/aide/animation_p10_aide.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aide/animation_p11_aide.md" beforeDir="false" afterPath="$PROJECT_DIR$/aide/animation_p11_aide.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aide/animation_p12_aide.md" beforeDir="false" afterPath="$PROJECT_DIR$/aide/animation_p12_aide.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aide/animation_p2_aide.md" beforeDir="false" afterPath="$PROJECT_DIR$/aide/animation_p2_aide.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aide/animation_p3_aide.md" beforeDir="false" afterPath="$PROJECT_DIR$/aide/animation_p3_aide.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aide/animation_p7_aide.md" beforeDir="false" afterPath="$PROJECT_DIR$/aide/animation_p7_aide.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aide/animation_p8_aide.md" beforeDir="false" afterPath="$PROJECT_DIR$/aide/animation_p8_aide.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aide/animation_p9_aide.md" beforeDir="false" afterPath="$PROJECT_DIR$/aide/animation_p9_aide.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aide/architecture_p10_aide.md" beforeDir="false" afterPath="$PROJECT_DIR$/aide/architecture_p10_aide.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aide/architecture_p11_aide.md" beforeDir="false" afterPath="$PROJECT_DIR$/aide/architecture_p11_aide.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aide/architecture_p12_aide.md" beforeDir="false" afterPath="$PROJECT_DIR$/aide/architecture_p12_aide.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aide/architecture_p13_aide.md" beforeDir="false" afterPath="$PROJECT_DIR$/aide/architecture_p13_aide.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aide/architecture_p2_aide.md" beforeDir="false" afterPath="$PROJECT_DIR$/aide/architecture_p2_aide.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aide/architecture_p3_aide.md" beforeDir="false" afterPath="$PROJECT_DIR$/aide/architecture_p3_aide.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aide/architecture_p5_aide.md" beforeDir="false" afterPath="$PROJECT_DIR$/aide/architecture_p5_aide.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aide/architecture_p6_aide.md" beforeDir="false" afterPath="$PROJECT_DIR$/aide/architecture_p6_aide.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aide/architecture_p7_aide.md" beforeDir="false" afterPath="$PROJECT_DIR$/aide/architecture_p7_aide.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aide/architecture_p9_aide.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aide/img/animation_curseur_tab.png" beforeDir="false" afterPath="$PROJECT_DIR$/aide/img/animation_curseur_tab.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aide/img/animation_ex_3.png" beforeDir="false" afterPath="$PROJECT_DIR$/aide/img/animation_ex_3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aide/img/animation_ex_4.png" beforeDir="false" afterPath="$PROJECT_DIR$/aide/img/animation_ex_4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/animation/assets/img/slides_p1/0.png" beforeDir="false" afterPath="$PROJECT_DIR$/animation/assets/img/slides_p1/0.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/animation/assets/img/slides_p1/1.png" beforeDir="false" afterPath="$PROJECT_DIR$/animation/assets/img/slides_p1/1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/animation/assets/img/slides_p1/10.png" beforeDir="false" afterPath="$PROJECT_DIR$/animation/assets/img/slides_p1/10.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/animation/assets/img/slides_p1/10_fleche.png" beforeDir="false" afterPath="$PROJECT_DIR$/animation/assets/img/slides_p1/10_fleche.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/animation/assets/img/slides_p1/11.png" beforeDir="false" afterPath="$PROJECT_DIR$/animation/assets/img/slides_p1/11.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/animation/assets/img/slides_p1/11_fleche.png" beforeDir="false" afterPath="$PROJECT_DIR$/animation/assets/img/slides_p1/11_fleche.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/animation/assets/img/slides_p1/2.png" beforeDir="false" afterPath="$PROJECT_DIR$/animation/assets/img/slides_p1/2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/animation/assets/img/slides_p1/3.png" beforeDir="false" afterPath="$PROJECT_DIR$/animation/assets/img/slides_p1/3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/animation/assets/img/slides_p1/4.png" beforeDir="false" afterPath="$PROJECT_DIR$/animation/assets/img/slides_p1/4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/animation/assets/img/slides_p1/4_fleche.png" beforeDir="false" afterPath="$PROJECT_DIR$/animation/assets/img/slides_p1/4_fleche.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/animation/assets/img/slides_p1/5.png" beforeDir="false" afterPath="$PROJECT_DIR$/animation/assets/img/slides_p1/5.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/animation/assets/img/slides_p1/6.png" beforeDir="false" afterPath="$PROJECT_DIR$/animation/assets/img/slides_p1/6.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/animation/assets/img/slides_p1/6_fleche.png" beforeDir="false" afterPath="$PROJECT_DIR$/animation/assets/img/slides_p1/6_fleche.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/animation/assets/img/slides_p1/7.png" beforeDir="false" afterPath="$PROJECT_DIR$/animation/assets/img/slides_p1/7.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/animation/assets/img/slides_p1/8.png" beforeDir="false" afterPath="$PROJECT_DIR$/animation/assets/img/slides_p1/8.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/animation/assets/img/slides_p1/8_fleche.png" beforeDir="false" afterPath="$PROJECT_DIR$/animation/assets/img/slides_p1/8_fleche.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/animation/assets/img/slides_p1/9.png" beforeDir="false" afterPath="$PROJECT_DIR$/animation/assets/img/slides_p1/9.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/animation/assets/img/slides_p1/9_fleche.png" beforeDir="false" afterPath="$PROJECT_DIR$/animation/assets/img/slides_p1/9_fleche.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/animation/pages/1/slide.html" beforeDir="false" afterPath="$PROJECT_DIR$/animation/pages/1/slide.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/animation/pages/6/slide.html" beforeDir="false" afterPath="$PROJECT_DIR$/animation/pages/6/slide.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/animation/pages/10/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/animation/pages/10/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/animation/pages/11/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/animation/pages/11/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/animation/pages/12/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/animation/pages/12/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/animation/pages/13/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/animation/pages/13/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/animation/pages/2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/animation/pages/2/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/animation/pages/3/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/animation/pages/3/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/animation/pages/4/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/animation/pages/4/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/animation/pages/5/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/animation/pages/5/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/animation/pages/7/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/animation/pages/7/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/animation/pages/8/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/animation/pages/8/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/animation/pages/9/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/animation/pages/9/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logique/assets/js/blocks.js" beforeDir="false" afterPath="$PROJECT_DIR$/logique/assets/js/blocks.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -32,123 +81,13 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="DockManager">
-    <window id="1">
-      <content type="file-editors">
-        <state>
-          <leaf>
-            <file leaf-file-name="blockly.html" pinned="false" current-in-tab="true">
-              <entry file="file://$PROJECT_DIR$/animation/pages/11/blockly.html">
-                <provider selected="true" editor-type-id="text-editor">
-                  <state relative-caret-position="476">
-                    <caret line="28" column="12" lean-forward="true" selection-start-line="28" selection-start-column="12" selection-end-line="28" selection-end-column="12" />
-                  </state>
-                </provider>
-              </entry>
-            </file>
-          </leaf>
-        </state>
-      </content>
-    </window>
-  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="slide.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/animation/pages/1/slide.html">
+      <file leaf-file-name="animation_p12_aide.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/aide/animation_p12_aide.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-924">
-              <caret line="145" column="75" lean-forward="true" selection-start-line="145" selection-start-column="75" selection-end-line="145" selection-end-column="75" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="slide.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/animation/pages/6/slide.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1145">
-              <caret line="62" column="18" lean-forward="true" selection-start-line="62" selection-start-column="18" selection-end-line="62" selection-end-column="18" />
-              <folding>
-                <element signature="n#style#0;n#div#0;n#section#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#section#2;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#0;n#p#0;n#div#0;n#section#2;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#0;n#p#0;n#div#0;n#section#3;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#0;n#p#0;n#div#0;n#section#4;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#0;n#p#0;n#div#0;n#section#5;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#0;n#p#0;n#div#0;n#section#6;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#0;n#p#0;n#div#0;n#section#7;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#0;n#p#0;n#section#10;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#section#12;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#section#13;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#section#14;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#section#15;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#section#16;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#section#17;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#p#0;n#div#0;n#section#17;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#1;n#p#0;n#div#0;n#section#17;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#section#18;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#section#19;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#section#22;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#section#23;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#section#24;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#section#28;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#section#29;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#section#30;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#section#31;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#section#32;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#section#33;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="script.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/animation/pages/11/script.js">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="script.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/animation/pages/10/script.js">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="script.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/animation/pages/9/script.js">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/animation/pages/10/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="493">
-              <caret line="110" column="35" selection-start-line="110" selection-start-column="28" selection-end-line="110" selection-end-column="35" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="blockly.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/animation/pages/10/blockly.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-85" />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/animation/pages/11/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1700">
-              <caret line="110" column="35" selection-start-line="110" selection-start-column="28" selection-end-line="110" selection-end-column="35" />
-              <folding>
-                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/animation/pages/9/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-204">
-              <caret line="70" column="56" selection-start-line="70" selection-start-column="56" selection-end-line="70" selection-end-column="56" />
+            <state relative-caret-position="119">
+              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
             </state>
           </provider>
         </entry>
@@ -181,44 +120,11 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/modules/bootstrap/css/bootstrap.css" />
-        <option value="$PROJECT_DIR$/carte/pages/3/index.html" />
-        <option value="$PROJECT_DIR$/architecture/pages/5/index.html" />
-        <option value="$PROJECT_DIR$/architecture/pages/4/index.html" />
-        <option value="$PROJECT_DIR$/architecture/pages/3/index.html" />
-        <option value="$PROJECT_DIR$/architecture/pages/6/index.html" />
-        <option value="$PROJECT_DIR$/architecture/pages/7/index.html" />
-        <option value="$PROJECT_DIR$/architecture/pages/2/index.html" />
-        <option value="$PROJECT_DIR$/architecture/pages/1/index.html" />
-        <option value="$PROJECT_DIR$/architecture/pages/8/index.html" />
-        <option value="$PROJECT_DIR$/architecture/pages/9/index.html" />
-        <option value="$PROJECT_DIR$/architecture/pages/10/index.html" />
-        <option value="$PROJECT_DIR$/architecture/pages/11/index.html" />
-        <option value="$PROJECT_DIR$/architecture/pages/12/script.js" />
-        <option value="$PROJECT_DIR$/architecture/pages/12/index.html" />
-        <option value="$PROJECT_DIR$/architecture/pages/13/index.html" />
-        <option value="$PROJECT_DIR$/architecture/pages/14/index.html" />
-        <option value="$PROJECT_DIR$/architecture/pages/15/index.html" />
-        <option value="$PROJECT_DIR$/architecture/pages/9/slide.html" />
-        <option value="$PROJECT_DIR$/animation/pages/1/index.html" />
-        <option value="$PROJECT_DIR$/animation/pages/3/index.html" />
-        <option value="$PROJECT_DIR$/animation/pages/2/index.html" />
-        <option value="$PROJECT_DIR$/animation/pages/4/index.html" />
-        <option value="$PROJECT_DIR$/animation/pages/5/index.html" />
-        <option value="$PROJECT_DIR$/animation/pages/8/blockly.html" />
-        <option value="$PROJECT_DIR$/animation/pages/8/script.js" />
         <option value="$PROJECT_DIR$/animation/assets/js/blocks.js" />
         <option value="$PROJECT_DIR$/animation/assets/js/functions.js" />
         <option value="$PROJECT_DIR$/animation/pages/7/script.js" />
         <option value="$PROJECT_DIR$/animation/pages/4/blockly.html" />
         <option value="$PROJECT_DIR$/animation/pages/7/blockly.html" />
-        <option value="$PROJECT_DIR$/animation/pages/7/index.html" />
-        <option value="$PROJECT_DIR$/animation/pages/8/index.html" />
-        <option value="$PROJECT_DIR$/animation/pages/9/index.html" />
-        <option value="$PROJECT_DIR$/animation/pages/10/index.html" />
-        <option value="$PROJECT_DIR$/animation/pages/11/index.html" />
-        <option value="$PROJECT_DIR$/animation/pages/12/index.html" />
-        <option value="$PROJECT_DIR$/animation/pages/13/index.html" />
         <option value="$PROJECT_DIR$/animation/pages/14/index.html" />
         <option value="$PROJECT_DIR$/carte/pages/10/script.js" />
         <option value="$PROJECT_DIR$/decouverte/pages/2/script.js" />
@@ -229,9 +135,42 @@
         <option value="$PROJECT_DIR$/logique/pages/6/script.js" />
         <option value="$PROJECT_DIR$/logique/pages/7/script.js" />
         <option value="$PROJECT_DIR$/architecture/pages/1/slide.html" />
-        <option value="$PROJECT_DIR$/animation/pages/1/slide.html" />
         <option value="$PROJECT_DIR$/animation/pages/6/slide.html" />
         <option value="$PROJECT_DIR$/animation/pages/11/blockly.html" />
+        <option value="$PROJECT_DIR$/logique/assets/js/blocks.js" />
+        <option value="$PROJECT_DIR$/logique/pages/9/script.js" />
+        <option value="$PROJECT_DIR$/aide/architecture_p9_aide.md" />
+        <option value="$PROJECT_DIR$/aide/architecture_p2_aide.md" />
+        <option value="$PROJECT_DIR$/aide/architecture_p3_aide.md" />
+        <option value="$PROJECT_DIR$/aide/architecture_p5_aide.md" />
+        <option value="$PROJECT_DIR$/aide/architecture_p6_aide.md" />
+        <option value="$PROJECT_DIR$/aide/architecture_p7_aide.md" />
+        <option value="$PROJECT_DIR$/aide/architecture_p8_aide.md" />
+        <option value="$PROJECT_DIR$/aide/architecture_p10_aide.md" />
+        <option value="$PROJECT_DIR$/aide/architecture_p11_aide.md" />
+        <option value="$PROJECT_DIR$/aide/architecture_p12_aide.md" />
+        <option value="$PROJECT_DIR$/aide/architecture_p13_aide.md" />
+        <option value="$PROJECT_DIR$/aide/animation_p2_aide.md" />
+        <option value="$PROJECT_DIR$/aide/animation_p3_aide.md" />
+        <option value="$PROJECT_DIR$/animation/pages/2/index.html" />
+        <option value="$PROJECT_DIR$/animation/pages/3/index.html" />
+        <option value="$PROJECT_DIR$/animation/pages/4/index.html" />
+        <option value="$PROJECT_DIR$/animation/pages/5/index.html" />
+        <option value="$PROJECT_DIR$/animation/pages/7/index.html" />
+        <option value="$PROJECT_DIR$/animation/pages/8/index.html" />
+        <option value="$PROJECT_DIR$/animation/pages/9/index.html" />
+        <option value="$PROJECT_DIR$/animation/pages/10/index.html" />
+        <option value="$PROJECT_DIR$/animation/pages/11/index.html" />
+        <option value="$PROJECT_DIR$/animation/pages/12/index.html" />
+        <option value="$PROJECT_DIR$/animation/pages/13/index.html" />
+        <option value="$PROJECT_DIR$/animation/pages/1/slide.html" />
+        <option value="$PROJECT_DIR$/animation/pages/10/blockly.html" />
+        <option value="$PROJECT_DIR$/aide/animation_p7_aide.md" />
+        <option value="$PROJECT_DIR$/aide/animation_p8_aide.md" />
+        <option value="$PROJECT_DIR$/aide/animation_p9_aide.md" />
+        <option value="$PROJECT_DIR$/aide/animation_p10_aide.md" />
+        <option value="$PROJECT_DIR$/aide/animation_p11_aide.md" />
+        <option value="$PROJECT_DIR$/aide/animation_p12_aide.md" />
       </list>
     </option>
   </component>
@@ -249,10 +188,10 @@
     </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-10" />
-    <option name="y" value="-10" />
-    <option name="width" value="1940" />
-    <option name="height" value="1170" />
+    <option name="x" value="275" />
+    <option name="y" value="-16" />
+    <option name="width" value="697" />
+    <option name="height" value="735" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -281,6 +220,12 @@
               <item name="missioninfo" type="b2602c69:ProjectViewProjectNode" />
               <item name="missioninfo" type="462c0819:PsiDirectoryNode" />
               <item name="animation" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="missioninfo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="missioninfo" type="462c0819:PsiDirectoryNode" />
+              <item name="animation" type="462c0819:PsiDirectoryNode" />
               <item name="pages" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -295,7 +240,35 @@
               <item name="missioninfo" type="462c0819:PsiDirectoryNode" />
               <item name="animation" type="462c0819:PsiDirectoryNode" />
               <item name="pages" type="462c0819:PsiDirectoryNode" />
+              <item name="2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="missioninfo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="missioninfo" type="462c0819:PsiDirectoryNode" />
+              <item name="animation" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+              <item name="3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="missioninfo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="missioninfo" type="462c0819:PsiDirectoryNode" />
+              <item name="animation" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
               <item name="6" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="missioninfo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="missioninfo" type="462c0819:PsiDirectoryNode" />
+              <item name="animation" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+              <item name="7" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="missioninfo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="missioninfo" type="462c0819:PsiDirectoryNode" />
+              <item name="animation" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+              <item name="8" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="missioninfo" type="b2602c69:ProjectViewProjectNode" />
@@ -321,23 +294,16 @@
             <path>
               <item name="missioninfo" type="b2602c69:ProjectViewProjectNode" />
               <item name="missioninfo" type="462c0819:PsiDirectoryNode" />
-              <item name="architecture" type="462c0819:PsiDirectoryNode" />
+              <item name="animation" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+              <item name="12" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="missioninfo" type="b2602c69:ProjectViewProjectNode" />
               <item name="missioninfo" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="missioninfo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="missioninfo" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="missioninfo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="missioninfo" type="462c0819:PsiDirectoryNode" />
-              <item name="modules" type="462c0819:PsiDirectoryNode" />
+              <item name="animation" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+              <item name="13" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -389,6 +355,7 @@
       <workItem from="1536165887644" duration="5234000" />
       <workItem from="1536792351923" duration="1849000" />
       <workItem from="1537202597997" duration="4855000" />
+      <workItem from="1538578733610" duration="12156000" />
     </task>
     <task id="LOCAL-00001" summary="Peaufinage de l'interface activité 1 et 2 au complet et progression 1 à 3 de l'activité communique avec le continent.">
       <created>1532548771355</created>
@@ -450,22 +417,22 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="144104000" />
+    <option name="totallyTimeSpent" value="156260000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="936" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1451823" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14508928" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -474,24 +441,25 @@
       <window_info active="true" anchor="bottom" id="Messages" order="7" visible="true" weight="0.3293348" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
     <layout-to-restore>
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="10" />
-      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Messages" order="11" />
       <window_info id="Favorites" order="2" side_tool="true" />
     </layout-to-restore>
@@ -520,340 +488,345 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/animation/pages/14/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="83" column="68" selection-start-line="83" selection-start-column="68" selection-end-line="83" selection-end-column="68" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/animation/pages/6/script.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/animation/pages/6/index.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/carte/pages/10/script.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="52" lean-forward="true" selection-start-line="10" selection-start-column="52" selection-end-line="10" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/decouverte/pages/2/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-459" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/decouverte/pages/2/script.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="189" selection-start-column="189" selection-end-column="189" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/aide/decouverte_p4_aide.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="75" selection-start-line="15" selection-start-column="75" selection-end-line="15" selection-end-column="75" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/aide/decouverte_p5_aide.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="106" lean-forward="true" selection-start-line="5" selection-start-column="106" selection-end-line="5" selection-end-column="106" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/decouverte/pages/6/script.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/decouverte/pages/5/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="223">
-          <caret line="63" column="45" lean-forward="true" selection-start-line="63" selection-start-column="45" selection-end-line="63" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/decouverte/pages/6/slide.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="115" column="61" selection-start-line="115" selection-start-column="61" selection-end-line="115" selection-end-column="61" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/decouverte/pages/6/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="72" column="60" selection-start-line="72" selection-start-column="60" selection-end-line="72" selection-end-column="60" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/logique/pages/6/blockly.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/logique/pages/6/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-310" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/logique/pages/6/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
+        <state relative-caret-position="-258">
           <caret line="4" column="34" selection-start-line="4" selection-start-column="34" selection-end-line="4" selection-end-column="34" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/logique/pages/7/script.js">
+    <entry file="file://$PROJECT_DIR$/logique/pages/6/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="190" selection-start-column="190" selection-end-column="190" />
+        <state relative-caret-position="34">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/logique/pages/11/script.js">
+    <entry file="file://$PROJECT_DIR$/logique/pages/9/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-663" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aide/carte_p2_aide.md">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/architecture/assets/img/angles/64.PNG">
-      <provider selected="true" editor-type-id="images" />
+    <entry file="file://$PROJECT_DIR$/logique/assets/js/functions.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="351" column="26" lean-forward="true" selection-start-line="351" selection-start-column="26" selection-end-line="351" selection-end-column="26" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#h3#1;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/architecture/assets/img/presentation/tourner1_1.png">
-      <provider selected="true" editor-type-id="images" />
+    <entry file="file://$PROJECT_DIR$/logique/pages/9/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="38" selection-start-line="7" selection-start-column="38" selection-end-line="7" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logique/pages/8/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-867" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aide/architecture_p9_aide.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="3" selection-start-line="17" selection-start-column="3" selection-end-line="17" selection-end-column="3" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/architecture/pages/1/slide.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="249">
-          <caret line="243" column="80" selection-start-line="243" selection-start-column="80" selection-end-line="243" selection-end-column="80" />
+        <state relative-caret-position="-635">
+          <caret line="248" column="35" lean-forward="true" selection-start-line="248" selection-start-column="35" selection-end-line="248" selection-end-column="35" />
+          <folding>
+            <element signature="n#style#0;n#span#0;n#p#1;n#section#18;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/aide/architecture_p10_aide.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
+    <entry file="file://$PROJECT_DIR$/architecture/pages/1/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-459" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aide/architecture_p2_aide.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="31" selection-start-line="31" selection-end-line="31" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aide/architecture_p3_aide.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="20" selection-start-line="28" selection-start-column="20" selection-end-line="28" selection-end-column="20" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/aide/architecture_p5_aide.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="153">
-            <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-          </first_editor>
-          <second_editor />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="20" selection-start-line="26" selection-start-column="20" selection-end-line="26" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/architecture/pages/7/blockly.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/architecture/pages/7/index.html">
+    <entry file="file://$PROJECT_DIR$/aide/architecture_p6_aide.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1445">
-          <caret line="85" column="51" selection-start-line="85" selection-start-column="51" selection-end-line="85" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/architecture/pages/7/script.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/architecture/pages/8/blockly.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/architecture/pages/8/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="986">
-          <caret line="58" column="52" selection-start-line="58" selection-start-column="52" selection-end-line="58" selection-end-column="52" />
+        <state relative-caret-position="476">
+          <caret line="28" column="20" selection-start-line="28" selection-start-column="20" selection-end-line="28" selection-end-column="20" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/aide/architecture_p7_aide.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/aide/architecture_p9_aide.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="204">
-            <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="67" column="8" selection-start-line="67" selection-start-column="8" selection-end-line="67" selection-end-column="8" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+        <state relative-caret-position="452">
+          <caret line="34" column="20" selection-start-line="34" selection-start-column="20" selection-end-line="34" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/architecture/pages/10/script.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/architecture/pages/8/script.js">
+    <entry file="file://$PROJECT_DIR$/aide/architecture_p8_aide.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        <state relative-caret-position="442">
+          <caret line="26" column="20" selection-start-line="26" selection-start-column="20" selection-end-line="26" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/aide/carte_p9_aide.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
+    <entry file="file://$PROJECT_DIR$/aide/architecture_p10_aide.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="20" selection-start-line="28" selection-start-column="20" selection-end-line="28" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/architecture/pages/1/script.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/architecture/pages/3/script.js">
+    <entry file="file://$PROJECT_DIR$/aide/architecture_p11_aide.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1078" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/js/globals.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2244">
-          <caret line="302" column="9" selection-start-line="302" selection-start-column="9" selection-end-line="302" selection-end-column="9" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-          </folding>
+        <state relative-caret-position="459">
+          <caret line="27" column="20" selection-start-line="27" selection-start-column="20" selection-end-line="27" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/architecture/assets/js/architecture_functions.js">
+    <entry file="file://$PROJECT_DIR$/aide/architecture_p12_aide.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6851">
-          <caret line="403" column="1" lean-forward="true" selection-start-line="403" selection-start-column="1" selection-end-line="403" selection-end-column="1" />
-          <folding>
-            <element signature="n#style#0;n#button#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/architecture/assets/js/architecture_blocks.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5569">
-          <caret line="372" selection-start-line="372" selection-end-line="372" />
+        <state relative-caret-position="408">
+          <caret line="24" column="20" selection-start-line="24" selection-start-column="20" selection-end-line="24" selection-end-column="20" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/aide/architecture_p13_aide.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="452">
+          <caret line="31" column="20" selection-start-line="31" selection-start-column="20" selection-end-line="31" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/architecture/pages/12/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/architecture/pages/8/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="547">
+          <caret line="58" column="52" selection-start-line="58" selection-start-column="52" selection-end-line="58" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/animation/assets/js/functions.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1071" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aide/animation_p3_aide.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="27" column="14" selection-start-line="27" selection-start-column="14" selection-end-line="27" selection-end-column="14" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/animation/pages/1/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-340" />
+        <state relative-caret-position="-649" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/animation/pages/1/script.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/animation/pages/6/slide.html">
+    <entry file="file://$PROJECT_DIR$/animation/pages/4/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1145">
-          <caret line="62" column="18" lean-forward="true" selection-start-line="62" selection-start-column="18" selection-end-line="62" selection-end-column="18" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#section#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#section#2;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#0;n#p#0;n#div#0;n#section#2;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#0;n#p#0;n#div#0;n#section#3;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#0;n#p#0;n#div#0;n#section#4;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#0;n#p#0;n#div#0;n#section#5;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#0;n#p#0;n#div#0;n#section#6;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#0;n#p#0;n#div#0;n#section#7;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#0;n#p#0;n#section#10;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#section#12;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#section#13;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#section#14;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#section#15;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#section#16;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#section#17;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#p#0;n#div#0;n#section#17;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#1;n#p#0;n#div#0;n#section#17;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#section#18;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#section#19;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#section#22;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#section#23;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#section#24;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#section#28;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#section#29;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#section#30;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#section#31;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#section#32;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#section#33;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+        <state relative-caret-position="357">
+          <caret line="93" column="79" selection-start-line="93" selection-start-column="79" selection-end-line="93" selection-end-column="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/animation/pages/5/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="93" column="79" selection-start-line="93" selection-start-column="79" selection-end-line="93" selection-end-column="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/animation/pages/8/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="98" column="79" selection-start-line="98" selection-start-column="79" selection-end-line="98" selection-end-column="79" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/animation/pages/9/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-204">
-          <caret line="70" column="56" selection-start-line="70" selection-start-column="56" selection-end-line="70" selection-end-column="56" />
+        <state relative-caret-position="156">
+          <caret line="98" column="79" selection-start-line="98" selection-start-column="79" selection-end-line="98" selection-end-column="79" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/animation/pages/9/script.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/animation/pages/11/script.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/animation/pages/10/script.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/animation/pages/10/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="110" column="35" selection-start-line="110" selection-start-column="28" selection-end-line="110" selection-end-column="35" />
+        <state relative-caret-position="269">
+          <caret line="98" column="79" selection-start-line="98" selection-start-column="79" selection-end-line="98" selection-end-column="79" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/animation/pages/11/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1700">
-          <caret line="110" column="35" selection-start-line="110" selection-start-column="28" selection-end-line="110" selection-end-column="35" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+        <state relative-caret-position="343">
+          <caret line="98" column="79" selection-start-line="98" selection-start-column="79" selection-end-line="98" selection-end-column="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/animation/pages/12/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="98" column="79" selection-start-line="98" selection-start-column="79" selection-end-line="98" selection-end-column="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/animation/pages/13/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="98" column="79" selection-start-line="98" selection-start-column="79" selection-end-line="98" selection-end-column="79" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/animation/pages/1/slide.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-924">
-          <caret line="145" column="75" lean-forward="true" selection-start-line="145" selection-start-column="75" selection-end-line="145" selection-end-column="75" />
+        <state relative-caret-position="133">
+          <caret line="197" column="117" lean-forward="true" selection-start-line="197" selection-start-column="117" selection-end-line="197" selection-end-column="117" />
+          <folding>
+            <element signature="n#style#0;n#span#0;n#p#0;n#div#0;n#section#4;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#p#0;n#div#0;n#section#6;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#1;n#div#0;n#section#6;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#p#1;n#div#0;n#section#6;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#1;n#p#1;n#div#0;n#section#6;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#p#0;n#div#0;n#section#14;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#1;n#p#0;n#div#0;n#section#14;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/animation/pages/11/blockly.html">
+    <entry file="file://$PROJECT_DIR$/animation/pages/7/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="28" column="12" lean-forward="true" selection-start-line="28" selection-start-column="12" selection-end-line="28" selection-end-column="12" />
+        <state relative-caret-position="238">
+          <caret line="98" column="79" selection-start-line="98" selection-start-column="79" selection-end-line="98" selection-end-column="79" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/animation/pages/3/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="93" column="79" selection-start-line="93" selection-start-column="79" selection-end-line="93" selection-end-column="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/animation/pages/2/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="99" column="41" selection-start-line="99" selection-start-column="41" selection-end-line="99" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/animation/pages/2/blockly.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-204" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/animation/pages/3/blockly.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-255" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aide/animation_p13_aide.md">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/animation/pages/6/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/animation/pages/10/blockly.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-85" />
+        <state relative-caret-position="221">
+          <caret line="31" column="39" lean-forward="true" selection-start-line="31" selection-start-column="39" selection-end-line="31" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/animation/pages/13/blockly.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="24" selection-start-line="24" selection-end-line="24" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/animation/pages/12/blockly.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-204" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aide/animation_p2_aide.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aide/animation_p7_aide.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="3" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aide/animation_p8_aide.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="3" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aide/animation_p9_aide.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="41" column="3" selection-start-line="41" selection-start-column="3" selection-end-line="41" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aide/animation_p10_aide.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="268">
+          <caret line="41" column="3" selection-start-line="41" selection-start-column="3" selection-end-line="41" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aide/animation_p11_aide.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="3" selection-start-line="20" selection-start-column="3" selection-end-line="20" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aide/animation_p12_aide.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
       </provider>
     </entry>
   </component>
