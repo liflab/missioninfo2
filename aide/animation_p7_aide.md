@@ -1,4 +1,6 @@
-# Aide: Anime une figure
+# Aide - Anime une figure
+
+---
 
 Avant de construire l’animation, il faut se demander ce qui va bouger.  
 Est-ce que c’est l’extrémité d’une ligne ou encore la position d’une forme?  
@@ -20,9 +22,9 @@ Voici un exemple de ce à quoi ça doit ressembler :
 
 ## <span style="color: #800080">À ton tour d'essayer</span>
 
-[bloc_init_curseur]: img/animation_init_curseur.png
+[bloc_init_curseur]: img/ini_pr.png
 [bloc_xy]: img/animation_XY.png
-[bloc_pour_image]: img/animation_pour_image.png
-[bloc_pos_curseur]: img/animation_pos_curseur.png
-[bloc_dep_curseur]: img/animation_dep_curseur.png
-[ex_p4]: img/animation_ex_1.png
+[bloc_pour_image]: img/bloc_boucle_images.png
+[bloc_pos_curseur]: img/pr.png
+[bloc_dep_curseur]: img/dep_pr.png
+[ex_p4]: img/ex_1_animation.png

@@ -19,8 +19,8 @@ switch(parseInt(window.location.href.match(new RegExp("[0-9]+", "g")).splice(-1)
         put_in_bucket  = [["Bras ou Main","0"],["Corps", "1"],["Inutile","2"]];
         break;
     case 6:
-        shape_per_page = [["Fusée","rocket"],["Oeil","eye"], ["Outil", "tool"]];
-        put_in_bucket  = [["Fusée rouge", "0"], ["Oeil", "1"], ["Inutile", "2"]];
+        shape_per_page = [["Fusée","rocket"],["Yeux","eye"], ["Outil", "tool"]];
+        put_in_bucket  = [["Fusée rouge", "0"], ["Yeux", "1"], ["Inutile", "2"]];
     break;
     case 7:
         shape_per_page = [["Bras","arm"],["Chapeau","hat"]];

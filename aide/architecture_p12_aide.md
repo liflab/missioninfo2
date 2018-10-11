@@ -1,20 +1,25 @@
-# Aide: Double boucle
+# Aide - Une structure aux bords arrondis
 
-Robotino te donne comme astuce d'utiliser une boucle dans une boucle.<br>
-Tu peux effectivement placer un bloc boucle dans un autre, comme ceci: <br>
-![Double Boucle][dboucle]
+---
 
-Porte une attention particulière au bloc qui est dans l'inventaire: <br>
-![Avancer 3.35][avancer_335]
+Pour réussir cette page, tu dois utiliser une combinaison de lignes droites et d'arcs de cercle.
 
-Ce bloc sert à tracer les lignes des triangles puisqu'elles n'ont pas une longueur régulière. <br>
-Elles mesurent exactement 3,35 unités.
+Il est possible d'utiliser une boucle, mais ce n'est pas obligatoire.
+
+---
 
 # Repère d'indication pour les angles
 ![Repère][repere]<br>
 
+---
+
+N'oublie pas, lorsque tu appuis sur le bouton play, Robotino te montre la solution !
+![Time][time]
+
+---
 
 ## <span style="color: #800080">À ton tour d'essayer</span>
 
-[dboucle]: img/architecture_double_boucle.png
-[avancer_335]: img/architecture_avancer_335.png
+[arc]: img/architecture_arc_de_cercle.png
+[repere]: img/repere.png
+[time]: img/time.png
