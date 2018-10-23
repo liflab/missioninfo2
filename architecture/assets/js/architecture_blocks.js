@@ -55,7 +55,7 @@ switch(parseInt(window.location.href.match(new RegExp("[0-9]+", "g")).splice(-1)
 
             [{ "src": "../../assets/img/angles/90.PNG", "width": largeurImage, "height": hauteurImage, "alt": "90" }, "90"],
             [{ "src": "../../assets/img/angles/26.PNG", "width": largeurImage, "height": hauteurImage, "alt": "26" }, "26.42"],
-            [{ "src": "../../assets/img/angles/64.PNG", "width": largeurImage, "height": hauteurImage, "alt": "64" }, "64"],
+            [{ "src": "../../assets/img/angles/64.PNG", "width": largeurImage, "height": hauteurImage, "alt": "64" }, "63.58"],
             [{ "src": "../../assets/img/angles/180.PNG", "width": largeurImage, "height": hauteurImage, "alt": "180" }, "180"]
         ];
     break;
