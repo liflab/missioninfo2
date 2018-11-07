@@ -3,7 +3,7 @@
 
 ---
 
-####Pour réussir ce niveau, tu dois déboguer le programme qui t'es donné.
+####Pour réussir ce niveau, tu dois déboguer le programme qui t'est donné.
 
 ---
 

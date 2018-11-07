@@ -3,11 +3,11 @@
 
 ---
 
-####Pour réussir ce niveau, tu dois déboguer le programme qui t'es donné.
+####Pour réussir ce niveau, tu dois déboguer le programme qui t'est donné.
 
 ---
 
-Dans le programme qui t'es donné, il y a maintenant des blocs d'opérateur logique utilisés dans les blocs ![bloc_si][bloc_si_] :<br>
+Dans le programme qui t'est donné, il y a maintenant des blocs d'opérateurs logiques utilisés dans les blocs ![bloc_si][bloc_si_] :<br>
 ![bloc_et][bloc_et_]![bloc_ou][bloc_ou_]
 <br><br>
 

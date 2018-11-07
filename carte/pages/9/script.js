@@ -12,7 +12,7 @@ page_map = [
     {row: 5, col: 5, data: {style: "fin", type: 0}},
 ];
 
-MaxBlocks = 9;
+maxBlocks = 9;
 
 infoList = [
     "As-tu pensé à vérifier les consignes ? Pour les consulter, appuie sur le bouton \"info\" !",
@@ -20,8 +20,8 @@ infoList = [
     "As-tu pensé à consulter l'aide ? Pour consulter l'aide, appuie sur le bouton \"aide\" !",
     "As-tu vérifier chacun de tes blocs pour être certain qu'ils respectent un ordre logique ?",
     "As-tu pensé vérifier si ton programme permet de résoudre le problème ?",
-    "As-tu pensé demandé de l'aide à une autre équipe ?",
-    "As-tu pensé demandé à ton enseignant ?",
+    "As-tu pensé demander de l'aide à une autre équipe ?",
+    "As-tu pensé demander à ton enseignant ?",
 ];
 
 function setup() {

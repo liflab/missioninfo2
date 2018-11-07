@@ -1,6 +1,6 @@
 //
 
-popupInfo("Les ordinateurs ne connaissent pas les lettres! Ils utilisent des nombres \n pour coder les lettres comme les agents secrets. Entraine-toi à ecrire \n des messages codés en retrouvant les mots qui correspondent \n au code donné. <tspan style=\"font-weight:bold\">Ecrit les lettres qui correspondent dans la case.</tspan>");
+popupInfo("Les ordinateurs ne connaissent pas les lettres! Ils utilisent des nombres \n pour coder les lettres comme les agents secrets. Entraîne-toi à ecrire \n des messages codés en retrouvant les mots qui correspondent \n au code donné. <tspan style=\"font-weight:bold\">Ecrit les lettres qui correspondent dans la case.</tspan>");
 
 const word_allowed = ["SALUT", "CODAGE", "NOMBRE", "LETTRE", "TU ES UN ROBOT", "MESSAGE", "ORDINATEUR", "PROGRAMME", "BINAIRE", "JE SUIS UN PIRATE"];
 const nb_min_tries = 5;

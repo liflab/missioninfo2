@@ -1,4 +1,4 @@
-popupInfo("Maintenant que nous avons classer les corps, les bras et les mains des\n autres objets, nous pouvons rechercher mes bras, mes mains et mon corps.\nJ'ai un corps bleu, des bras oranges et des mains blanches !\n**Utilises les bloc \"ET\"et \"OU\" et un maximum de trois blocs \"si...faire...\" !**",4);
+popupInfo("Maintenant que nous avons classé les corps, les bras et les mains des\n autres objets, nous pouvons rechercher mes bras, mes mains et mon corps.\nJ'ai un corps bleu, des bras oranges et des mains blanches !\n**Utilises les bloc \"ET\"et \"OU\" et un maximum de trois blocs \"si...faire...\" !**",4);
 
 required_box.push({"name":"OU","value":"||"});
 required_box.push({"name":"ET","value":"&&"});
@@ -26,8 +26,8 @@ infoList =[
     "As-tu pensé regarder si l’objet qui cause le bogue n’est pas classé du tout où s’il est classé dans le mauvais seau ? Cela t’aidera à trouver la solution au bogue.",
     "As-tu vérifier chacun de tes blocs pour être certain qu'ils respectent un ordre logique ?",
     "As-tu pensé vérifier si ton programme permet de résoudre le problème ?",
-    "As-tu pensé demandé de l'aide à une autre équipe ?",
-    "As-tu pensé demandé à ton enseignant ?",
+    "As-tu pensé demander de l'aide à une autre équipe ?",
+    "As-tu pensé demander à ton enseignant ?",
 ];
 
 logicExercise = new LogicSystem(bucketsExercise);

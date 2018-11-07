@@ -1,6 +1,6 @@
 //
 
-popupInfo("Maintenant on va faire le contraire. \n\n <tspan style=\"font-weight:bold\">Entraine-toi à ecrire des messages codés en tapant les nombres</tspan> \n <tspan style=\"font-weight:bold\">qui correspondent au message que tu veux envoyer.</tspan>")
+popupInfo("Maintenant on va faire le contraire. \n\n <tspan style=\"font-weight:bold\">Entraîne-toi à ecrire des messages codés en tapant les nombres</tspan> \n <tspan style=\"font-weight:bold\">qui correspondent au message que tu veux envoyer.</tspan>")
 
 const nb_min_tries = 5;
 var nb_tries = 0;

@@ -3,15 +3,15 @@
 
 ---
 
-####Pour réussir ce niveau, tu dois déboguer le programme qui t'es donné.
+####Pour réussir ce niveau, tu dois déboguer le programme qui t'est donné.
 
 ---
 
-Dans le programme qui t'es donné, il y a maintenant des combinaisons des blocs d'opérateur logique utilisés dans les blocs ![bloc_si][bloc_si_] :<br>
+Dans le programme qui t'est donné, il y a maintenant des combinaisons des blocs d'opérateurs logiques utilisés dans les blocs ![bloc_si][bloc_si_] :<br>
 ![bloc_et_ou][bloc_et_ou_]
 <br><br>
 
-<span style="color:red">Respecte les étapes qui t'ont été donné au niveau 3 mais cette fois, vérifie bien les combinaisons d'opérateurs logiques !</span>
+<span style="color:red">Respecte les étapes qui t'ont été données au niveau 3 mais cette fois, vérifie bien les combinaisons d'opérateurs logiques !</span>
 <br><br>
 Si tu ne te souviens plus des étapes, retourne voir l'aide du niveau 3 !
 

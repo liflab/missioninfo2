@@ -17,8 +17,8 @@ infoList = [
     "As-tu pensé à consulter l'aide ? Pour consulter l'aide, appuie sur le bouton \"aide\" !",
     "As-tu vérifier chacun de tes blocs pour être certain qu'ils respectent un ordre logique ?",
     "As-tu pensé vérifier si ton programme permet de résoudre le problème ?",
-    "As-tu pensé demandé de l'aide à une autre équipe ?",
-    "As-tu pensé demandé à ton enseignant ?",
+    "As-tu pensé demander de l'aide à une autre équipe ?",
+    "As-tu pensé demander à ton enseignant ?",
 ];
 
 function allLoaded() { // À modifier en fonction du nombre de progressions dans l'activité (ajouté 2018-07-1)

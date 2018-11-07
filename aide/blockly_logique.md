@@ -8,7 +8,7 @@ Il faut indiquer la condition (`SI`), ce que le programme doit faire lorsqu'elle
 
 ***
 
-Une condition, c'est un énoncé qui est testé. Il y a deux valeurs possibles: `VRAI` et `FAUX`.
+Une condition, c'est un énoncé qui est testé. Il y a deux conditions possibles: `VRAI` et `FAUX`.
 Voici les blocs que tu peux utiliser pour créer des conditions:
 
 ![Blocs conditions][conditions]

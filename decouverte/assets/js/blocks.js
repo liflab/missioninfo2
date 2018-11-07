@@ -21,7 +21,7 @@ Blockly.Blocks['block_2'] = {
         this.appendDummyInput()
             .appendField("Place-moi");
         this.appendDummyInput()
-            .appendField("En dessous du bloc violet");
+            .appendField("En dessous du bloc bleu");
         this.setPreviousStatement(true, null);
         this.setNextStatement(true, null);
         this.setColour(345);

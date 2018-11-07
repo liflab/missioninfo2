@@ -1,4 +1,4 @@
-popupInfo("\nFait avancer Robotino jusqu’à la case verte.\n **Attention! Tu as le droit à un maximum de 9 blocs.**");
+popupInfo("\nFait avancer Robotino jusqu’à la case verte.\n **Attention! Tu as droit à un maximum de 9 blocs.**");
 
 page_map = [
     {row: 4, col: 2, data: {style: "deb", type: 0}},
@@ -13,7 +13,7 @@ page_map = [
     {row: 7, col: 6, data: {style: "fin", type: 0}},
 ];
 
-MaxBlocks = 9;
+maxBlocks = 9;
 
 infoList = [
     "As-tu pensé à vérifier les consignes ? Pour les consulter, appuie sur le bouton \"info\" !",
@@ -21,8 +21,8 @@ infoList = [
     "As-tu pensé à consulter l'aide ? Pour consulter l'aide, appuie sur le bouton \"aide\" !",
     "As-tu vérifier chacun de tes blocs pour être certain qu'ils respectent un ordre logique ?",
     "As-tu pensé vérifier si ton programme permet de résoudre le problème ?",
-    "As-tu pensé demandé de l'aide à une autre équipe ?",
-    "As-tu pensé demandé à ton enseignant ?",
+    "As-tu pensé demander de l'aide à une autre équipe ?",
+    "As-tu pensé demander à ton enseignant ?",
 ];
 
 function setup() {

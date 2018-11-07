@@ -1,11 +1,11 @@
-popupInfo("Commençons par mon début ! Ma tête !\nTrions les quatre têtes que tu as triés tout à l'heure.\nLa mienne est bleue et arrondie !\n**Utilise le bloc \"ET\" et un maximum de 4 blocs \"Si...Faire...\"!**",4);
+popupInfo("Commençons par mon début ! Ma tête !\nTrions les quatre têtes que tu as triées tout à l'heure.\nLa mienne est bleue et arrondie !\n**Utilise le bloc \"ET\" et un maximum de 4 blocs \"Si...Faire...\"!**",4);
 
 required_box.push({"name":"ET","value":"&&"});
 
 bucketsExercise = {
     elems: [
         new TextShape("Bleu arrondi", "#2223ff"),
-        new TextShape("Bleu oval", "#2223ff"),
+        new TextShape("Bleu ovale", "#2223ff"),
         new TextShape("Gris", "#eeeeee"),
         new TextShape("Beige", "#e0ac69"),
     ],
@@ -25,8 +25,8 @@ infoList =[
     "As-tu pensé regarder si l’objet qui cause le bogue n’est pas classé du tout où s’il est classé dans le mauvais seau ? Cela t’aidera à trouver la solution au bogue.",
     "As-tu vérifier chacun de tes blocs pour être certain qu'ils respectent un ordre logique ?",
     "As-tu pensé vérifier si ton programme permet de résoudre le problème ?",
-    "As-tu pensé demandé de l'aide à une autre équipe ?",
-    "As-tu pensé demandé à ton enseignant ?",
+    "As-tu pensé demander de l'aide à une autre équipe ?",
+    "As-tu pensé demander à ton enseignant ?",
 ];
 
 logicExercise = new LogicSystem(bucketsExercise);

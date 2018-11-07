@@ -16,15 +16,15 @@ switch(parseInt(window.location.href.match(new RegExp("[0-9]+", "g")).splice(-1)
     break;
     case 5:
         shape_per_page = [["Bras", "arm"], ["Main", "hand"], ["Corps", "body"], ["Outil", "tool"], ["Fil", "cable"]];
-        put_in_bucket  = [["Bras ou Main","0"],["Corps", "1"],["Inutile","2"]];
+        put_in_bucket  = [["Bras ou Main","0"],["Corps", "1"],["Inutiles","2"]];
         break;
     case 6:
         shape_per_page = [["Fusée","rocket"],["Yeux","eye"], ["Outil", "tool"]];
-        put_in_bucket  = [["Fusée rouge", "0"], ["Yeux", "1"], ["Inutile", "2"]];
+        put_in_bucket  = [["Fusée rouge", "0"], ["Yeux", "1"], ["Inutiles", "2"]];
     break;
     case 7:
         shape_per_page = [["Bras","arm"],["Chapeau","hat"]];
-        put_in_bucket  = [["Bras bleu", "0"], ["Bras rouge", "1"], ["Inutile", "2"]];
+        put_in_bucket  = [["Bras bleu", "0"], ["Bras rouge", "1"], ["Inutiles", "2"]];
     break;
     case 8:
         shape_per_page = [["Bras", "arm"], ["Main", "hand"], ["Corps", "body"]];
@@ -32,15 +32,15 @@ switch(parseInt(window.location.href.match(new RegExp("[0-9]+", "g")).splice(-1)
     break;
     case 9:
         shape_per_page = [["Oeil", "eye"], ["Chapeau", "hat"]];
-        put_in_bucket  = [["Chapeau ou Oeil","0"],["Autre Oeil","1"],["Autre chapeaux","2"]];
+        put_in_bucket  = [["Chapeau ou Oeil","0"],["Autre Oeil","1"],["Autre chapeau","2"]];
     break;
     case 10:
         shape_per_page = [["Fusée", "prop"], ["Roue", "wheel"], ["Chapeau", "hat"]];
-        put_in_bucket  = [["Roue ou Fusée","0"],["Collection","1"],["Inutile","2"]];
+        put_in_bucket  = [["Roue ou Fusée","0"],["Collection","1"],["Inutiles","2"]];
     break;
     case 11:
         shape_per_page = [["Tête", "head"], ["Oeil", "eye"]];
-        put_in_bucket  = [["Têtes","0"],["Yeux","1"],["Inutile","2"]];
+        put_in_bucket  = [["Têtes","0"],["Yeux","1"],["Inutiles","2"]];
     break;
 
 }
