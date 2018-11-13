@@ -17,6 +17,17 @@
   <component name="ChangeListManager">
     <list default="true" id="47ee82bd-6162-43ee-8cee-452673eb3d62" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aide/img/repere.png" beforeDir="false" afterPath="$PROJECT_DIR$/aide/img/repere.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/architecture/pages/6/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/architecture/pages/6/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/carte/pages/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/carte/pages/1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/carte/pages/12/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/carte/pages/12/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/carte/pages/5/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/carte/pages/5/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codage/pages/1/slide.html" beforeDir="false" afterPath="$PROJECT_DIR$/codage/pages/1/slide.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codage/pages/2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/codage/pages/2/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/decouverte/assets/js/functions.js" beforeDir="false" afterPath="$PROJECT_DIR$/decouverte/assets/js/functions.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/decouverte/pages/4/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/decouverte/pages/4/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/decouverte/pages/4/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/decouverte/pages/4/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logique/pages/9/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/logique/pages/9/script.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -31,81 +42,78 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="slide.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/animation/pages/1/slide.html">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/codage/pages/1/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2465">
-              <caret line="145" column="75" selection-start-line="145" selection-start-column="75" selection-end-line="145" selection-end-column="75" />
+            <state relative-caret-position="478">
+              <caret line="69" column="6" lean-forward="true" selection-start-line="69" selection-start-column="6" selection-end-line="69" selection-end-column="6" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="script.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/animation/pages/11/script.js">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="script.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/animation/pages/10/script.js">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="script.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/animation/pages/9/script.js">
-          <provider selected="true" editor-type-id="text-editor" />
+      <file leaf-file-name="slide.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/codage/pages/1/slide.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="280">
+              <caret line="196" column="49" lean-forward="true" selection-start-line="196" selection-start-column="49" selection-end-line="196" selection-end-column="49" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/animation/pages/10/index.html">
+        <entry file="file://$PROJECT_DIR$/logique/pages/9/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1870">
-              <caret line="110" column="35" selection-start-line="110" selection-start-column="28" selection-end-line="110" selection-end-column="35" />
-            </state>
+            <state relative-caret-position="-1264" />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/architecture/pages/2/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1419" />
           </provider>
         </entry>
       </file>
       <file leaf-file-name="blockly.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/animation/pages/10/blockly.html">
+        <entry file="file://$PROJECT_DIR$/architecture/pages/2/blockly.html">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/architecture/pages/5/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="316">
-              <caret line="41" column="43" selection-start-line="41" selection-start-column="43" selection-end-line="41" selection-end-column="43" />
+            <state relative-caret-position="279">
+              <caret line="99" column="34" selection-start-line="99" selection-start-column="34" selection-end-line="99" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="script.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/architecture/pages/5/script.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-942" />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="script.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/architecture/pages/6/script.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="282">
+              <caret line="47" column="54" lean-forward="true" selection-start-line="47" selection-start-column="54" selection-end-line="47" selection-end-column="54" />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="952">
-              <caret line="67" column="8" selection-start-line="67" selection-start-column="8" selection-end-line="67" selection-end-column="8" />
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/architecture/pages/6/index.html">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file leaf-file-name="blocks.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/logique/assets/js/blocks.js">
+      <file leaf-file-name="script.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/logique/pages/9/script.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-510" />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="architecture_blocks.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/architecture/assets/js/architecture_blocks.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="316" column="2" lean-forward="true" selection-start-line="316" selection-start-column="2" selection-end-line="316" selection-end-column="2" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/animation/pages/11/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1870">
-              <caret line="110" column="35" selection-start-line="110" selection-start-column="28" selection-end-line="110" selection-end-column="35" />
-              <folding>
-                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
+            <state relative-caret-position="306">
+              <caret line="18" column="11" lean-forward="true" selection-start-line="18" selection-start-column="11" selection-end-line="18" selection-end-column="11" />
             </state>
           </provider>
         </entry>
@@ -138,17 +146,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/modules/bootstrap/css/bootstrap.css" />
-        <option value="$PROJECT_DIR$/carte/pages/3/index.html" />
-        <option value="$PROJECT_DIR$/architecture/pages/5/index.html" />
-        <option value="$PROJECT_DIR$/architecture/pages/4/index.html" />
-        <option value="$PROJECT_DIR$/architecture/pages/3/index.html" />
-        <option value="$PROJECT_DIR$/architecture/pages/6/index.html" />
-        <option value="$PROJECT_DIR$/architecture/pages/7/index.html" />
-        <option value="$PROJECT_DIR$/architecture/pages/2/index.html" />
-        <option value="$PROJECT_DIR$/architecture/pages/1/index.html" />
-        <option value="$PROJECT_DIR$/architecture/pages/8/index.html" />
-        <option value="$PROJECT_DIR$/architecture/pages/9/index.html" />
         <option value="$PROJECT_DIR$/architecture/pages/10/index.html" />
         <option value="$PROJECT_DIR$/architecture/pages/11/index.html" />
         <option value="$PROJECT_DIR$/architecture/pages/12/script.js" />
@@ -189,6 +186,17 @@
         <option value="$PROJECT_DIR$/animation/pages/1/slide.html" />
         <option value="$PROJECT_DIR$/animation/pages/6/slide.html" />
         <option value="$PROJECT_DIR$/animation/pages/11/blockly.html" />
+        <option value="$PROJECT_DIR$/decouverte/pages/1/index.html" />
+        <option value="$PROJECT_DIR$/decouverte/pages/4/script.js" />
+        <option value="$PROJECT_DIR$/decouverte/assets/js/functions.js" />
+        <option value="$PROJECT_DIR$/decouverte/pages/4/index.html" />
+        <option value="$PROJECT_DIR$/carte/pages/1/index.html" />
+        <option value="$PROJECT_DIR$/carte/pages/5/index.html" />
+        <option value="$PROJECT_DIR$/carte/pages/12/index.html" />
+        <option value="$PROJECT_DIR$/codage/pages/1/slide.html" />
+        <option value="$PROJECT_DIR$/codage/pages/2/index.html" />
+        <option value="$PROJECT_DIR$/logique/pages/9/script.js" />
+        <option value="$PROJECT_DIR$/architecture/pages/6/script.js" />
       </list>
     </option>
   </component>
@@ -205,7 +213,7 @@
       <path value="$PROJECT_DIR$/modules/reveal/plugin/multiplex/package.json" />
     </packageJsonPaths>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-10" />
     <option name="y" value="-10" />
     <option name="width" value="1940" />
@@ -216,6 +224,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -239,15 +248,7 @@
               <item name="missioninfo" type="462c0819:PsiDirectoryNode" />
               <item name="architecture" type="462c0819:PsiDirectoryNode" />
               <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="img" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="missioninfo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="missioninfo" type="462c0819:PsiDirectoryNode" />
-              <item name="architecture" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="img" type="462c0819:PsiDirectoryNode" />
-              <item name="angles" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="missioninfo" type="b2602c69:ProjectViewProjectNode" />
@@ -256,11 +257,37 @@
               <item name="assets" type="462c0819:PsiDirectoryNode" />
               <item name="js" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="missioninfo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="missioninfo" type="462c0819:PsiDirectoryNode" />
+              <item name="architecture" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="missioninfo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="missioninfo" type="462c0819:PsiDirectoryNode" />
+              <item name="architecture" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+              <item name="2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="missioninfo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="missioninfo" type="462c0819:PsiDirectoryNode" />
+              <item name="architecture" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+              <item name="5" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="missioninfo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="missioninfo" type="462c0819:PsiDirectoryNode" />
+              <item name="architecture" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+              <item name="6" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -308,6 +335,7 @@
       <workItem from="1536792351923" duration="1849000" />
       <workItem from="1537202597997" duration="4855000" />
       <workItem from="1538069889116" duration="1290000" />
+      <workItem from="1542121544932" duration="7172000" />
     </task>
     <task id="LOCAL-00001" summary="Peaufinage de l'interface activité 1 et 2 au complet et progression 1 à 3 de l'activité communique avec le continent.">
       <created>1532548771355</created>
@@ -369,22 +397,22 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="145967000" />
+    <option name="totallyTimeSpent" value="153139000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="936" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1451823" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14508928" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -399,19 +427,19 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="10" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Messages" order="11" />
       <window_info id="Favorites" order="2" side_tool="true" />
     </layout-to-restore>
@@ -440,125 +468,8 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/animation/pages/6/script.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/animation/pages/6/index.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/carte/pages/10/script.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="52" lean-forward="true" selection-start-line="10" selection-start-column="52" selection-end-line="10" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/decouverte/pages/2/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-459" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/decouverte/pages/2/script.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="189" selection-start-column="189" selection-end-column="189" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/aide/decouverte_p4_aide.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="75" selection-start-line="15" selection-start-column="75" selection-end-line="15" selection-end-column="75" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/aide/decouverte_p5_aide.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="106" lean-forward="true" selection-start-line="5" selection-start-column="106" selection-end-line="5" selection-end-column="106" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/decouverte/pages/6/script.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/decouverte/pages/5/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="223">
-          <caret line="63" column="45" lean-forward="true" selection-start-line="63" selection-start-column="45" selection-end-line="63" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/decouverte/pages/6/slide.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="115" column="61" selection-start-line="115" selection-start-column="61" selection-end-line="115" selection-end-column="61" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/decouverte/pages/6/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="72" column="60" selection-start-line="72" selection-start-column="60" selection-end-line="72" selection-end-column="60" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/logique/pages/6/blockly.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/logique/pages/6/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-310" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/logique/pages/6/script.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="4" column="34" selection-start-line="4" selection-start-column="34" selection-end-line="4" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/logique/pages/7/script.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="190" selection-start-column="190" selection-end-column="190" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/logique/pages/11/script.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/architecture/assets/img/angles/64.PNG">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/architecture/assets/img/presentation/tourner1_1.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/architecture/pages/1/slide.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="249">
-          <caret line="243" column="80" selection-start-line="243" selection-start-column="80" selection-end-line="243" selection-end-column="80" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/aide/architecture_p10_aide.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/aide/architecture_p5_aide.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="153">
-            <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/aide/architecture_p10_aide.md" />
+    <entry file="file://$PROJECT_DIR$/aide/architecture_p5_aide.md" />
     <entry file="file://$PROJECT_DIR$/architecture/pages/7/blockly.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -582,24 +493,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/aide/architecture_p7_aide.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/aide/architecture_p9_aide.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="204">
-            <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/aide/architecture_p7_aide.md" />
+    <entry file="file://$PROJECT_DIR$/aide/architecture_p9_aide.md" />
     <entry file="file://$PROJECT_DIR$/architecture/pages/10/script.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -610,14 +505,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/aide/carte_p9_aide.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/aide/carte_p9_aide.md" />
     <entry file="file://$PROJECT_DIR$/architecture/pages/1/script.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -636,21 +524,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/architecture/assets/js/architecture_functions.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6851">
-          <caret line="403" column="1" lean-forward="true" selection-start-line="403" selection-start-column="1" selection-end-line="403" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/aide/architecture_p13_aide.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/aide/architecture_p13_aide.md" />
     <entry file="file://$PROJECT_DIR$/animation/pages/1/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-340" />
@@ -712,13 +586,6 @@
     <entry file="file://$PROJECT_DIR$/animation/pages/10/script.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/animation/pages/10/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1870">
-          <caret line="110" column="35" selection-start-line="110" selection-start-column="28" selection-end-line="110" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/animation/pages/11/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1870">
@@ -729,46 +596,173 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/animation/pages/1/slide.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2465">
-          <caret line="145" column="75" selection-start-line="145" selection-start-column="75" selection-end-line="145" selection-end-column="75" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/animation/pages/11/blockly.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="527">
           <caret line="41" column="22" selection-start-line="41" selection-start-column="22" selection-end-line="41" selection-end-column="22" />
-          <folding>
-            <element signature="n#style#0;n#xml#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/animation/pages/10/blockly.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="316">
+        <state relative-caret-position="697">
           <caret line="41" column="43" selection-start-line="41" selection-start-column="43" selection-end-line="41" selection-end-column="43" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/logique/assets/js/blocks.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/animation/pages/10/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="952">
-          <caret line="67" column="8" selection-start-line="67" selection-start-column="8" selection-end-line="67" selection-end-column="8" />
+        <state relative-caret-position="218">
+          <caret line="110" column="35" selection-start-line="110" selection-start-column="28" selection-end-line="110" selection-end-column="35" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/logique/assets/js/blocks.js">
+    <entry file="file://$PROJECT_DIR$/animation/pages/1/slide.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-510" />
+        <state relative-caret-position="17">
+          <caret line="145" column="75" selection-start-line="145" selection-start-column="75" selection-end-line="145" selection-end-column="75" />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/architecture/assets/js/architecture_blocks.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
-          <caret line="316" column="2" lean-forward="true" selection-start-line="316" selection-start-column="2" selection-end-line="316" selection-end-column="2" />
+          <caret line="316" column="2" selection-start-line="316" selection-start-column="2" selection-end-line="316" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/decouverte/assets/js/functions.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/decouverte/pages/1/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="278">
+          <caret line="52" column="21" lean-forward="true" selection-start-line="52" selection-start-column="21" selection-end-line="52" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/carte/pages/5/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="75" column="32" lean-forward="true" selection-start-line="75" selection-start-column="32" selection-end-line="75" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/carte/pages/12/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="241">
+          <caret line="77" column="18" lean-forward="true" selection-start-line="77" selection-start-column="18" selection-end-line="77" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/carte/pages/1/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="72" column="52" selection-start-line="72" selection-start-column="52" selection-end-line="72" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/decouverte/pages/4/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="58" column="48" lean-forward="true" selection-start-line="58" selection-start-column="48" selection-end-line="58" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/decouverte/pages/4/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="547">
+          <caret line="67" column="8" selection-start-line="67" selection-start-column="8" selection-end-line="67" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codage/pages/1/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="478">
+          <caret line="69" column="6" lean-forward="true" selection-start-line="69" selection-start-column="6" selection-end-line="69" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codage/pages/2/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="107" column="34" selection-start-line="107" selection-start-column="34" selection-end-line="107" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codage/pages/1/slide.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="196" column="49" lean-forward="true" selection-start-line="196" selection-start-column="49" selection-end-line="196" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logique/pages/9/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="11" lean-forward="true" selection-start-line="18" selection-start-column="11" selection-end-line="18" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logique/pages/9/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1264" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/architecture/pages/2/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1419" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/architecture/assets/js/architecture_functions.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="103" column="17" lean-forward="true" selection-start-line="103" selection-start-column="17" selection-end-line="103" selection-end-column="17" />
+          <folding>
+            <element signature="n#style#0;n#button#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/architecture/assets/css/architecture.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/architecture/pages/2/blockly.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/architecture/pages/6/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/architecture/pages/5/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="279">
+          <caret line="99" column="34" selection-start-line="99" selection-start-column="34" selection-end-line="99" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/architecture/pages/5/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-942" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/architecture/pages/6/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="282">
+          <caret line="47" column="54" lean-forward="true" selection-start-line="47" selection-start-column="54" selection-end-line="47" selection-end-column="54" />
         </state>
       </provider>
     </entry>
