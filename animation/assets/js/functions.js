@@ -25,7 +25,7 @@ var current_time = 0;
 var play_show = true;
 var time_max = 16;
 var timer_interval;
-const TIME_BETWEEN_INTERVAL = 1000;
+const TIME_BETWEEN_INTERVAL = 1500;
 var todo_step = null;
 var current_step = null;
 
@@ -152,7 +152,7 @@ function Board(listShapes) {
                 }
 
 
-                await sleep(1000*speed);
+                await sleep(1500*speed);
             }
 
 
@@ -160,11 +160,8 @@ function Board(listShapes) {
                 document.getElementById("anim-text").innerHTML = "Temps = 0";
             }
 
-            this.draw(0);
             isPlaying = false;
-            invertButtons();
-            clearInterval(timer_interval);
-            current_time = 0;
+
 
 
         }
@@ -751,7 +748,7 @@ function invertButtons(){
 }
 
 function updateTextRanger(){
-    document.querySelector("#anim-slider-text").innerHTML="Temps = "+document.querySelector("#anim-slider").value;
+    document.querySelector("#anim-text").innerHTML="Temps = "+document.querySelector("#anim-slider").value;
 }
 
 function setRange(n){

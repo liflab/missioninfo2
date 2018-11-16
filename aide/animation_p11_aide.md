@@ -2,7 +2,7 @@
 
 ---
 
-####Ici, tu dois faire bouger deux lignes de façons différentes. Tu ne peux donc pas utiliser la même technique que pour la page précédentes.
+####Ici, tu dois faire bouger deux lignes de façons différente. Tu ne peux donc pas utiliser la même technique que pour la page précédente.
 
 ***
 

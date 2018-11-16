@@ -1,4 +1,4 @@
-popupInfo("Le but est de faire bouger les deux bonhommes ensembles!\nPour cela tu dois faire comme s'il avait que le bonhomme du bas.\n Le curseur avec décalage s'occupera de faire bouger l'autre en même temps.\n Complète le programme avec les blocs manquants.");
+popupInfo("Le but est de faire bouger les deux bonhommes ensemble!\nPour cela tu dois faire comme s'il n'y avait que le bonhomme du bas.\n Le curseur avec décalage s'occupera de faire bouger l'autre en même temps.\n Complète le programme avec les blocs manquants.");
 
 axisWidthLength = 8;
 axisHeightLength = 6;
