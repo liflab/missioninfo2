@@ -1,4 +1,4 @@
-popupInfo("J'ai ma tête et mon corps, mais il me manque mon petit chapeau, \net mes yeux ! Mon chapeau est constitué de petits ronds oranges \net mes yeux sont bleus, retrouves-les !\n**Utilises les blocs \"OU\" et \"ET\" et un maximum de trois blocs \"si...faire\" !**",4);
+popupInfo("J'ai ma tête et mon corps, mais il me manque mon petit chapeau, \net mes yeux ! Mon chapeau est constitué de petits ronds oranges \net mes yeux sont bleus, retrouve-les !\n**Utilises les blocs \"OU\" et \"ET\" et un maximum de trois blocs \"si...faire\" !**",4);
 
 required_box.push({"name":"OU","value":"||"});
 required_box.push({"name":"ET","value":"&&"});

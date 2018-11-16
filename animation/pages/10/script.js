@@ -1,4 +1,4 @@
-popupInfo("Tu dois faire bouger à la fois le bonhomme et le triangle\n (qui lui sert de parapluie)\nPour cela tu dois faire comme la page précédente\n mais tu devra trouver tout seul le décalage!!!");
+popupInfo("Tu dois faire bouger à la fois le bonhomme et le triangle\n (qui lui sert de parapluie).\nPour cela tu dois faire comme la page précédente\n mais tu devras trouver tout seul le décalage!!!");
 
 axisWidthLength = 8;
 axisHeightLength = 6;

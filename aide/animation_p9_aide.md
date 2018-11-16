@@ -8,7 +8,7 @@
 
 Comment faire bouger plusieurs formes dans le même sens?
 
-Tu dois utiliser un seul « point de référence » (![Bloc Init Curseur][bloc_init_curseur]).
+Pour ce niveau, tu n'as besoin que d'un seul « point de référence » (![Bloc Init Curseur][bloc_init_curseur]).
 
 Ce qui veut dire que pour les autres formes, tu vas devoir utiliser ce nouveau bloc :
 ![Bloc position curseur avec décalage][bloc_pos_curseur_offset]

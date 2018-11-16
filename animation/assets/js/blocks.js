@@ -218,7 +218,7 @@ Blockly.Blocks['pour_chaque_image'] = {
         this.appendStatementInput("image")
             .setCheck(null);
         this.setPreviousStatement(true, null);
-        this.setNextStatement(true, null);
+        this.setNextStatement(false, null);
         this.setColour(0);
         this.setTooltip('Execute les blocs pour chaque image');
     }

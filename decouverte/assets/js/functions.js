@@ -1,3 +1,5 @@
+var compteura = 0;
+
 // Function execute when all things are loaded
 function allLoaded() {
     createButtons(9); // nombres de de progressions dans l'activité
