@@ -528,7 +528,7 @@ function formatExerciceCode(obj){
 // PlayTimer
 var current_time = 0;
 var time_max = 16;
-const TIME_BETWEEN_INTERVAL = 500;
+const TIME_BETWEEN_INTERVAL = 1000;
 
 var timer_interval;
 var todo_step = null;

@@ -20,6 +20,8 @@
     <!-- Bootstrap -->
     <!-- Bootstrap core CSS -->
     <link href="../../../modules/bootstrap/css/bootstrap.css" rel="stylesheet">
+    <link href="../../../modules/bootstrap/css/bootstrap.icon-large.min.css" rel="stylesheet">
+
     <!-- Bootstrap core JavaScript -->
     <script src="../../../modules/jquery/jquery.min.js"></script>
     <script src="../../../modules/bootstrap/js/bootstrap.js"></script>
@@ -75,10 +77,10 @@
                             class="btn btn-default"><span
                             class="glyphicon glyphicon-info-sign"></span> INFO
                     </button>
-                    <button onclick="playAnim();" class="btn btn-primary">
-                        <span id="anim-play" class="glyphicon glyphicon-play"></span>
-                        <span id="anim-text" style="margin-left: 5px" class="badge">0</span>
-                    </button>
+                    <!--<button onclick="playAnim();" class="btn btn-primary">-->
+                        <!--<span id="anim-play" class="glyphicon glyphicon-play"></span>-->
+                        <!--<span id="anim-text" style="margin-left: 5px" class="badge">0</span>-->
+                    <!--</button>-->
                 </div>
             </div>
             <div class="col-sm-6 text-center" style="padding-top:1.9vh">
@@ -89,13 +91,16 @@
                 <button type="button" onclick="next_page();" id="btn_next_exercise" style="display: none"
                         class="btn btn-success btn-block"><span class="glyphicon glyphicon-ok"></span> SUIVANT
                 </button>
+                <button type="button" onclick="stopAnim(true);" id="btn_stop_prog"
+                        class="btn btn-warning btn-block hidden"><span class="glyphicon glyphicon-stop"></span> STOP
+                </button>
                 <button type="button" onclick="runCode();" id="btn_run" class="btn btn-success btn-block"><span
                         class="glyphicon glyphicon-play"></span> DEMARRER
                 </button>
-                <button type="button" onclick="saveCode();" class="btn btn-info btn-block"><span
+                <button type="button" onclick="saveCode();" id="btn_save" class="btn btn-info btn-block"><span
                         class="glyphicon glyphicon-save"></span> SAUVEGARDER
                 </button>
-                <button type="button" onclick="reinitBoard();" class="btn btn-danger btn-block"><span
+                <button type="button" onclick="reinitBoard();" id="btn_reinit" class="btn btn-danger btn-block"><span
                         class="glyphicon glyphicon-trash"></span> EFFACER
                 </button>
             </div>
@@ -105,6 +110,17 @@
     <div class="container-fluid" id="bodyPage">
         <div class="row">
             <div class="col-sm-5" id="sketch-col">
+                <div class="range range-primary">
+                    <span class="icon-large icon-turtle"></span>
+                    <input id="speed" type="range" name="range" min="0.01" max="0.99" step="0.01" value="0.01">
+                    <span class="icon-large icon-rabbit"></span>
+                </div>
+                <div class="range range-primary">
+                    <output id="anim-play" onclick="playAnim();"><span class="glyphicon glyphicon-play"></span></output>
+                    <output id="anim-stop" class="hidden" onclick="stopAnim(true);"><span class="glyphicon glyphicon-stop"></span></output>
+                    <input id="anim-slider" type="range" name="range" min="0" value="0">
+                    <output id="anim-text">Temps = 0</output>
+                </div>
                 <div id="sketch-holder"></div>
             </div>
             <div class="col-sm-7">

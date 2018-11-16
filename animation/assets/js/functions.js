@@ -20,6 +20,20 @@ const blendColorEx = 0.8;
 
 var cursors = new Array(NB_CURSORS);
 
+//Play timer
+var current_time = 0;
+var play_show = true;
+var time_max = 16;
+var timer_interval;
+const TIME_BETWEEN_INTERVAL = 1000;
+var todo_step = null;
+var current_step = null;
+
+function updateMaxRange(max){
+    time_max = max;
+    document.querySelector("#anim-slider").setAttribute("max",max);
+}
+
 ////////////////////////////////////////////
 function createBoard() {
     for (let i = 0; i < NB_CURSORS; i++) {
@@ -118,18 +132,17 @@ function Board(listShapes) {
         if (!isPlaying) {
             isPlaying = true;
 
-            if (document.getElementById("anim-play")) {
-                document.getElementById("anim-play").className = "glyphicon glyphicon-pause";
-            }
 
-            await sleep(200);
+            let speed = 1-document.querySelector("#speed").value;
+            updateMaxRange(this.shapes.length - 1);
+            timer_interval = setInterval(__draw,TIME_BETWEEN_INTERVAL*speed);
             for (let i = 0; i < this.shapes.length; i++) {
                 if (!isPlaying) {
                     return;
                 }
 
                 if (document.getElementById("anim-text")) {
-                    document.getElementById("anim-text").innerHTML = i;
+                    document.getElementById("anim-text").innerHTML = "Temps = " + i;
                 }
 
                 this.draw(i);
@@ -138,29 +151,58 @@ function Board(listShapes) {
                     saveCanvas("animation_p" + currentPageNumber + "_" + i, 'png');
                 }
 
-                await sleep(500);
+
+                await sleep(1000*speed);
             }
 
-            await sleep(500);
 
             if (document.getElementById("anim-text")) {
-                document.getElementById("anim-text").innerHTML = "0";
+                document.getElementById("anim-text").innerHTML = "Temps = 0";
             }
 
             this.draw(0);
             isPlaying = false;
+            invertButtons();
+            clearInterval(timer_interval);
+            current_time = 0;
 
-            if (document.getElementById("anim-play")) {
-                document.getElementById("anim-play").className = "glyphicon glyphicon-play";
-            }
+
         }
         else {
             isPlaying = false;
-            if (document.getElementById("anim-play")) {
-                document.getElementById("anim-play").className = "glyphicon glyphicon-play";
-            }
         }
     };
+}
+
+function __draw(){
+    current_time++;
+    setRange(current_time);
+    if(current_time>time_max){
+        stopAnim();
+        return;
+    }
+    current_step = todo_step.shift();
+    if(current_step===undefined){
+        return;
+    }
+    action(current_step);
+}
+
+function stopAnim(b){
+    if(b===undefined) b=false;
+    //debug_generate_code(draw_gen_saved);
+
+    if(isPlaying){
+        isPlaying = false;
+    }
+
+    invertButtons();
+    document.querySelector("#anim-text").value = "Temps = 0";
+    current_time = 0;
+    clearInterval(timer_interval);
+    document.querySelector("#anim-slider").value="0";
+
+    reinitBoard();
 }
 
 /////////////////// Drawing functions & objects
@@ -665,6 +707,7 @@ function checkAnswer() {
 
 function playAnim() {
     let e = window.event;
+    invertButtons();
     if (e.ctrlKey) {
         exBoard.launchAnimation(true);
     }
@@ -682,4 +725,41 @@ function allLoaded() {
     document.getElementById("loader").style.display = "none";
     document.getElementById("page").style.display = "block";
     autoResize();
+}
+
+function invertButtons(){
+    play_show = !play_show;
+
+    console.log("Invert ...");
+    if(play_show){
+        document.querySelector("#anim-play").className="";
+        document.querySelector("#anim-stop").className="hidden";
+
+        document.querySelector("#btn_run").className="btn btn-success btn-block";
+        document.querySelector("#btn_stop_prog").className="btn btn-success btn-block hidden";
+
+        document.querySelector("#btn_reinit").className="btn btn-warning btn-block";
+    }else{
+        document.querySelector("#anim-play").className="hidden";
+        document.querySelector("#anim-stop").className="";
+
+        document.querySelector("#btn_run").className="btn btn-success btn-block hidden";
+        document.querySelector("#btn_stop_prog").className="btn btn-success btn-block";
+        document.querySelector("#btn_reinit").className="btn btn-warning btn-block hidden";
+
+    }
+}
+
+function updateTextRanger(){
+    document.querySelector("#anim-slider-text").innerHTML="Temps = "+document.querySelector("#anim-slider").value;
+}
+
+function setRange(n){
+    var t = document.querySelector("#anim-slider");
+    if(n>time_max){
+        t.value=0;
+    }else{
+        t.value=n;
+    }
+    updateTextRanger();
 }
