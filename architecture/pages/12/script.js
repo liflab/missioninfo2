@@ -10,7 +10,7 @@ var solution_example = [{"type":"crayon_color","value":"#ff0000"},{"type":"boucl
 var Crayon;
 
 popupInfo("\nLa deuxième fondation que tu avais faite, essaie de la modifier.\n" +
-    "Ca pourrait faire un beau jardin, d'avoir des bords arrondis !");
+    "Ça pourrait faire un beau jardin, d'avoir des bords arrondis !");
 //------------------------------------------------//
 ///////////////// Create exercise /////////////////
 var axisWidthLength = 16;

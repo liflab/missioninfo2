@@ -10,7 +10,7 @@ var solution_example = [{"type":"crayon_leve","value":true},{"type":"avancer","v
 var Crayon;
 
 popupInfo("Une fois les murs dressés, un toit arrondi serait plaisant, non ?\n" +
-    "Essaies d'en faire un en utilisant \n" +
+    "Essaie d'en faire un en utilisant \n" +
     "le nouveau bloc \"Dessin d'un Arc de Cercle\".");
 //------------------------------------------------//
 ///////////////// Create exercise /////////////////
